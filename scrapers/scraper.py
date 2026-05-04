@@ -37,6 +37,24 @@ def scrape_and_save():
                         "Bravo": 2.05,
                         "Araz": 1.95,
                         "Oba": None
+                    },
+                    {
+                        "name": "Süd",
+                        "brand": "Alpina",
+                        "details": "1 L",
+                        "features": "3.5% yağlılıq",
+                        "Bravo": 2.15,
+                        "Araz": 2.10,
+                        "Oba": 2.00
+                    },
+                    {
+                        "name": "Süd",
+                        "brand": "Bizim Tarla",
+                        "details": "0.9 L",
+                        "features": "2.5% yağlılıq",
+                        "Bravo": 1.85,
+                        "Araz": 1.80,
+                        "Oba": 1.75
                     }
                 ]
             },
@@ -60,6 +78,15 @@ def scrape_and_save():
                         "Bravo": 0.90,
                         "Araz": 0.85,
                         "Oba": None
+                    },
+                    {
+                        "name": "Kəpəkli çörək",
+                        "brand": "Fidan",
+                        "details": "450 qr",
+                        "features": "Kəpəkli",
+                        "Bravo": 0.70,
+                        "Araz": 0.75,
+                        "Oba": 0.60
                     }
                 ]
             },
@@ -85,6 +112,15 @@ def scrape_and_save():
                         "Oba": 0.75
                     },
                     {
+                        "name": "Su",
+                        "brand": "Badamlı",
+                        "details": "1.5 L",
+                        "features": "Qazsız",
+                        "Bravo": 0.90,
+                        "Araz": 0.85,
+                        "Oba": 0.80
+                    },
+                    {
                         "name": "Qazlı içki",
                         "brand": "Coca-Cola",
                         "details": "1 L",
@@ -101,6 +137,15 @@ def scrape_and_save():
                         "Bravo": 1.60,
                         "Araz": 1.65,
                         "Oba": 1.45
+                    },
+                    {
+                        "name": "Qazlı içki",
+                        "brand": "Pepsi",
+                        "details": "1 L",
+                        "features": "Şəkərli",
+                        "Bravo": 1.45,
+                        "Araz": 1.50,
+                        "Oba": 1.35
                     }
                 ]
             },
@@ -124,6 +169,24 @@ def scrape_and_save():
                         "Bravo": 3.40,
                         "Araz": 3.50,
                         "Oba": None
+                    },
+                    {
+                        "name": "Bitki yağı",
+                        "brand": "Məryəm",
+                        "details": "1 L",
+                        "features": "Günəbaxan",
+                        "Bravo": 3.10,
+                        "Araz": 3.15,
+                        "Oba": 3.00
+                    },
+                    {
+                        "name": "Düyü",
+                        "brand": "Bizim Tarla",
+                        "details": "1 kq",
+                        "features": "Ağ düyü",
+                        "Bravo": 2.20,
+                        "Araz": 2.25,
+                        "Oba": 2.10
                     }
                 ]
             }
