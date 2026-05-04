@@ -1,4 +1,4 @@
-# 🛒 QİYMƏTMÜQAYİSƏ
+MƏTMÜQAYİSƏ
 
 Azərbaycan supermarketlərindəki ərzaq qiymətlərini müqayisə edən sayt.
 
