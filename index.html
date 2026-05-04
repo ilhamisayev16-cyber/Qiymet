@@ -12,7 +12,8 @@ input{padding:10px;width:100%;margin-bottom:20px}
 table{width:100%;border-collapse:collapse;background:white}
 td,th{padding:10px;border:1px solid #ddd;text-align:center}
 th{background:#222;color:white}
-.best{background:#d4edda}
+.best{background:#d4edda;font-weight:bold}
+small{font-size:12px}
 </style>
 </head>
 
@@ -34,6 +35,9 @@ fetch("data/prices.json")
   DATA=d;
   document.getElementById("date").innerText="Son yenilənmə: "+d.last_updated;
   render();
+})
+.catch(()=>{
+  document.getElementById("table").innerHTML="❌ Data yüklənmədi";
 });
 
 function groupProducts(){
@@ -75,18 +79,33 @@ function render(){
   let html="<table><tr><th>Məhsul</th><th>Bravo</th><th>Neptun</th><th>OBA</th></tr>";
 
   groups.forEach(g=>{
-    const prices = Object.values(g.prices);
-    const min = Math.min(...prices);
+
+    // ən ucuz mağaza
+    let cheapestStore = "";
+    let cheapestPrice = Infinity;
+
+    for(let s in g.prices){
+      if(g.prices[s] < cheapestPrice){
+        cheapestPrice = g.prices[s];
+        cheapestStore = s;
+      }
+    }
 
     html+="<tr>";
-    html+=`<td>${g.name}</td>`;
+
+    // məhsul + info
+    html+=`<td>
+      ${g.name}<br>
+      <small style="color:green">★ Ən ucuz: ${cheapestStore} - ₼${cheapestPrice}</small>
+    </td>`;
 
     ["Bravo","Neptun","OBA"].forEach(s=>{
       const p=g.prices[s];
+
       if(!p){
         html+="<td>-</td>";
       } else {
-        html+=`<td class="${p===min?'best':''}">₼${p}</td>`;
+        html+=`<td class="${p===cheapestPrice?'best':''}">₼${p}</td>`;
       }
     });
 
