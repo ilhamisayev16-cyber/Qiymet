@@ -1,85 +1,103 @@
 <!DOCTYPE html>
 <html lang="az">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Qiymət Müqayisəsi</title>
-    <style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 20px;
-        }
-        th, td {
-            border: 1px solid #ddd;
-            padding: 10px;
-            text-align: left;
-        }
-        th {
-            background-color: #f4f4f4;
-        }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Qiymət Müqayisə</title>
+
+<style>
+body{font-family:Arial;background:#f5f5f5;padding:20px}
+h1{margin-bottom:10px}
+input{padding:10px;width:100%;margin-bottom:20px}
+table{width:100%;border-collapse:collapse;background:white}
+td,th{padding:10px;border:1px solid #ddd;text-align:center}
+th{background:#222;color:white}
+.best{background:#d4edda}
+</style>
 </head>
+
 <body>
 
-    <h2>Market Qiymətləri</h2>
-    <p>Son yenilənmə tarixi: <span id="last-updated">Yüklənir...</span></p>
+<h1>🛒 Qiymət Müqayisə</h1>
+<p id="date"></p>
 
-    <table>
-        <thead>
-            <tr>
-                <th>Adı</th>
-                <th>Marka</th>
-                <th>Xüsusiyyətlər</th>
-                <th>Bravo</th>
-                <th>Araz</th>
-                <th>Oba</th>
-            </tr>
-        </thead>
-        <tbody id="price-table">
-            </tbody>
-    </table>
+<input id="search" placeholder="Axtar..." oninput="render()">
 
-    <script>
-        // Məlumatları çəkən və cədvələ yazan skript
-        fetch('data/prices.json')
-            .then(response => response.json())
-            .then(data => {
-                // Son yenilənmə tarixini ekrana yazdırırıq
-                const lastUpdatedElement = document.getElementById('last-updated');
-                if (lastUpdatedElement) {
-                    lastUpdatedElement.textContent = data.last_updated;
-                }
+<div id="table"></div>
 
-                const tableBody = document.getElementById('price-table'); 
-                tableBody.innerHTML = ''; 
-                
-                // Hər bir kateqoriyanı dövrə salırıq
-                data.categories.forEach(categoryGroup => {
-                    // Kateqoriya başlığı üçün sətr əlavə edirik
-                    const headerRow = `<tr>
-                        <td colspan="6" style="font-weight: bold; background-color: #f1f5f9; text-align: left;">
-                            ${categoryGroup.category}
-                        </td>
-                    </tr>`;
-                    tableBody.innerHTML += headerRow;
-                    
-                    // Həmin kateqoriyadakı məhsulları dövrə salırıq
-                    categoryGroup.products.forEach(item => {
-                        const row = `<tr>
-                            <td>${item.name}</td>
-                            <td>${item.brand}</td>
-                            <td>${item.details} | ${item.features}</td>
-                            <td>${item.Bravo !== null ? item.Bravo + ' AZN' : '-'}</td>
-                            <td>${item.Araz !== null ? item.Araz + ' AZN' : '-'}</td>
-                            <td>${item.Oba !== null ? item.Oba + ' AZN' : '-'}</td>
-                        </tr>`;
-                        tableBody.innerHTML += row;
-                    });
-                });
-            })
-            .catch(error => console.error('Xəta baş verdi:', error));
-    </script>
+<script>
+let DATA=null;
+
+fetch("data/prices.json")
+.then(r=>r.json())
+.then(d=>{
+  DATA=d;
+  document.getElementById("date").innerText="Son yenilənmə: "+d.last_updated;
+  render();
+});
+
+function groupProducts(){
+  let all=[];
+
+  for(let store in DATA.stores){
+    DATA.stores[store].forEach(p=>{
+      all.push({...p,store});
+    });
+  }
+
+  let groups=[];
+
+  all.forEach(item=>{
+    let found = groups.find(g => g.norm === item.norm);
+
+    if(!found){
+      found = {name:item.name,norm:item.norm,prices:{}};
+      groups.push(found);
+    }
+
+    found.prices[item.store]=item.price;
+  });
+
+  return groups;
+}
+
+function render(){
+  if(!DATA) return;
+
+  const q=document.getElementById("search").value.toLowerCase();
+
+  let groups = groupProducts();
+
+  if(q){
+    groups = groups.filter(g => g.name.toLowerCase().includes(q));
+  }
+
+  let html="<table><tr><th>Məhsul</th><th>Bravo</th><th>Neptun</th><th>OBA</th></tr>";
+
+  groups.forEach(g=>{
+    const prices = Object.values(g.prices);
+    const min = Math.min(...prices);
+
+    html+="<tr>";
+    html+=`<td>${g.name}</td>`;
+
+    ["Bravo","Neptun","OBA"].forEach(s=>{
+      const p=g.prices[s];
+      if(!p){
+        html+="<td>-</td>";
+      } else {
+        html+=`<td class="${p===min?'best':''}">₼${p}</td>`;
+      }
+    });
+
+    html+="</tr>";
+  });
+
+  html+="</table>";
+
+  document.getElementById("table").innerHTML=html;
+}
+</script>
 
 </body>
 </html>
