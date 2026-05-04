@@ -28,7 +28,6 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/prices.json
           
-          # Dəyişiklikləri yoxlayıb commit və push edirik
           if git diff --staged --quiet; then
             echo "Heç bir dəyişiklik yoxdur, proses dayandırılır."
           else
