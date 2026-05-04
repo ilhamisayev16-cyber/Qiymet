@@ -1,31 +1,85 @@
-fetch('data/prices.json')
-    .then(response => response.json())
-    .then(data => {
-        const tableBody = document.getElementById('price-table'); 
-        tableBody.innerHTML = ''; 
-        
-        // Hər bir kateqoriyanı dövrə salırıq
-        data.categories.forEach(categoryGroup => {
-            // Kateqoriya başlığı üçün sətr əlavə edirik
-            const headerRow = `<tr>
-                <td colspan="6" style="font-weight: bold; background-color: #f1f5f9; text-align: left;">
-                    ${categoryGroup.category}
-                </td>
-            </tr>`;
-            tableBody.innerHTML += headerRow;
-            
-            // Həmin kateqoriyadakı məhsulları dövrə salırıq
-            categoryGroup.products.forEach(item => {
-                const row = `<tr>
-                    <td>${item.name}</td>
-                    <td>${item.brand}</td>
-                    <td>${item.details} | ${item.features}</td>
-                    <td>${item.Bravo !== null ? item.Bravo + ' AZN' : '-'}</td>
-                    <td>${item.Araz !== null ? item.Araz + ' AZN' : '-'}</td>
-                    <td>${item.Oba !== null ? item.Oba + ' AZN' : '-'}</td>
-                </tr>`;
-                tableBody.innerHTML += row;
-            });
-        });
-    })
-    .catch(error => console.error('Xəta baş verdi:', error));
+<!DOCTYPE html>
+<html lang="az">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Qiymət Müqayisəsi</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Market Qiymətləri</h2>
+    <p>Son yenilənmə tarixi: <span id="last-updated">Yüklənir...</span></p>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Adı</th>
+                <th>Marka</th>
+                <th>Xüsusiyyətlər</th>
+                <th>Bravo</th>
+                <th>Araz</th>
+                <th>Oba</th>
+            </tr>
+        </thead>
+        <tbody id="price-table">
+            </tbody>
+    </table>
+
+    <script>
+        // Məlumatları çəkən və cədvələ yazan skript
+        fetch('data/prices.json')
+            .then(response => response.json())
+            .then(data => {
+                // Son yenilənmə tarixini ekrana yazdırırıq
+                const lastUpdatedElement = document.getElementById('last-updated');
+                if (lastUpdatedElement) {
+                    lastUpdatedElement.textContent = data.last_updated;
+                }
+
+                const tableBody = document.getElementById('price-table'); 
+                tableBody.innerHTML = ''; 
+                
+                // Hər bir kateqoriyanı dövrə salırıq
+                data.categories.forEach(categoryGroup => {
+                    // Kateqoriya başlığı üçün sətr əlavə edirik
+                    const headerRow = `<tr>
+                        <td colspan="6" style="font-weight: bold; background-color: #f1f5f9; text-align: left;">
+                            ${categoryGroup.category}
+                        </td>
+                    </tr>`;
+                    tableBody.innerHTML += headerRow;
+                    
+                    // Həmin kateqoriyadakı məhsulları dövrə salırıq
+                    categoryGroup.products.forEach(item => {
+                        const row = `<tr>
+                            <td>${item.name}</td>
+                            <td>${item.brand}</td>
+                            <td>${item.details} | ${item.features}</td>
+                            <td>${item.Bravo !== null ? item.Bravo + ' AZN' : '-'}</td>
+                            <td>${item.Araz !== null ? item.Araz + ' AZN' : '-'}</td>
+                            <td>${item.Oba !== null ? item.Oba + ' AZN' : '-'}</td>
+                        </tr>`;
+                        tableBody.innerHTML += row;
+                    });
+                });
+            })
+            .catch(error => console.error('Xəta baş verdi:', error));
+    </script>
+
+</body>
+</html>
