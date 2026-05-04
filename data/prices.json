@@ -1,8 +1,8 @@
 {
-    "last_updated": "04.05.2026 14:53",
+    "last_updated": "04.05.2026 15:13",
     "categories": [
         {
-            "category": "Süd",
+            "category": "Süd və Süd məhsulları",
             "products": [
                 {
                     "name": "Süd",
@@ -15,71 +15,12 @@
                 },
                 {
                     "name": "Süd",
-                    "brand": "Milla",
-                    "details": "1 L",
-                    "features": "1.5% yağlılıq",
-                    "Bravo": 1.8,
-                    "Araz": 1.95,
-                    "Oba": 1.7
-                },
-                {
-                    "name": "Süd",
                     "brand": "AzərSüd",
                     "details": "1 L",
                     "features": "3.2% yağlılıq",
                     "Bravo": 2.05,
                     "Araz": 1.95,
                     "Oba": null
-                },
-                {
-                    "name": "Süd",
-                    "brand": "Alpina",
-                    "details": "1 L",
-                    "features": "3.5% yağlılıq",
-                    "Bravo": 2.15,
-                    "Araz": 2.1,
-                    "Oba": 2.0
-                },
-                {
-                    "name": "Süd",
-                    "brand": "Bizim Tarla",
-                    "details": "0.9 L",
-                    "features": "2.5% yağlılıq",
-                    "Bravo": 1.85,
-                    "Araz": 1.8,
-                    "Oba": 1.75
-                }
-            ]
-        },
-        {
-            "category": "Çörək",
-            "products": [
-                {
-                    "name": "Zavod çörəyi",
-                    "brand": "Standart",
-                    "details": "500 qr",
-                    "features": "Ağ un",
-                    "Bravo": 0.65,
-                    "Araz": 0.65,
-                    "Oba": 0.5
-                },
-                {
-                    "name": "Təndir çörəyi",
-                    "brand": "Ənənəvi",
-                    "details": "600 qr",
-                    "features": "İsti",
-                    "Bravo": 0.9,
-                    "Araz": 0.85,
-                    "Oba": null
-                },
-                {
-                    "name": "Kəpəkli çörək",
-                    "brand": "Fidan",
-                    "details": "450 qr",
-                    "features": "Kəpəkli",
-                    "Bravo": 0.7,
-                    "Araz": 0.75,
-                    "Oba": 0.6
                 }
             ]
         },
@@ -94,92 +35,6 @@
                     "Bravo": 0.8,
                     "Araz": 0.75,
                     "Oba": 0.7
-                },
-                {
-                    "name": "Su",
-                    "brand": "Sirab",
-                    "details": "1.5 L",
-                    "features": "Qazlı",
-                    "Bravo": 0.85,
-                    "Araz": 0.8,
-                    "Oba": 0.75
-                },
-                {
-                    "name": "Su",
-                    "brand": "Badamlı",
-                    "details": "1.5 L",
-                    "features": "Qazsız",
-                    "Bravo": 0.9,
-                    "Araz": 0.85,
-                    "Oba": 0.8
-                },
-                {
-                    "name": "Qazlı içki",
-                    "brand": "Coca-Cola",
-                    "details": "1 L",
-                    "features": "Şəkərli",
-                    "Bravo": 1.5,
-                    "Araz": 1.55,
-                    "Oba": 1.4
-                },
-                {
-                    "name": "Qazlı içki",
-                    "brand": "Coca-Cola",
-                    "details": "1 L",
-                    "features": "Zero",
-                    "Bravo": 1.6,
-                    "Araz": 1.65,
-                    "Oba": 1.45
-                },
-                {
-                    "name": "Qazlı içki",
-                    "brand": "Pepsi",
-                    "details": "1 L",
-                    "features": "Şəkərli",
-                    "Bravo": 1.45,
-                    "Araz": 1.5,
-                    "Oba": 1.35
-                }
-            ]
-        },
-        {
-            "category": "Əsas ərzaqlar",
-            "products": [
-                {
-                    "name": "Şəkər tozu",
-                    "brand": "Azərşəkər",
-                    "details": "1 kq",
-                    "features": "Ağ şəkər",
-                    "Bravo": 1.5,
-                    "Araz": 1.45,
-                    "Oba": 1.35
-                },
-                {
-                    "name": "Bitki yağı",
-                    "brand": "Zeytun Bağları",
-                    "details": "1 L",
-                    "features": "Qarğıdalı",
-                    "Bravo": 3.4,
-                    "Araz": 3.5,
-                    "Oba": null
-                },
-                {
-                    "name": "Bitki yağı",
-                    "brand": "Məryəm",
-                    "details": "1 L",
-                    "features": "Günəbaxan",
-                    "Bravo": 3.1,
-                    "Araz": 3.15,
-                    "Oba": 3.0
-                },
-                {
-                    "name": "Düyü",
-                    "brand": "Bizim Tarla",
-                    "details": "1 kq",
-                    "features": "Ağ düyü",
-                    "Bravo": 2.2,
-                    "Araz": 2.25,
-                    "Oba": 2.1
                 }
             ]
         }
