@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Qiymətlər - Budcəm.az</title>
+    <title>Market Qiymətləri - Müqayisə</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body { background-color: #f8f9fa; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding-top: 30px; }
@@ -11,25 +11,24 @@
         h1 { color: #2c3e50; font-weight: 700; }
         .update-time { font-size: 0.9rem; color: #7f8c8d; margin-bottom: 25px; }
         .table th { background-color: #34495e; color: #ffffff; }
-        .error-message { color: #e74c3c; font-weight: bold; text-align: center; margin-top: 20px; }
+        .market-price { font-weight: 600; font-size: 1.1rem; }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1 class="text-center mb-3">🛒 Market Qiymətləri</h1>
+        <h1 class="text-center mb-3">🛒 Market Qiymətlərinin Müqayisəsi</h1>
         <div class="text-center update-time" id="last-updated">Yenilənir...</div>
         
-        <div id="error-message" class="error-message"></div>
-        
         <div class="table-responsive">
-            <table class="table table-bordered table-hover align-middle" id="price-table" style="display: none;">
+            <table class="table table-bordered table-hover align-middle">
                 <thead class="text-center">
                     <tr>
                         <th>Məhsul</th>
+                        <th>Brend</th>
+                        <th>Göstərici / Həcm</th>
                         <th>Bravo</th>
-                        <th>Neptun</th>
-                        <th>Rahat</th>
-                        <th>OBA</th>
+                        <th>Araz</th>
+                        <th>Oba</th>
                     </tr>
                 </thead>
                 <tbody id="table-body">
@@ -41,50 +40,31 @@
     <script>
         async function loadPrices() {
             try {
-                // Keçidin qarşısını almaq üçün təsadüfi parametr əlavə edirik (?t=...)
+                // Keçidin qarşısını almaq üçün təsadüfi parametr əlavə edirik
                 const response = await fetch('data/prices.json?t=' + new Date().getTime());
-                
-                if (!response.ok) {
-                    throw new Error('Fayl tapılmadı. Status: ' + response.status);
-                }
-                
                 const data = await response.json();
                 
                 document.getElementById('last-updated').textContent = "Son yenilənmə: " + (data.last_updated || 'Məlumat yoxdur');
                 
                 const tableBody = document.getElementById('table-body');
-                const table = document.getElementById('price-table');
-                
-                table.style.display = 'table';
                 tableBody.innerHTML = '';
                 
-                // Məlumatları cədvələ əlavə edirik
-                for (const catKey in data.categories) {
-                    const category = data.categories[catKey];
+                data.items.forEach(item => {
                     const row = document.createElement('tr');
                     
-                    let rowHtml = `<td class="fw-bold">${category.name}</td>`;
-                    
-                    ['Bravo', 'Neptun', 'Rahat', 'OBA'].forEach(store => {
-                        const storeItems = category.stores[store];
-                        if (storeItems && storeItems.length > 0) {
-                            const item = storeItems[0];
-                            rowHtml += `<td>
-                                <div class="fw-semibold">${item.price} ₼</div>
-                                <small class="text-muted">${item.name}</small>
-                            </td>`;
-                        } else {
-                            rowHtml += `<td class="text-muted text-center">-</td>`;
-                        }
-                    });
-                    
-                    row.innerHTML = rowHtml;
+                    row.innerHTML = `
+                        <td><strong>${item.category}</strong></td>
+                        <td>${item.brand}</td>
+                        <td class="text-muted">${item.details}</td>
+                        <td class="text-center market-price">${item.Bravo ? item.Bravo + ' ₼' : '-'}</td>
+                        <td class="text-center market-price">${item.Araz ? item.Araz + ' ₼' : '-'}</td>
+                        <td class="text-center market-price">${item.Oba ? item.Oba + ' ₼' : '-'}</td>
+                    `;
                     tableBody.appendChild(row);
-                }
+                });
             } catch (error) {
                 console.error('Xəta baş verdi:', error);
-                document.getElementById('error-message').textContent = "❌ Qiymətlər yüklənə bilmədi. Xəta: " + error.message;
-                document.getElementById('price-table').style.display = 'none';
+                document.getElementById('table-body').innerHTML = `<tr><td colspan="6" class="text-center text-danger">Məlumatlar yüklənə bilmədi.</td></tr>`;
             }
         }
 
