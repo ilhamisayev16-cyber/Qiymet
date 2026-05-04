@@ -5,9 +5,9 @@
             "category": "Süd",
             "brand": "Milla",
             "details": "1 L, 2.5%",
-            "Bravo": 1.90,
-            "Araz": 2.10,
-            "Oba": 1.80
+            "Bravo": 1.9,
+            "Araz": 2.1,
+            "Oba": 1.8
         },
         {
             "category": "Süd",
@@ -15,22 +15,6 @@
             "details": "1 L, 3.2%",
             "Bravo": 2.05,
             "Araz": 1.95,
-            "Oba": null
-        },
-        {
-            "category": "Şəkər tozu",
-            "brand": "Azərşəkər",
-            "details": "1 kq",
-            "Bravo": 1.50,
-            "Araz": 1.45,
-            "Oba": 1.35
-        },
-        {
-            "category": "Bitki yağı",
-            "brand": "Zeytun Bağları",
-            "details": "1 L",
-            "Bravo": 3.40,
-            "Araz": 3.50,
             "Oba": null
         }
     ]
