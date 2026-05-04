@@ -3,9 +3,7 @@ import os
 from datetime import datetime
 
 def scrape_and_save():
-    # Burada istədiyiniz API və ya saytdan (məsələn, Wolt və ya digər mənbələrdən) məlumatları çəkə bilərsiniz.
-    # Nümunə olaraq API-dən və ya hər hansı mənbədən gələn məlumatları struktura salırıq:
-    
+    # Tarixi avtomatik yeniləyirik
     current_time = datetime.now().strftime("%d.%m.%Y %H:%M")
     
     data = {
@@ -26,6 +24,30 @@ def scrape_and_save():
                 "Bravo": 2.05,
                 "Araz": 1.95,
                 "Oba": None
+            },
+            {
+                "category": "Çörək",
+                "brand": "Zavod",
+                "details": "500 qr",
+                "Bravo": 0.65,
+                "Araz": 0.65,
+                "Oba": 0.50
+            },
+            {
+                "category": "Su (Qazsız)",
+                "brand": "Sirab",
+                "details": "1.5 L",
+                "Bravo": 0.80,
+                "Araz": 0.75,
+                "Oba": 0.70
+            },
+            {
+                "category": "Qazlı içki",
+                "brand": "Coca-Cola",
+                "details": "1 L",
+                "Bravo": 1.50,
+                "Araz": 1.55,
+                "Oba": 1.40
             },
             {
                 "category": "Şəkər tozu",
@@ -49,7 +71,6 @@ def scrape_and_save():
     # Faylın saxlanacağı qovluğu yaradırıq
     os.makedirs("data", exist_ok=True)
     
-    # prices.json faylını yeniləyirik
     file_path = os.path.join("data", "prices.json")
     with open(file_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
