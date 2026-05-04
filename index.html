@@ -42,7 +42,7 @@
         async function loadPrices() {
             try {
                 // Keçidin qarşısını almaq üçün təsadüfi parametr əlavə edirik (?t=...)
-                const response = await fetch('./data/prices.json?t=' + new Date().getTime());
+                const response = await fetch('data/prices.json?t=' + new Date().getTime());
                 
                 if (!response.ok) {
                     throw new Error('Fayl tapılmadı. Status: ' + response.status);
