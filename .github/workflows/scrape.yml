@@ -3,13 +3,13 @@ name: Scrape Prices Daily
 on:
   schedule:
     - cron: '0 8 * * *' # Hər gün saat 08:00-da işə düşür
-  workflow_dispatch: # Əl ilə işə salmaq üçün düymə
+  workflow_dispatch: # Əl ilə işə salmaq üçün
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # İcazələri açırıq
+      contents: write # İcazələrin verilməsi
       id-token: write
     steps:
       - uses: actions/checkout@v4
@@ -26,13 +26,12 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git add data/prices.json
           
-          # Dəyişiklikləri yoxlayıb commit və push edir
-          if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "Avtomatik yenilənmiş qiymətlər"
-            git push origin HEAD
+          # Dəyişiklikləri yoxlayıb commit və push edirik
+          if git diff --staged --quiet; then
+            echo "Heç bir dəyişiklik yoxdur, proses dayandırılır."
           else
-            echo "Heç bir dəyişiklik yoxdur."
+            git commit -m "Avtomatik yenilənmiş qiymətlər"
+            git push origin HEAD:${{ github.ref_name }}
           fi
