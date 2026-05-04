@@ -1,11 +1,24 @@
 import json
 import os
+import requests
 from datetime import datetime
 
 def scrape_and_save():
-    # Tarixi avtomatik yeniləyirik
     current_time = datetime.now().strftime("%d.%m.%Y %H:%M")
     
+    # Qeyd: Əgər məlumatları kənar bir API-dən və ya veb-səhifədən çəkirsinizsə, 
+    # aşağıdakı hissədə həmin ünvanı qeyd edə bilərsiniz.
+    """
+    try:
+        url = "https://market-api-unvaniniz.com/api/v1/prices"
+        response = requests.get(url, timeout=10)
+        response.raise_for_status()
+        data = response.json()
+    except Exception as e:
+        print(f"API-dən məlumat çəkilərkən xəta baş verdi: {e}")
+    """
+    
+    # Avtomatik formalaşan baza strukturu:
     data = {
         "last_updated": current_time,
         "items": [
