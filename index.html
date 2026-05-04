@@ -1,128 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Qiymətlər</h2>
+<div id="data"></div>
+
 <script>
-let DATA=null;
+fetch("prices.json")
+  .then(r => r.json())
+  .then(data => {
+    let html = "";
 
-fetch("data/prices.json")
-.then(r=>r.json())
-.then(d=>{
-  DATA=d;
-  document.getElementById("date").innerText="Son yenilənmə: "+d.last_updated;
-  render();
-})
-.catch(()=>{
-  document.getElementById("table").innerHTML="❌ Data yüklənmədi";
-});
-
-// məhsulları group edir
-function groupProducts(stores){
-  let all=[];
-
-  for(let store in stores){
-    (stores[store] || []).forEach(p=>{
-      all.push({...p,store});
-    });
-  }
-
-  let groups=[];
-
-  all.forEach(item=>{
-    let found = groups.find(g => g.norm === item.norm);
-
-    if(!found){
-      found = {name:item.name,norm:item.norm,prices:{}};
-      groups.push(found);
+    for (let store in data) {
+      html += `<p>${store}: ${data[store].price} AZN</p>`;
     }
 
-    found.prices[item.store]=item.price;
+    document.getElementById("data").innerHTML = html;
   });
-
-  return groups;
-}
-
-// kateqoriya üzrə ən ucuzlar
-function renderBest(groups){
-  let html="<h3>⭐ Kateqoriya üzrə ən ucuzlar</h3>";
-  html+="<ul>";
-
-  groups.forEach(g=>{
-    const prices = Object.entries(g.prices);
-    if(!prices.length) return;
-
-    let min = Infinity;
-    let store = "";
-
-    prices.forEach(([s,p])=>{
-      if(p < min){
-        min = p;
-        store = s;
-      }
-    });
-
-    html+=`<li>${g.name} → <b>${store}</b> (₼${min})</li>`;
-  });
-
-  html+="</ul>";
-
-  return html;
-}
-
-function render(){
-  if(!DATA) return;
-
-  const q=document.getElementById("search").value.toLowerCase();
-  let html="";
-
-  Object.values(DATA.categories).forEach(cat=>{
-
-    let groups = groupProducts(cat.stores);
-
-    if(q){
-      groups = groups.filter(g => g.name.toLowerCase().includes(q));
-    }
-
-    if(!groups.length) return;
-
-    // ƏN UCUZ BLOK
-    html+=renderBest(groups);
-
-    // TABLE
-    html+=`<h2>${cat.name}</h2>`;
-    html+="<table><tr><th>Məhsul</th><th>Bravo</th><th>Neptun</th><th>OBA</th></tr>";
-
-    groups.forEach(g=>{
-
-      let cheapestStore="";
-      let cheapestPrice=Infinity;
-
-      for(let s in g.prices){
-        if(g.prices[s] < cheapestPrice){
-          cheapestPrice = g.prices[s];
-          cheapestStore = s;
-        }
-      }
-
-      html+="<tr>";
-
-      html+=`<td>
-        ${g.name}<br>
-        <small style="color:green">★ ${cheapestStore} - ₼${cheapestPrice}</small>
-      </td>`;
-
-      ["Bravo","Neptun","OBA"].forEach(s=>{
-        const p=g.prices[s];
-
-        if(!p){
-          html+="<td>-</td>";
-        } else {
-          html+=`<td class="${p===cheapestPrice?'best':''}">₼${p}</td>`;
-        }
-      });
-
-      html+="</tr>";
-    });
-
-    html+="</table><br>";
-  });
-
-  document.getElementById("table").innerHTML=html || "Heç nə tapılmadı";
-}
 </script>
+
+</body>
+</html>
