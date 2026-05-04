@@ -1,5 +1,5 @@
 {
-    "last_updated": "04.05.2026 15:35",
+    "last_updated": "04.05.2026 15:36",
     "categories": [
         {
             "category": "Süd və Süd məhsulları",
@@ -7,8 +7,7 @@
                 {
                     "name": "Süd",
                     "brand": "Milla",
-                    "details": "1 L",
-                    "features": "2.5% yağlılıq",
+                    "details": "1 L | 2.5%",
                     "Bravo": 1.9,
                     "Araz": 2.1,
                     "Oba": 1.8
@@ -16,11 +15,10 @@
                 {
                     "name": "Süd",
                     "brand": "AzərSüd",
-                    "details": "1 L",
-                    "features": "3.2% yağlılıq",
+                    "details": "1 L | 3.2%",
                     "Bravo": 2.05,
                     "Araz": 1.95,
-                    "Oba": null
+                    "Oba": 0
                 }
             ]
         },
@@ -30,8 +28,7 @@
                 {
                     "name": "Su",
                     "brand": "Sirab",
-                    "details": "1.5 L",
-                    "features": "Qazsız",
+                    "details": "1.5 L | Qazsız",
                     "Bravo": 0.8,
                     "Araz": 0.75,
                     "Oba": 0.7
