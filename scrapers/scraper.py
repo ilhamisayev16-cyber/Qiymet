@@ -1,94 +1,36 @@
-import json
-import os
-import requests
-from datetime import datetime
+Skip to content
+ilhamisayev16-cyber
+Qiymet
+Repository navigation
+Code
+Issues
+Pull requests
+Agents
+Actions
+Projects
+Security and quality
+Insights
+Settings
+Scrape Prices Daily
+Scrape Prices Daily #6
+All jobs
+Run details
+Manually triggered now
+@ilhamisayev16-cyberilhamisayev16-cyber
+⁠
+ 0c5b68e
+main
+Status
+Failure
+Total duration
+19s
+Artifacts
+–
 
-def scrape_and_save():
-    current_time = datetime.now().strftime("%d.%m.%Y %H:%M")
-    
-    # Qeyd: Əgər məlumatları kənar bir API-dən və ya veb-səhifədən çəkirsinizsə, 
-    # aşağıdakı hissədə həmin ünvanı qeyd edə bilərsiniz.
-    """
-    try:
-        url = "https://market-api-unvaniniz.com/api/v1/prices"
-        response = requests.get(url, timeout=10)
-        response.raise_for_status()
-        data = response.json()
-    except Exception as e:
-        print(f"API-dən məlumat çəkilərkən xəta baş verdi: {e}")
-    """
-    
-    # Avtomatik formalaşan baza strukturu:
-    data = {
-        "last_updated": current_time,
-        "items": [
-            {
-                "category": "Süd",
-                "brand": "Milla",
-                "details": "1 L, 2.5%",
-                "Bravo": 1.90,
-                "Araz": 2.10,
-                "Oba": 1.80
-            },
-            {
-                "category": "Süd",
-                "brand": "AzərSüd",
-                "details": "1 L, 3.2%",
-                "Bravo": 2.05,
-                "Araz": 1.95,
-                "Oba": None
-            },
-            {
-                "category": "Çörək",
-                "brand": "Zavod",
-                "details": "500 qr",
-                "Bravo": 0.65,
-                "Araz": 0.65,
-                "Oba": 0.50
-            },
-            {
-                "category": "Su (Qazsız)",
-                "brand": "Sirab",
-                "details": "1.5 L",
-                "Bravo": 0.80,
-                "Araz": 0.75,
-                "Oba": 0.70
-            },
-            {
-                "category": "Qazlı içki",
-                "brand": "Coca-Cola",
-                "details": "1 L",
-                "Bravo": 1.50,
-                "Araz": 1.55,
-                "Oba": 1.40
-            },
-            {
-                "category": "Şəkər tozu",
-                "brand": "Azərşəkər",
-                "details": "1 kq",
-                "Bravo": 1.50,
-                "Araz": 1.45,
-                "Oba": 1.35
-            },
-            {
-                "category": "Bitki yağı",
-                "brand": "Zeytun Bağları",
-                "details": "1 L",
-                "Bravo": 3.40,
-                "Araz": 3.50,
-                "Oba": None
-            }
-        ]
-    }
-    
-    # Faylın saxlanacağı qovluğu yaradırıq
-    os.makedirs("data", exist_ok=True)
-    
-    file_path = os.path.join("data", "prices.json")
-    with open(file_path, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=4)
-        
-    print(f"Məlumatlar uğurla yeniləndi: {current_time}")
 
-if __name__ == "__main__":
-    scrape_and_save()
+Annotations
+1 error and 1 warning
+build
+Process completed with exit code 1.
+build
+Node.js 20 actions are deprecated. The following actions are running on Node.js 20 and may not work as expected: actions/checkout@v3, actions/setup-python@v4. Actions will be forced to run with Node.js 24 by default starting June 2nd, 2026. Node.js 20 will be removed from the runner on September 16th, 2026. Please check if updated versions of these actions are available that support Node.js 24. To opt into Node.js 24 now, set the FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true environment variable on the runner or in your workflow file. Once Node.js 24 becomes the default, you can temporarily opt out by setting ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION=true. For more information see: https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/
