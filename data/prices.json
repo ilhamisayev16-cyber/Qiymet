@@ -1,5 +1,5 @@
 {
-    "last_updated": "04.05.2026 18:21",
+    "last_updated": "04.05.2026 14:37",
     "items": [
         {
             "category": "Süd",
@@ -15,6 +15,46 @@
             "details": "1 L, 3.2%",
             "Bravo": 2.05,
             "Araz": 1.95,
+            "Oba": null
+        },
+        {
+            "category": "Çörək",
+            "brand": "Zavod",
+            "details": "500 qr",
+            "Bravo": 0.65,
+            "Araz": 0.65,
+            "Oba": 0.5
+        },
+        {
+            "category": "Su (Qazsız)",
+            "brand": "Sirab",
+            "details": "1.5 L",
+            "Bravo": 0.8,
+            "Araz": 0.75,
+            "Oba": 0.7
+        },
+        {
+            "category": "Qazlı içki",
+            "brand": "Coca-Cola",
+            "details": "1 L",
+            "Bravo": 1.5,
+            "Araz": 1.55,
+            "Oba": 1.4
+        },
+        {
+            "category": "Şəkər tozu",
+            "brand": "Azərşəkər",
+            "details": "1 kq",
+            "Bravo": 1.5,
+            "Araz": 1.45,
+            "Oba": 1.35
+        },
+        {
+            "category": "Bitki yağı",
+            "brand": "Zeytun Bağları",
+            "details": "1 L",
+            "Bravo": 3.4,
+            "Araz": 3.5,
             "Oba": null
         }
     ]
