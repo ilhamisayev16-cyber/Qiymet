@@ -1,81 +1,38 @@
-import json
-import os
-from datetime import datetime
+name: Scrape Prices Daily
 
-def scrape_and_save():
-    current_time = datetime.now().strftime("%d.%m.%Y %H:%M")
-    
-    # Avtomatik məlumat strukturu
-    data = {
-        "last_updated": current_time,
-        "items": [
-            {
-                "category": "Süd",
-                "brand": "Milla",
-                "details": "1 L, 2.5%",
-                "Bravo": 1.90,
-                "Araz": 2.10,
-                "Oba": 1.80
-            },
-            {
-                "category": "Süd",
-                "brand": "AzərSüd",
-                "details": "1 L, 3.2%",
-                "Bravo": 2.05,
-                "Araz": 1.95,
-                "Oba": None
-            },
-            {
-                "category": "Çörək",
-                "brand": "Zavod",
-                "details": "500 qr",
-                "Bravo": 0.65,
-                "Araz": 0.65,
-                "Oba": 0.50
-            },
-            {
-                "category": "Su (Qazsız)",
-                "brand": "Sirab",
-                "details": "1.5 L",
-                "Bravo": 0.80,
-                "Araz": 0.75,
-                "Oba": 0.70
-            },
-            {
-                "category": "Qazlı içki",
-                "brand": "Coca-Cola",
-                "details": "1 L",
-                "Bravo": 1.50,
-                "Araz": 1.55,
-                "Oba": 1.40
-            },
-            {
-                "category": "Şəkər tozu",
-                "brand": "Azərşəkər",
-                "details": "1 kq",
-                "Bravo": 1.50,
-                "Araz": 1.45,
-                "Oba": 1.35
-            },
-            {
-                "category": "Bitki yağı",
-                "brand": "Zeytun Bağları",
-                "details": "1 L",
-                "Bravo": 3.40,
-                "Araz": 3.50,
-                "Oba": None
-            }
-        ]
-    }
-    
-    # Qovluğu avtomatik yaradır
-    os.makedirs("data", exist_ok=True)
-    
-    file_path = os.path.join("data", "prices.json")
-    with open(file_path, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=4)
-        
-    print(f"Məlumatlar uğurla yeniləndi: {current_time}")
+on:
+  schedule:
+    - cron: '0 8 * * *' # Hər gün saat 08:00-da işə düşür
+  workflow_dispatch: # Əl ilə işə salmaq üçün düymə
 
-if __name__ == "__main__":
-    scrape_and_save()
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # İcazələri açırıq
+      id-token: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Run Scraper
+        run: python scrapers/scraper.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git add data/prices.json
+          
+          # Dəyişiklikləri yoxlayıb commit və push edir
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Avtomatik yenilənmiş qiymətlər"
+            git push origin HEAD
+          else
+            echo "Heç bir dəyişiklik yoxdur."
+          fi
