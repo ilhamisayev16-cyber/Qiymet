@@ -1,5 +1,5 @@
 {
-  "last_updated": "05 May 2026, 17:08",
+  "last_updated": "05 May 2026, 21:40",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -826,9 +826,19 @@
             "price": 2.57
           },
           {
+            "name": "Milla UHT Süd 1.5% 1L",
+            "norm": "milla uht süd 1.5% 1l",
+            "price": 2.69
+          },
+          {
             "name": "Azersud Süd 3.2% 1L",
             "norm": "azersud süd 3.2% 1l",
             "price": 2.87
+          },
+          {
+            "name": "Azersud Nanəli Ayran 1L",
+            "norm": "azersud nanəli ayran 1l",
+            "price": 2.05
           },
           {
             "name": "Azersud Ayran 1L",
@@ -836,11 +846,6 @@
             "price": 2.05
           },
           {
-            "name": "Azersud Nanəli Ayran 1L",
-            "norm": "azersud nanəli ayran 1l",
-            "price": 2.05
-          },
-          {
             "name": "Milla Şokoladlı Süd 1L",
             "norm": "milla şokoladlı süd 1l",
             "price": 3.49
@@ -849,6 +854,11 @@
             "name": "Milla UHT Süd 0.1% 1L",
             "norm": "milla uht süd 0.1% 1l",
             "price": 2.57
+          },
+          {
+            "name": "Milla UHT Süd 1.5% 1L",
+            "norm": "milla uht süd 1.5% 1l",
+            "price": 2.69
           },
           {
             "name": "Azersud Süd 3.2% 1L",
@@ -874,6 +884,11 @@
             "name": "Milla UHT Süd 0.1% 1L",
             "norm": "milla uht süd 0.1% 1l",
             "price": 2.57
+          },
+          {
+            "name": "Milla UHT Süd 1.5% 1L",
+            "norm": "milla uht süd 1.5% 1l",
+            "price": 2.69
           },
           {
             "name": "Azersud Süd 3.2% 1L",
