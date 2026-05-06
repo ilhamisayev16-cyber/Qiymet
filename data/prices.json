@@ -1,5 +1,5 @@
 {
-  "last_updated": "06 May 2026, 17:17",
+  "last_updated": "06 May 2026, 21:44",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -553,11 +553,6 @@
             "price": 2.59
           },
           {
-            "name": "Atena Süd 1.5% 1 l",
-            "norm": "atena süd 1.5% 1 l",
-            "price": 2.69
-          },
-          {
             "name": "Azərsüd Ayran Nanəli 1 L",
             "norm": "azərsüd ayran nanəli 1 l",
             "price": 2.59
@@ -678,11 +673,6 @@
             "price": 2.59
           },
           {
-            "name": "Atena Süd 1.5% 1 l",
-            "norm": "atena süd 1.5% 1 l",
-            "price": 2.69
-          },
-          {
             "name": "Atena Süd 3.4% 1 l",
             "norm": "atena süd 3.4% 1 l",
             "price": 2.9
@@ -801,11 +791,6 @@
             "name": "Milla Süd 0,1% 1 l",
             "norm": "milla süd 0.1% 1 l",
             "price": 2.59
-          },
-          {
-            "name": "Atena Süd 1.5% 1 l",
-            "norm": "atena süd 1.5% 1 l",
-            "price": 2.69
           },
           {
             "name": "Azərsüd Ayran Nanəli 1 L",
