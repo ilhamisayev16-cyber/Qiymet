@@ -1,5 +1,5 @@
 {
-  "last_updated": "07 May 2026, 09:45",
+  "last_updated": "07 May 2026, 18:01",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -201,14 +201,14 @@
             "price": 2.69
           },
           {
-            "name": "Azərsüd Süd 2.4% 1l",
-            "norm": "azərsüd süd 2.4% 1l",
-            "price": 2.85
-          },
-          {
             "name": "Azərsüd Süd 0.3% 1l",
             "norm": "azərsüd süd 0.3% 1l",
             "price": 2.75
+          },
+          {
+            "name": "Azərsüd Süd 2.4% 1l",
+            "norm": "azərsüd süd 2.4% 1l",
+            "price": 2.85
           },
           {
             "name": "Savuşkin Süd Uht 1.5%1l",
@@ -553,6 +553,11 @@
             "price": 2.59
           },
           {
+            "name": "Azər Süd Ayran 1.4% 1 l",
+            "norm": "azər süd ayran 1.4% 1 l",
+            "price": 2.1
+          },
+          {
             "name": "Azərsüd Ayran Nanəli 1 L",
             "norm": "azərsüd ayran nanəli 1 l",
             "price": 2.59
@@ -796,6 +801,11 @@
             "name": "Azərsüd Ayran Nanəli 1 L",
             "norm": "azərsüd ayran nanəli 1 l",
             "price": 2.59
+          },
+          {
+            "name": "Azər Süd Ayran 1.4% 1 l",
+            "norm": "azər süd ayran 1.4% 1 l",
+            "price": 2.1
           },
           {
             "name": "Atena Süd 0.5% 1 L",
