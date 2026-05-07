@@ -1,5 +1,5 @@
 {
-  "last_updated": "06 May 2026, 21:44",
+  "last_updated": "07 May 2026, 09:45",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -71,14 +71,14 @@
             "price": 2.25
           },
           {
-            "name": "Kalleh Süd 3% Tetra Pak 1l",
-            "norm": "kalleh süd 3% tetra pak 1l",
-            "price": 2.85
-          },
-          {
             "name": "Parmalat Süd 3.5% Paket 1 L",
             "norm": "parmalat süd 3.5% paket 1 l",
             "price": 4.85
+          },
+          {
+            "name": "Kalleh Süd 3% Tetra Pak 1l",
+            "norm": "kalleh süd 3% tetra pak 1l",
+            "price": 2.35
           },
           {
             "name": "Parmalat Süd 1.8% Uht 1l",
@@ -201,14 +201,14 @@
             "price": 2.69
           },
           {
-            "name": "Azərsüd Süd 0.3% 1l",
-            "norm": "azərsüd süd 0.3% 1l",
-            "price": 2.75
-          },
-          {
             "name": "Azərsüd Süd 2.4% 1l",
             "norm": "azərsüd süd 2.4% 1l",
             "price": 2.85
+          },
+          {
+            "name": "Azərsüd Süd 0.3% 1l",
+            "norm": "azərsüd süd 0.3% 1l",
+            "price": 2.75
           },
           {
             "name": "Savuşkin Süd Uht 1.5%1l",
@@ -216,14 +216,14 @@
             "price": 2.85
           },
           {
-            "name": "Kalleh Süd 3% Tetra Pak 1l",
-            "norm": "kalleh süd 3% tetra pak 1l",
-            "price": 2.85
-          },
-          {
             "name": "Parmalat Süd 3.5% Paket 1 L",
             "norm": "parmalat süd 3.5% paket 1 l",
             "price": 4.85
+          },
+          {
+            "name": "Kalleh Süd 3% Tetra Pak 1l",
+            "norm": "kalleh süd 3% tetra pak 1l",
+            "price": 2.35
           },
           {
             "name": "Parmalat Süd 1.8% Uht 1l",
@@ -373,7 +373,7 @@
           {
             "name": "Kalleh Süd 3% Tetra Pak 1l",
             "norm": "kalleh süd 3% tetra pak 1l",
-            "price": 2.85
+            "price": 2.35
           },
           {
             "name": "Parmalat Süd 1.8% Uht 1l",
@@ -518,14 +518,14 @@
             "price": 3.35
           },
           {
-            "name": "Parmalat 1 lt Süd 3,5% Paket",
-            "norm": "parmalat 1 lt süd 3.5% paket",
-            "price": 3.99
-          },
-          {
             "name": "Savuskin Pr.1 lt Süd 1,5% Paket",
             "norm": "savuskin pr.1 lt süd 1.5% paket",
             "price": 2.8
+          },
+          {
+            "name": "Parmalat 1 lt Süd 3,5% Paket",
+            "norm": "parmalat 1 lt süd 3.5% paket",
+            "price": 3.99
           },
           {
             "name": "Süd Y belous 3 2% T/p 1 Lt",
@@ -623,14 +623,14 @@
             "price": 2.59
           },
           {
-            "name": "Parmalat 1 lt Süd 3,5% Paket",
-            "norm": "parmalat 1 lt süd 3.5% paket",
-            "price": 3.99
-          },
-          {
             "name": "Savuskin Pr.1 lt Süd 1,5% Paket",
             "norm": "savuskin pr.1 lt süd 1.5% paket",
             "price": 2.8
+          },
+          {
+            "name": "Parmalat 1 lt Süd 3,5% Paket",
+            "norm": "parmalat 1 lt süd 3.5% paket",
+            "price": 3.99
           },
           {
             "name": "Milla Süd 3.2% 1 l",
