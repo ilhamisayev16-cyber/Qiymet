@@ -1,5 +1,5 @@
 {
-  "last_updated": "07 May 2026, 18:01",
+  "last_updated": "08 May 2026, 06:19",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -71,14 +71,14 @@
             "price": 2.25
           },
           {
-            "name": "Parmalat Süd 3.5% Paket 1 L",
-            "norm": "parmalat süd 3.5% paket 1 l",
-            "price": 4.85
-          },
-          {
             "name": "Kalleh Süd 3% Tetra Pak 1l",
             "norm": "kalleh süd 3% tetra pak 1l",
             "price": 2.35
+          },
+          {
+            "name": "Parmalat Süd 3.5% Paket 1 L",
+            "norm": "parmalat süd 3.5% paket 1 l",
+            "price": 4.85
           },
           {
             "name": "Parmalat Süd 1.8% Uht 1l",
@@ -216,14 +216,14 @@
             "price": 2.85
           },
           {
-            "name": "Parmalat Süd 3.5% Paket 1 L",
-            "norm": "parmalat süd 3.5% paket 1 l",
-            "price": 4.85
-          },
-          {
             "name": "Kalleh Süd 3% Tetra Pak 1l",
             "norm": "kalleh süd 3% tetra pak 1l",
             "price": 2.35
+          },
+          {
+            "name": "Parmalat Süd 3.5% Paket 1 L",
+            "norm": "parmalat süd 3.5% paket 1 l",
+            "price": 4.85
           },
           {
             "name": "Parmalat Süd 1.8% Uht 1l",
@@ -478,11 +478,6 @@
             "price": 2.69
           },
           {
-            "name": "Azər Süd 1lt Süd 2.4% Paket",
-            "norm": "azər süd 1lt süd 2.4% paket",
-            "price": 2.79
-          },
-          {
             "name": "Azər Süd 3.2% 1 l",
             "norm": "azər süd 3.2% 1 l",
             "price": 2.89
@@ -603,11 +598,6 @@
             "price": 2.69
           },
           {
-            "name": "Azər Süd 1lt Süd 2.4% Paket",
-            "norm": "azər süd 1lt süd 2.4% paket",
-            "price": 2.79
-          },
-          {
             "name": "Azər Süd 3.2% 1 l",
             "norm": "azər süd 3.2% 1 l",
             "price": 2.89
@@ -706,11 +696,6 @@
             "name": "Atena Süd 0.5% 1 L",
             "norm": "atena süd 0.5% 1 l",
             "price": 2.59
-          },
-          {
-            "name": "Azər Süd 1lt Süd 2.4% Paket",
-            "norm": "azər süd 1lt süd 2.4% paket",
-            "price": 2.79
           },
           {
             "name": "Alpro Süd Kokos 1L",
