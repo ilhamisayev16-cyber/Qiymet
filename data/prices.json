@@ -1,5 +1,5 @@
 {
-  "last_updated": "11 May 2026, 18:22",
+  "last_updated": "12 May 2026, 09:49",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -111,6 +111,11 @@
             "price": 2.85
           },
           {
+            "name": "Belous Süd 2.5% 1l",
+            "norm": "belous süd 2.5% 1l",
+            "price": 2.59
+          },
+          {
             "name": "Belous Süd 3.2% 1l",
             "norm": "belous süd 3.2% 1l",
             "price": 3.2
@@ -129,11 +134,6 @@
             "name": "Slavyanskoye Süd 3.2% 1l",
             "norm": "slavyanskoye süd 3.2% 1l",
             "price": 2.89
-          },
-          {
-            "name": "Belous Süd 2.5% 1l",
-            "norm": "belous süd 2.5% 1l",
-            "price": 2.59
           },
           {
             "name": "Pınar Süd Yağlı 2.5% 1l",
@@ -196,14 +196,14 @@
             "price": 2.69
           },
           {
-            "name": "Azərsüd Süd 0.3% 1l",
-            "norm": "azərsüd süd 0.3% 1l",
-            "price": 2.75
-          },
-          {
             "name": "Azərsüd Süd 2.4% 1l",
             "norm": "azərsüd süd 2.4% 1l",
             "price": 2.85
+          },
+          {
+            "name": "Azərsüd Süd 0.3% 1l",
+            "norm": "azərsüd süd 0.3% 1l",
+            "price": 2.75
           },
           {
             "name": "Savuşkin Süd Uht 1.5%1l",
@@ -256,14 +256,14 @@
             "price": 2.69
           },
           {
-            "name": "Belous Süd 3.2% 1l",
-            "norm": "belous süd 3.2% 1l",
-            "price": 3.2
-          },
-          {
             "name": "Belous Süd 2.5% 1l",
             "norm": "belous süd 2.5% 1l",
             "price": 2.59
+          },
+          {
+            "name": "Belous Süd 3.2% 1l",
+            "norm": "belous süd 3.2% 1l",
+            "price": 3.2
           },
           {
             "name": "Pınar Süd Yağlı 2.5% 1l",
@@ -356,6 +356,11 @@
             "price": 2.85
           },
           {
+            "name": "Belous Süd 2.5% 1l",
+            "norm": "belous süd 2.5% 1l",
+            "price": 2.59
+          },
+          {
             "name": "Belous Süd 3.2% 1l",
             "norm": "belous süd 3.2% 1l",
             "price": 3.2
@@ -369,11 +374,6 @@
             "name": "Parmalat Süd 1.8% Uht 1l",
             "norm": "parmalat süd 1.8% uht 1l",
             "price": 3.39
-          },
-          {
-            "name": "Belous Süd 2.5% 1l",
-            "norm": "belous süd 2.5% 1l",
-            "price": 2.59
           },
           {
             "name": "Pınar Süd Yağlı 2.5% 1l",
@@ -538,11 +538,6 @@
             "price": 2.1
           },
           {
-            "name": "Azərsüd Ayran Nanəli 1 L",
-            "norm": "azərsüd ayran nanəli 1 l",
-            "price": 2.59
-          },
-          {
             "name": "Alpro Süd Kokos 1L",
             "norm": "alpro süd kokos 1l",
             "price": 9.99
@@ -765,11 +760,6 @@
           {
             "name": "Milla Süd 0,1% 1 l",
             "norm": "milla süd 0.1% 1 l",
-            "price": 2.59
-          },
-          {
-            "name": "Azərsüd Ayran Nanəli 1 L",
-            "norm": "azərsüd ayran nanəli 1 l",
             "price": 2.59
           },
           {
