@@ -1,5 +1,5 @@
 {
-  "last_updated": "14 May 2026, 09:39",
+  "last_updated": "14 May 2026, 18:21",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -9,61 +9,6 @@
             "name": "Azərsüd Süd 3.2% 1l",
             "norm": "azərsüd süd 3.2% 1l",
             "price": 2.35
-          },
-          {
-            "name": "Pınar Süd Tam Yağlı 3.3% 1l",
-            "norm": "pınar süd tam yağlı 3.3% 1l",
-            "price": 4.95
-          },
-          {
-            "name": "Green Milk Kokos Südü 1 L",
-            "norm": "green milk kokos südü 1 l",
-            "price": 7.85
-          },
-          {
-            "name": "Savuşkin Süd Uht 1.5%1l",
-            "norm": "savuşkin süd uht 1.5%1l",
-            "price": 2.85
-          },
-          {
-            "name": "Parmalat Süd 3.5% Paket 1 L",
-            "norm": "parmalat süd 3.5% paket 1 l",
-            "price": 3.69
-          },
-          {
-            "name": "Parmalat Süd 1.8% Uht 1l",
-            "norm": "parmalat süd 1.8% uht 1l",
-            "price": 4.09
-          },
-          {
-            "name": "Savuşkin Süd 3 1% 1l",
-            "norm": "savuşkin süd 3 1% 1l",
-            "price": 3.29
-          },
-          {
-            "name": "Sizlik Süd 1.5% 1l",
-            "norm": "sizlik süd 1.5% 1l",
-            "price": 2.29
-          },
-          {
-            "name": "Slavyanskoye Süd 3.2% 1l",
-            "norm": "slavyanskoye süd 3.2% 1l",
-            "price": 2.89
-          },
-          {
-            "name": "Belous Süd 2.5% 1l",
-            "norm": "belous süd 2.5% 1l",
-            "price": 3.1
-          },
-          {
-            "name": "Belous Süd 3.2% 1l",
-            "norm": "belous süd 3.2% 1l",
-            "price": 2.65
-          },
-          {
-            "name": "Azərsüd Ayran Nanəli 1 L",
-            "norm": "azərsüd ayran nanəli 1 l",
-            "price": 2.75
           },
           {
             "name": "Azərsüd Laktozasız Süd Tetrapack 1.5% 1l",
@@ -81,6 +26,21 @@
             "price": 2.19
           },
           {
+            "name": "Azərsüd Süd 2.4% 1l",
+            "norm": "azərsüd süd 2.4% 1l",
+            "price": 2.85
+          },
+          {
+            "name": "Azərsüd Süd 0.3% 1l",
+            "norm": "azərsüd süd 0.3% 1l",
+            "price": 2.75
+          },
+          {
+            "name": "Azərsüd Süd 2.4% 1l",
+            "norm": "azərsüd süd 2.4% 1l",
+            "price": 2.85
+          },
+          {
             "name": "Milla Süd 0.1% 1l",
             "norm": "milla süd 0.1% 1l",
             "price": 2.19
@@ -89,6 +49,16 @@
             "name": "Milla Süd 3.2% 1l",
             "norm": "milla süd 3.2% 1l",
             "price": 2.9
+          },
+          {
+            "name": "Pınar Süd Tam Yağlı 3.3% 1l",
+            "norm": "pınar süd tam yağlı 3.3% 1l",
+            "price": 4.95
+          },
+          {
+            "name": "Green Milk Kokos Südü 1 L",
+            "norm": "green milk kokos südü 1 l",
+            "price": 7.85
           },
           {
             "name": "Milla Süd 2 5% 1l",
@@ -101,14 +71,24 @@
             "price": 2.29
           },
           {
-            "name": "Azərsüd Süd 2.4% 1l",
-            "norm": "azərsüd süd 2.4% 1l",
+            "name": "Savuşkin Süd Uht 1.5%1l",
+            "norm": "savuşkin süd uht 1.5%1l",
             "price": 2.85
           },
           {
-            "name": "Azərsüd Süd 0.3% 1l",
-            "norm": "azərsüd süd 0.3% 1l",
-            "price": 2.75
+            "name": "Parmalat Süd 3.5% Paket 1 L",
+            "norm": "parmalat süd 3.5% paket 1 l",
+            "price": 3.69
+          },
+          {
+            "name": "Parmalat Süd 1.8% Uht 1l",
+            "norm": "parmalat süd 1.8% uht 1l",
+            "price": 4.09
+          },
+          {
+            "name": "Savuşkin Süd 3 1% 1l",
+            "norm": "savuşkin süd 3 1% 1l",
+            "price": 3.29
           },
           {
             "name": "Milla Süd 1.5% 1l",
@@ -116,29 +96,14 @@
             "price": 2.69
           },
           {
-            "name": "Azərsüd Süd 2.4% 1l",
-            "norm": "azərsüd süd 2.4% 1l",
-            "price": 2.85
-          },
-          {
-            "name": "Zdorovoye Menyu Kalsium Və Vitaminlə Zəngin Yulaf Südü 1% 1 Lt",
-            "norm": "zdorovoye menyu kalsium və vitaminlə zəngin yulaf südü 1% 1 lt",
-            "price": 6.09
+            "name": "Slavyanskoye Süd 1.5% 1l",
+            "norm": "slavyanskoye süd 1.5% 1l",
+            "price": 2.69
           },
           {
             "name": "Pınar Süd Yağlı 2.5% 1l",
             "norm": "pınar süd yağlı 2.5% 1l",
             "price": 4.85
-          },
-          {
-            "name": "Kalleh Süd 3% Tetra Pak 1l",
-            "norm": "kalleh süd 3% tetra pak 1l",
-            "price": 2.25
-          },
-          {
-            "name": "Slavyanskoye Süd 1.5% 1l",
-            "norm": "slavyanskoye süd 1.5% 1l",
-            "price": 2.69
           },
           {
             "name": "Slavyanskoye Süd 0.5% 1l",
@@ -154,56 +119,6 @@
             "name": "Slavyanskoye Süd 2.5% 1l",
             "norm": "slavyanskoye süd 2.5% 1l",
             "price": 2.79
-          },
-          {
-            "name": "Green Milk Kokos Südü 1 L",
-            "norm": "green milk kokos südü 1 l",
-            "price": 7.85
-          },
-          {
-            "name": "Pınar Süd Tam Yağlı 3.3% 1l",
-            "norm": "pınar süd tam yağlı 3.3% 1l",
-            "price": 4.95
-          },
-          {
-            "name": "Savuşkin Süd Uht 1.5%1l",
-            "norm": "savuşkin süd uht 1.5%1l",
-            "price": 2.85
-          },
-          {
-            "name": "Savuşkin Süd 3 1% 1l",
-            "norm": "savuşkin süd 3 1% 1l",
-            "price": 3.29
-          },
-          {
-            "name": "Azərsüd Süd 3.2% 1l",
-            "norm": "azərsüd süd 3.2% 1l",
-            "price": 2.35
-          },
-          {
-            "name": "Parmalat Süd 3.5% Paket 1 L",
-            "norm": "parmalat süd 3.5% paket 1 l",
-            "price": 3.69
-          },
-          {
-            "name": "Parmalat Süd 1.8% Uht 1l",
-            "norm": "parmalat süd 1.8% uht 1l",
-            "price": 4.09
-          },
-          {
-            "name": "Milla Süd 0.1% 1l",
-            "norm": "milla süd 0.1% 1l",
-            "price": 2.19
-          },
-          {
-            "name": "Milla Süd 3.2% 1l",
-            "norm": "milla süd 3.2% 1l",
-            "price": 2.9
-          },
-          {
-            "name": "Azərsüd Laktozasız Süd Tetrapack 1.5% 1l",
-            "norm": "azərsüd laktozasız süd tetrapack 1.5% 1l",
-            "price": 3.45
           },
           {
             "name": "Belous Süd 2.5% 1l",
@@ -226,6 +141,61 @@
             "price": 2.89
           },
           {
+            "name": "Azərsüd Ayran Nanəli 1 L",
+            "norm": "azərsüd ayran nanəli 1 l",
+            "price": 2.75
+          },
+          {
+            "name": "Zdorovoye Menyu Kalsium Və Vitaminlə Zəngin Yulaf Südü 1% 1 Lt",
+            "norm": "zdorovoye menyu kalsium və vitaminlə zəngin yulaf südü 1% 1 lt",
+            "price": 6.09
+          },
+          {
+            "name": "Kalleh Süd 3% Tetra Pak 1l",
+            "norm": "kalleh süd 3% tetra pak 1l",
+            "price": 2.25
+          },
+          {
+            "name": "Azərsüd Süd 3.2% 1l",
+            "norm": "azərsüd süd 3.2% 1l",
+            "price": 2.35
+          },
+          {
+            "name": "Green Milk Kokos Südü 1 L",
+            "norm": "green milk kokos südü 1 l",
+            "price": 7.85
+          },
+          {
+            "name": "Pınar Süd Tam Yağlı 3.3% 1l",
+            "norm": "pınar süd tam yağlı 3.3% 1l",
+            "price": 4.95
+          },
+          {
+            "name": "Savuşkin Süd Uht 1.5%1l",
+            "norm": "savuşkin süd uht 1.5%1l",
+            "price": 2.85
+          },
+          {
+            "name": "Savuşkin Süd 3 1% 1l",
+            "norm": "savuşkin süd 3 1% 1l",
+            "price": 3.29
+          },
+          {
+            "name": "Milla Süd 0.1% 1l",
+            "norm": "milla süd 0.1% 1l",
+            "price": 2.19
+          },
+          {
+            "name": "Milla Süd 3.2% 1l",
+            "norm": "milla süd 3.2% 1l",
+            "price": 2.9
+          },
+          {
+            "name": "Azərsüd Laktozasız Süd Tetrapack 1.5% 1l",
+            "norm": "azərsüd laktozasız süd tetrapack 1.5% 1l",
+            "price": 3.45
+          },
+          {
             "name": "Azərsüd Süd 1.5% 1l",
             "norm": "azərsüd süd 1.5% 1l",
             "price": 2.75
@@ -241,11 +211,6 @@
             "price": 2.69
           },
           {
-            "name": "Zdorovoye Menyu Kalsium Və Vitaminlə Zəngin Yulaf Südü 1% 1 Lt",
-            "norm": "zdorovoye menyu kalsium və vitaminlə zəngin yulaf südü 1% 1 lt",
-            "price": 6.09
-          },
-          {
             "name": "Azərsüd Süd 2.4% 1l",
             "norm": "azərsüd süd 2.4% 1l",
             "price": 2.85
@@ -256,9 +221,19 @@
             "price": 2.75
           },
           {
-            "name": "Zdorovoye Menyu Soya Südü 1% 1 Lt",
-            "norm": "zdorovoye menyu soya südü 1% 1 lt",
-            "price": 6.65
+            "name": "Azərsüd Süd 2.4% 1l",
+            "norm": "azərsüd süd 2.4% 1l",
+            "price": 2.85
+          },
+          {
+            "name": "Parmalat Süd 3.5% Paket 1 L",
+            "norm": "parmalat süd 3.5% paket 1 l",
+            "price": 3.69
+          },
+          {
+            "name": "Parmalat Süd 1.8% Uht 1l",
+            "norm": "parmalat süd 1.8% uht 1l",
+            "price": 4.09
           },
           {
             "name": "Atena Uht Süd 3.2% 1 Lt",
@@ -266,24 +241,29 @@
             "price": 2.29
           },
           {
-            "name": "Azərsüd Süd 2.4% 1l",
-            "norm": "azərsüd süd 2.4% 1l",
-            "price": 2.85
-          },
-          {
             "name": "Pınar Süd Yağlı 2.5% 1l",
             "norm": "pınar süd yağlı 2.5% 1l",
             "price": 4.85
           },
           {
-            "name": "Kalleh Süd 3% Tetra Pak 1l",
-            "norm": "kalleh süd 3% tetra pak 1l",
-            "price": 2.25
-          },
-          {
             "name": "Slavyanskoye Süd 1.5% 1l",
             "norm": "slavyanskoye süd 1.5% 1l",
             "price": 2.69
+          },
+          {
+            "name": "Zdorovoye Menyu Kalsium Və Vitaminlə Zəngin Yulaf Südü 1% 1 Lt",
+            "norm": "zdorovoye menyu kalsium və vitaminlə zəngin yulaf südü 1% 1 lt",
+            "price": 6.09
+          },
+          {
+            "name": "Belous Süd 2.5% 1l",
+            "norm": "belous süd 2.5% 1l",
+            "price": 3.1
+          },
+          {
+            "name": "Belous Süd 3.2% 1l",
+            "norm": "belous süd 3.2% 1l",
+            "price": 2.65
           },
           {
             "name": "Slavyanskoye Süd 0.5% 1l",
@@ -299,6 +279,26 @@
             "name": "Slavyanskoye Süd 2.5% 1l",
             "norm": "slavyanskoye süd 2.5% 1l",
             "price": 2.79
+          },
+          {
+            "name": "Sizlik Süd 1.5% 1l",
+            "norm": "sizlik süd 1.5% 1l",
+            "price": 2.29
+          },
+          {
+            "name": "Slavyanskoye Süd 3.2% 1l",
+            "norm": "slavyanskoye süd 3.2% 1l",
+            "price": 2.89
+          },
+          {
+            "name": "Zdorovoye Menyu Soya Südü 1% 1 Lt",
+            "norm": "zdorovoye menyu soya südü 1% 1 lt",
+            "price": 6.65
+          },
+          {
+            "name": "Kalleh Süd 3% Tetra Pak 1l",
+            "norm": "kalleh süd 3% tetra pak 1l",
+            "price": 2.25
           },
           {
             "name": "Azərsüd Süd 3.2% 1l",
@@ -478,11 +478,6 @@
             "price": 4.6
           },
           {
-            "name": "Milla Süd 3.2% 1 l",
-            "norm": "milla süd 3.2% 1 l",
-            "price": 2.89
-          },
-          {
             "name": "Parmalat 1 lt Süd 3,5% Paket",
             "norm": "parmalat 1 lt süd 3.5% paket",
             "price": 3.99
@@ -501,6 +496,11 @@
             "name": "Süd Y belous 3 2% T/p 1 Lt",
             "norm": "süd y belous 3 2% t/p 1 lt",
             "price": 3.0
+          },
+          {
+            "name": "Milla Süd 3.2% 1 l",
+            "norm": "milla süd 3.2% 1 l",
+            "price": 2.89
           },
           {
             "name": "Pınar Süd 3.3% 1 l",
@@ -583,24 +583,14 @@
             "price": 2.8
           },
           {
-            "name": "Milla Süd 3.2% 1 l",
-            "norm": "milla süd 3.2% 1 l",
-            "price": 2.89
-          },
-          {
             "name": "Milla Laktozasız Süd 1.5% 1 L",
             "norm": "milla laktozasız süd 1.5% 1 l",
             "price": 3.29
           },
           {
-            "name": "Pınar Süd 3.3% 1 l",
-            "norm": "pınar süd 3.3% 1 l",
-            "price": 4.8
-          },
-          {
-            "name": "Azər Süd 1.5% 1 l",
-            "norm": "azər süd 1.5% 1 l",
-            "price": 2.69
+            "name": "Milla Süd 3.2% 1 l",
+            "norm": "milla süd 3.2% 1 l",
+            "price": 2.89
           },
           {
             "name": "Azər Süd 1.5% Laktozasız 1 l",
@@ -613,6 +603,16 @@
             "price": 3.0
           },
           {
+            "name": "Pınar Süd 3.3% 1 l",
+            "norm": "pınar süd 3.3% 1 l",
+            "price": 4.8
+          },
+          {
+            "name": "Azər Süd 1.5% 1 l",
+            "norm": "azər süd 1.5% 1 l",
+            "price": 2.69
+          },
+          {
             "name": "Azər Süd 0.3% 1 l",
             "norm": "azər süd 0.3% 1 l",
             "price": 2.59
@@ -621,6 +621,11 @@
             "name": "Atena Süd 2.4% 1 l",
             "norm": "atena süd 2.4% 1 l",
             "price": 2.79
+          },
+          {
+            "name": "Alpro Süd Kokos 1L",
+            "norm": "alpro süd kokos 1l",
+            "price": 9.99
           },
           {
             "name": "Atena Süd 3.4% 1 l",
@@ -636,11 +641,6 @@
             "name": "Milla 1lt Süd 2% Şokoladlı Paket",
             "norm": "milla 1lt süd 2% şokoladlı paket",
             "price": 3.49
-          },
-          {
-            "name": "Alpro Süd Kokos 1L",
-            "norm": "alpro süd kokos 1l",
-            "price": 9.99
           },
           {
             "name": "Süd Y belous 2 5% T/p 1 Lt",
