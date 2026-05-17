@@ -1,5 +1,5 @@
 {
-  "last_updated": "16 May 2026, 20:32",
+  "last_updated": "17 May 2026, 08:34",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -371,6 +371,11 @@
             "price": 2.65
           },
           {
+            "name": "Kalleh Süd 3% Tetra Pak 1l",
+            "norm": "kalleh süd 3% tetra pak 1l",
+            "price": 2.25
+          },
+          {
             "name": "Parmalat Süd 1.8% Uht 1l",
             "norm": "parmalat süd 1.8% uht 1l",
             "price": 4.09
@@ -384,11 +389,6 @@
             "name": "Pınar Süd Yağlı 2.5% 1l",
             "norm": "pınar süd yağlı 2.5% 1l",
             "price": 4.85
-          },
-          {
-            "name": "Kalleh Süd 3% Tetra Pak 1l",
-            "norm": "kalleh süd 3% tetra pak 1l",
-            "price": 2.25
           },
           {
             "name": "Savuşkin Süd 3 1% 1l",
@@ -538,11 +538,6 @@
             "price": 2.69
           },
           {
-            "name": "Alpro Süd Kokos 1L",
-            "norm": "alpro süd kokos 1l",
-            "price": 9.99
-          },
-          {
             "name": "Atena Süd 3.4% 1 l",
             "norm": "atena süd 3.4% 1 l",
             "price": 2.9
@@ -638,11 +633,6 @@
             "price": 2.69
           },
           {
-            "name": "Alpro Süd Kokos 1L",
-            "norm": "alpro süd kokos 1l",
-            "price": 9.99
-          },
-          {
             "name": "Atena Süd 3.4% 1 l",
             "norm": "atena süd 3.4% 1 l",
             "price": 2.9
@@ -676,11 +666,6 @@
             "name": "Pınar 1lt Süd 2.5% Gerçek Yaşam Paket",
             "norm": "pınar 1lt süd 2.5% gerçek yaşam paket",
             "price": 4.6
-          },
-          {
-            "name": "Alpro Süd Kokos 1L",
-            "norm": "alpro süd kokos 1l",
-            "price": 9.99
           },
           {
             "name": "Azər Süd 1lt Kefir 1.5% (Plastik Qabda)",
