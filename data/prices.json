@@ -1,5 +1,5 @@
 {
-  "last_updated": "19 May 2026, 18:26",
+  "last_updated": "20 May 2026, 10:37",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -81,11 +81,6 @@
             "price": 2.85
           },
           {
-            "name": "Milla Süd 1.5% 1l",
-            "norm": "milla süd 1.5% 1l",
-            "price": 2.69
-          },
-          {
             "name": "Parmalat Süd 3.5% Paket 1 L",
             "norm": "parmalat süd 3.5% paket 1 l",
             "price": 3.69
@@ -99,6 +94,11 @@
             "name": "Savuşkin Süd 3 1% 1l",
             "norm": "savuşkin süd 3 1% 1l",
             "price": 3.29
+          },
+          {
+            "name": "Milla Süd 1.5% 1l",
+            "norm": "milla süd 1.5% 1l",
+            "price": 2.69
           },
           {
             "name": "Slavyanskoye Süd 1.5% 1l",
