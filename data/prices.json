@@ -1,5 +1,5 @@
 {
-  "last_updated": "30 May 2026, 15:54",
+  "last_updated": "30 May 2026, 21:37",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -59,6 +59,11 @@
             "name": "Pınar Süd Tam Yağlı 3.3% 1l",
             "norm": "pınar süd tam yağlı 3.3% 1l",
             "price": 4.85
+          },
+          {
+            "name": "Green Milk Kokos Südü 1 L",
+            "norm": "green milk kokos südü 1 l",
+            "price": 5.59
           },
           {
             "name": "Milla Süd 2 5% 1l",
