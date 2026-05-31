@@ -1,5 +1,5 @@
 {
-  "last_updated": "30 May 2026, 21:37",
+  "last_updated": "31 May 2026, 09:58",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -171,14 +171,14 @@
             "price": 2.95
           },
           {
-            "name": "Pınar Süd Tam Yağlı 3.3% 1l",
-            "norm": "pınar süd tam yağlı 3.3% 1l",
-            "price": 4.85
-          },
-          {
             "name": "Green Milk Kokos Südü 1 L",
             "norm": "green milk kokos südü 1 l",
             "price": 5.59
+          },
+          {
+            "name": "Pınar Süd Tam Yağlı 3.3% 1l",
+            "norm": "pınar süd tam yağlı 3.3% 1l",
+            "price": 4.85
           },
           {
             "name": "Savuşkin Süd Uht 1.5%1l",
@@ -251,14 +251,14 @@
             "price": 2.95
           },
           {
-            "name": "Milla Şokoladlı Süd 3.3% 1l",
-            "norm": "milla şokoladlı süd 3.3% 1l",
-            "price": 2.99
-          },
-          {
             "name": "Zdorovoye Menyu Kalsium Və Vitaminlə Zəngin Yulaf Südü 1% 1 Lt",
             "norm": "zdorovoye menyu kalsium və vitaminlə zəngin yulaf südü 1% 1 lt",
             "price": 4.89
+          },
+          {
+            "name": "Milla Şokoladlı Süd 3.3% 1l",
+            "norm": "milla şokoladlı süd 3.3% 1l",
+            "price": 2.99
           },
           {
             "name": "Pınar Süd Yağlı 2.5% 1l",
