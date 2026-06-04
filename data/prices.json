@@ -1,5 +1,5 @@
 {
-  "last_updated": "04 June 2026, 09:45",
+  "last_updated": "04 June 2026, 14:40",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -473,6 +473,11 @@
             "price": 2.69
           },
           {
+            "name": "Milla Laktozasız Süd 1.5% 1 L",
+            "norm": "milla laktozasız süd 1.5% 1 l",
+            "price": 3.29
+          },
+          {
             "name": "Savuskin Pr.1lt Süd 3,1% Paket",
             "norm": "savuskin pr.1lt süd 3.1% paket",
             "price": 3.1
@@ -588,6 +593,11 @@
             "price": 4.6
           },
           {
+            "name": "Milla Laktozasız Süd 1.5% 1 L",
+            "norm": "milla laktozasız süd 1.5% 1 l",
+            "price": 3.29
+          },
+          {
             "name": "Süd Y belous 3 2% T/p 1 Lt",
             "norm": "süd y belous 3 2% t/p 1 lt",
             "price": 3.07
@@ -691,6 +701,11 @@
             "name": "Azər Süd 1.5% 1 l",
             "norm": "azər süd 1.5% 1 l",
             "price": 2.29
+          },
+          {
+            "name": "Milla Laktozasız Süd 1.5% 1 L",
+            "norm": "milla laktozasız süd 1.5% 1 l",
+            "price": 3.29
           },
           {
             "name": "Atena Süd 3.4% 1 l",
