@@ -1,5 +1,5 @@
 {
-  "last_updated": "04 June 2026, 02:53",
+  "last_updated": "04 June 2026, 09:45",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -141,14 +141,14 @@
             "price": 2.19
           },
           {
-            "name": "Sizlik Süd 1.5% 1l",
-            "norm": "sizlik süd 1.5% 1l",
-            "price": 1.69
-          },
-          {
             "name": "Slavyanskoye Süd 3.2% 1l",
             "norm": "slavyanskoye süd 3.2% 1l",
             "price": 2.89
+          },
+          {
+            "name": "Sizlik Süd 1.5% 1l",
+            "norm": "sizlik süd 1.5% 1l",
+            "price": 1.69
           },
           {
             "name": "Zdorovoye Menyu Kalsium Və Vitaminlə Zəngin Yulaf Südü 1% 1 Lt",
@@ -291,14 +291,14 @@
             "price": 3.1
           },
           {
-            "name": "Sizlik Süd 1.5% 1l",
-            "norm": "sizlik süd 1.5% 1l",
-            "price": 1.69
-          },
-          {
             "name": "Slavyanskoye Süd 3.2% 1l",
             "norm": "slavyanskoye süd 3.2% 1l",
             "price": 2.89
+          },
+          {
+            "name": "Sizlik Süd 1.5% 1l",
+            "norm": "sizlik süd 1.5% 1l",
+            "price": 1.69
           },
           {
             "name": "Zdorovoye Menyu Soya Südü 1% 1 Lt",
@@ -436,14 +436,14 @@
             "price": 2.75
           },
           {
-            "name": "Sizlik Süd 1.5% 1l",
-            "norm": "sizlik süd 1.5% 1l",
-            "price": 1.69
-          },
-          {
             "name": "Slavyanskoye Süd 3.2% 1l",
             "norm": "slavyanskoye süd 3.2% 1l",
             "price": 2.89
+          },
+          {
+            "name": "Sizlik Süd 1.5% 1l",
+            "norm": "sizlik süd 1.5% 1l",
+            "price": 1.69
           },
           {
             "name": "Green Milk Kokos Südü 1 L",
