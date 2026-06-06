@@ -1,5 +1,5 @@
 {
-  "last_updated": "06 June 2026, 08:26",
+  "last_updated": "06 June 2026, 13:13",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -56,14 +56,14 @@
             "price": 5.59
           },
           {
-            "name": "Pınar Süd Tam Yağlı 3.3% 1l",
-            "norm": "pınar süd tam yağlı 3.3% 1l",
-            "price": 4.85
-          },
-          {
             "name": "Milla Süd 2 5% 1l",
             "norm": "milla süd 2 5% 1l",
             "price": 2.79
+          },
+          {
+            "name": "Pınar Süd Tam Yağlı 3.3% 1l",
+            "norm": "pınar süd tam yağlı 3.3% 1l",
+            "price": 4.85
           },
           {
             "name": "Atena Uht Süd 3.2% 1 Lt",
