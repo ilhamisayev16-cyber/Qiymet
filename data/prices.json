@@ -1,5 +1,5 @@
 {
-  "last_updated": "07 June 2026, 02:46",
+  "last_updated": "07 June 2026, 08:47",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -401,14 +401,14 @@
             "price": 2.59
           },
           {
-            "name": "Azərsüd Süd 0.3% 1l",
-            "norm": "azərsüd süd 0.3% 1l",
-            "price": 2.75
-          },
-          {
             "name": "Slavyanskoye Süd 2.5% 1l",
             "norm": "slavyanskoye süd 2.5% 1l",
             "price": 2.79
+          },
+          {
+            "name": "Azərsüd Süd 0.3% 1l",
+            "norm": "azərsüd süd 0.3% 1l",
+            "price": 2.75
           },
           {
             "name": "Azərsüd Ayran 1l",
@@ -726,31 +726,6 @@
             "price": 2.57
           },
           {
-            "name": "Milla UHT Süd 1.5% 1L",
-            "norm": "milla uht süd 1.5% 1l",
-            "price": 2.69
-          },
-          {
-            "name": "Milla Şokoladlı Süd 1L",
-            "norm": "milla şokoladlı süd 1l",
-            "price": 3.49
-          },
-          {
-            "name": "Milla UHT Süd 3.2% 1L",
-            "norm": "milla uht süd 3.2% 1l",
-            "price": 2.87
-          },
-          {
-            "name": "Milla UHT Süd 0.1% 1L",
-            "norm": "milla uht süd 0.1% 1l",
-            "price": 2.57
-          },
-          {
-            "name": "Milla UHT Süd 1.5% 1L",
-            "norm": "milla uht süd 1.5% 1l",
-            "price": 2.69
-          },
-          {
             "name": "Milla Şokoladlı Süd 1L",
             "norm": "milla şokoladlı süd 1l",
             "price": 3.49
@@ -771,9 +746,19 @@
             "price": 3.49
           },
           {
-            "name": "Milla UHT Süd 1.5% 1L",
-            "norm": "milla uht süd 1.5% 1l",
-            "price": 2.69
+            "name": "Milla UHT Süd 3.2% 1L",
+            "norm": "milla uht süd 3.2% 1l",
+            "price": 2.87
+          },
+          {
+            "name": "Milla UHT Süd 0.1% 1L",
+            "norm": "milla uht süd 0.1% 1l",
+            "price": 2.57
+          },
+          {
+            "name": "Milla Şokoladlı Süd 1L",
+            "norm": "milla şokoladlı süd 1l",
+            "price": 3.49
           }
         ]
       }
