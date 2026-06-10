@@ -1,5 +1,5 @@
 {
-  "last_updated": "09 June 2026, 19:58",
+  "last_updated": "10 June 2026, 02:40",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -23,7 +23,7 @@
           {
             "name": "Azərsüd Kefir 1l*12",
             "norm": "azərsüd kefir 1l*12",
-            "price": 2.69
+            "price": 2.25
           },
           {
             "name": "Azərsüd Süd 2.4% 1l",
@@ -41,14 +41,14 @@
             "price": 2.85
           },
           {
-            "name": "Milla Süd 0.1% 1l",
-            "norm": "milla süd 0.1% 1l",
-            "price": 2.65
-          },
-          {
             "name": "Milla Süd 3.2% 1l",
             "norm": "milla süd 3.2% 1l",
             "price": 2.95
+          },
+          {
+            "name": "Milla Süd 0.1% 1l",
+            "norm": "milla süd 0.1% 1l",
+            "price": 2.65
           },
           {
             "name": "Green Milk Kokos Südü 1 L",
@@ -146,11 +146,6 @@
             "price": 2.89
           },
           {
-            "name": "Sizlik Süd 1.5% 1l",
-            "norm": "sizlik süd 1.5% 1l",
-            "price": 1.69
-          },
-          {
             "name": "Zdorovoye Menyu Kalsium Və Vitaminlə Zəngin Yulaf Südü 1% 1 Lt",
             "norm": "zdorovoye menyu kalsium və vitaminlə zəngin yulaf südü 1% 1 lt",
             "price": 4.89
@@ -186,14 +181,14 @@
             "price": 3.29
           },
           {
-            "name": "Milla Süd 0.1% 1l",
-            "norm": "milla süd 0.1% 1l",
-            "price": 2.65
-          },
-          {
             "name": "Milla Süd 3.2% 1l",
             "norm": "milla süd 3.2% 1l",
             "price": 2.95
+          },
+          {
+            "name": "Milla Süd 0.1% 1l",
+            "norm": "milla süd 0.1% 1l",
+            "price": 2.65
           },
           {
             "name": "Azərsüd Laktozasız Süd Tetrapack 1.5% 1l",
@@ -296,11 +291,6 @@
             "price": 2.89
           },
           {
-            "name": "Sizlik Süd 1.5% 1l",
-            "norm": "sizlik süd 1.5% 1l",
-            "price": 1.69
-          },
-          {
             "name": "Zdorovoye Menyu Soya Südü 1% 1 Lt",
             "norm": "zdorovoye menyu soya südü 1% 1 lt",
             "price": 4.89
@@ -316,14 +306,14 @@
             "price": 2.95
           },
           {
-            "name": "Milla Süd 3.2% 1l",
-            "norm": "milla süd 3.2% 1l",
-            "price": 2.95
-          },
-          {
             "name": "Azərsüd Laktozasız Süd Tetrapack 1.5% 1l",
             "norm": "azərsüd laktozasız süd tetrapack 1.5% 1l",
             "price": 3.45
+          },
+          {
+            "name": "Milla Süd 3.2% 1l",
+            "norm": "milla süd 3.2% 1l",
+            "price": 2.95
           },
           {
             "name": "Milla Süd 0.1% 1l",
@@ -348,7 +338,7 @@
           {
             "name": "Azərsüd Kefir 1l*12",
             "norm": "azərsüd kefir 1l*12",
-            "price": 2.69
+            "price": 2.25
           },
           {
             "name": "Pınar Süd Tam Yağlı 3.3% 1l",
@@ -439,11 +429,6 @@
             "name": "Slavyanskoye Süd 3.2% 1l",
             "norm": "slavyanskoye süd 3.2% 1l",
             "price": 2.89
-          },
-          {
-            "name": "Sizlik Süd 1.5% 1l",
-            "norm": "sizlik süd 1.5% 1l",
-            "price": 1.69
           },
           {
             "name": "Green Milk Kokos Südü 1 L",
