@@ -1,5 +1,5 @@
 {
-  "last_updated": "12 June 2026, 02:47",
+  "last_updated": "12 June 2026, 09:59",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -391,11 +391,6 @@
             "price": 2.59
           },
           {
-            "name": "Slavyanskoye Süd 2.5% 1l",
-            "norm": "slavyanskoye süd 2.5% 1l",
-            "price": 2.79
-          },
-          {
             "name": "Azərsüd Süd 0.3% 1l",
             "norm": "azərsüd süd 0.3% 1l",
             "price": 2.75
@@ -404,6 +399,11 @@
             "name": "Azərsüd Ayran 1l",
             "norm": "azərsüd ayran 1l",
             "price": 2.59
+          },
+          {
+            "name": "Slavyanskoye Süd 2.5% 1l",
+            "norm": "slavyanskoye süd 2.5% 1l",
+            "price": 2.79
           },
           {
             "name": "Azərsüd Süd 2.4% 1l",
