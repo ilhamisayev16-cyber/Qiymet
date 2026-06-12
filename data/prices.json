@@ -1,5 +1,5 @@
 {
-  "last_updated": "12 June 2026, 14:39",
+  "last_updated": "12 June 2026, 19:57",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -19,11 +19,6 @@
             "name": "Azərsüd Süd 1.5% 1l",
             "norm": "azərsüd süd 1.5% 1l",
             "price": 2.75
-          },
-          {
-            "name": "Azərsüd Kefir 1l*12",
-            "norm": "azərsüd kefir 1l*12",
-            "price": 2.25
           },
           {
             "name": "Azərsüd Süd 2.4% 1l",
@@ -334,11 +329,6 @@
             "name": "Milla Süd 1.5% 1l",
             "norm": "milla süd 1.5% 1l",
             "price": 2.75
-          },
-          {
-            "name": "Azərsüd Kefir 1l*12",
-            "norm": "azərsüd kefir 1l*12",
-            "price": 2.25
           },
           {
             "name": "Pınar Süd Tam Yağlı 3.3% 1l",
