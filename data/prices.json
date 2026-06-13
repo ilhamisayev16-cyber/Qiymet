@@ -1,5 +1,5 @@
 {
-  "last_updated": "12 June 2026, 19:57",
+  "last_updated": "13 June 2026, 02:39",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -391,14 +391,14 @@
             "price": 2.59
           },
           {
-            "name": "Azərsüd Süd 2.4% 1l",
-            "norm": "azərsüd süd 2.4% 1l",
-            "price": 2.19
-          },
-          {
             "name": "Slavyanskoye Süd 2.5% 1l",
             "norm": "slavyanskoye süd 2.5% 1l",
             "price": 2.79
+          },
+          {
+            "name": "Azərsüd Süd 2.4% 1l",
+            "norm": "azərsüd süd 2.4% 1l",
+            "price": 2.19
           },
           {
             "name": "Atena Süd Uht 1.5% 1l",
@@ -518,14 +518,14 @@
             "price": 2.79
           },
           {
-            "name": "Azər Süd 0.3% 1 l",
-            "norm": "azər süd 0.3% 1 l",
-            "price": 2.59
-          },
-          {
             "name": "Azər Süd Ayran 1.4% 1 l",
             "norm": "azər süd ayran 1.4% 1 l",
             "price": 2.05
+          },
+          {
+            "name": "Azər Süd 0.3% 1 l",
+            "norm": "azər süd 0.3% 1 l",
+            "price": 2.59
           },
           {
             "name": "Atena Süd 1.5% 1 l",
@@ -743,14 +743,19 @@
             "price": 3.29
           },
           {
+            "name": "Atena Süd 2.4% 1 l",
+            "norm": "atena süd 2.4% 1 l",
+            "price": 2.79
+          },
+          {
             "name": "Azər Süd 1.5% Laktozasız 1 l",
             "norm": "azər süd 1.5% laktozasız 1 l",
             "price": 3.35
           },
           {
-            "name": "Atena Süd 2.4% 1 l",
-            "norm": "atena süd 2.4% 1 l",
-            "price": 2.79
+            "name": "Azər Süd Ayran 1.4% 1 l",
+            "norm": "azər süd ayran 1.4% 1 l",
+            "price": 2.05
           },
           {
             "name": "Azər Süd 0.3% 1 l",
@@ -773,11 +778,6 @@
             "price": 2.59
           },
           {
-            "name": "Azər Süd Ayran 1.4% 1 l",
-            "norm": "azər süd ayran 1.4% 1 l",
-            "price": 2.05
-          },
-          {
             "name": "Atena Süd 1.5% 1 l",
             "norm": "atena süd 1.5% 1 l",
             "price": 2.69
@@ -793,12 +793,12 @@
           {
             "name": "Milla UHT Süd 0.1% 1L",
             "norm": "milla uht süd 0.1% 1l",
-            "price": 2.57
+            "price": 2.59
           },
           {
             "name": "Milla UHT Süd 3.2% 1L",
             "norm": "milla uht süd 3.2% 1l",
-            "price": 2.87
+            "price": 2.89
           },
           {
             "name": "Milla UHT Süd 1.5% 1L",
@@ -813,12 +813,12 @@
           {
             "name": "Milla UHT Süd 0.1% 1L",
             "norm": "milla uht süd 0.1% 1l",
-            "price": 2.57
+            "price": 2.59
           },
           {
             "name": "Milla UHT Süd 3.2% 1L",
             "norm": "milla uht süd 3.2% 1l",
-            "price": 2.87
+            "price": 2.89
           },
           {
             "name": "Milla UHT Süd 1.5% 1L",
@@ -833,12 +833,12 @@
           {
             "name": "Milla UHT Süd 0.1% 1L",
             "norm": "milla uht süd 0.1% 1l",
-            "price": 2.57
+            "price": 2.59
           },
           {
             "name": "Milla UHT Süd 3.2% 1L",
             "norm": "milla uht süd 3.2% 1l",
-            "price": 2.87
+            "price": 2.89
           },
           {
             "name": "Milla Şokoladlı Süd 1L",
