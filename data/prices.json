@@ -1,5 +1,5 @@
 {
-  "last_updated": "17 June 2026, 02:54",
+  "last_updated": "17 June 2026, 10:28",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -46,11 +46,6 @@
             "price": 2.65
           },
           {
-            "name": "Pınar Süd Tam Yağlı 3.3% 1l",
-            "norm": "pınar süd tam yağlı 3.3% 1l",
-            "price": 4.95
-          },
-          {
             "name": "Green Milk Kokos Südü 1 L",
             "norm": "green milk kokos südü 1 l",
             "price": 5.59
@@ -59,6 +54,11 @@
             "name": "Milla Süd 2 5% 1l",
             "norm": "milla süd 2 5% 1l",
             "price": 2.79
+          },
+          {
+            "name": "Pınar Süd Tam Yağlı 3.3% 1l",
+            "norm": "pınar süd tam yağlı 3.3% 1l",
+            "price": 4.95
           },
           {
             "name": "Atena Uht Süd 3.2% 1 Lt",
@@ -326,14 +326,14 @@
             "price": 2.79
           },
           {
-            "name": "Pınar Süd Tam Yağlı 3.3% 1l",
-            "norm": "pınar süd tam yağlı 3.3% 1l",
-            "price": 4.95
-          },
-          {
             "name": "Milla Süd 1.5% 1l",
             "norm": "milla süd 1.5% 1l",
             "price": 2.75
+          },
+          {
+            "name": "Pınar Süd Tam Yağlı 3.3% 1l",
+            "norm": "pınar süd tam yağlı 3.3% 1l",
+            "price": 4.95
           },
           {
             "name": "Milla Şokoladlı Süd 3.3% 1l",
@@ -485,7 +485,7 @@
           {
             "name": "Süd Y belous 3 2% T/p 1 Lt",
             "norm": "süd y belous 3 2% t/p 1 lt",
-            "price": 3.07
+            "price": 2.62
           },
           {
             "name": "Parmalat 1 lt Süd 3,5% Paket",
@@ -605,7 +605,7 @@
           {
             "name": "Süd Y belous 3 2% T/p 1 Lt",
             "norm": "süd y belous 3 2% t/p 1 lt",
-            "price": 3.07
+            "price": 2.62
           },
           {
             "name": "Azər Süd 1.5% Laktozasız 1 l",
@@ -775,7 +775,7 @@
           {
             "name": "Azərsüd Ayran Nanəli 1 L",
             "norm": "azərsüd ayran nanəli 1 l",
-            "price": 2.59
+            "price": 2.03
           }
         ],
         "Rahat": [],
