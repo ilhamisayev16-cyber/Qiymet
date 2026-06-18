@@ -1,5 +1,5 @@
 {
-  "last_updated": "18 June 2026, 10:09",
+  "last_updated": "18 June 2026, 14:51",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -76,14 +76,14 @@
             "price": 2.85
           },
           {
-            "name": "Parmalat Süd 1.8% Uht 1l",
-            "norm": "parmalat süd 1.8% uht 1l",
-            "price": 4.09
-          },
-          {
             "name": "Milla Süd 1.5% 1l",
             "norm": "milla süd 1.5% 1l",
             "price": 2.75
+          },
+          {
+            "name": "Parmalat Süd 1.8% Uht 1l",
+            "norm": "parmalat süd 1.8% uht 1l",
+            "price": 4.09
           },
           {
             "name": "Parmalat Süd 3.5% Paket 1 L",
