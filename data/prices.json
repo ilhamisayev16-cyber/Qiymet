@@ -1,5 +1,5 @@
 {
-  "last_updated": "17 June 2026, 20:03",
+  "last_updated": "18 June 2026, 02:49",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -21,14 +21,14 @@
             "price": 2.75
           },
           {
-            "name": "Azərsüd Süd 2.4% 1l",
-            "norm": "azərsüd süd 2.4% 1l",
-            "price": 2.19
-          },
-          {
             "name": "Azərsüd Süd 0.3% 1l",
             "norm": "azərsüd süd 0.3% 1l",
             "price": 2.75
+          },
+          {
+            "name": "Azərsüd Süd 2.4% 1l",
+            "norm": "azərsüd süd 2.4% 1l",
+            "price": 2.19
           },
           {
             "name": "Azərsüd Süd 2.4% 1l",
@@ -206,11 +206,6 @@
             "price": 2.75
           },
           {
-            "name": "Azərsüd Süd 2.4% 1l",
-            "norm": "azərsüd süd 2.4% 1l",
-            "price": 2.19
-          },
-          {
             "name": "Parmalat Süd 1.8% Uht 1l",
             "norm": "parmalat süd 1.8% uht 1l",
             "price": 4.09
@@ -219,6 +214,11 @@
             "name": "Azərsüd Süd 0.3% 1l",
             "norm": "azərsüd süd 0.3% 1l",
             "price": 2.75
+          },
+          {
+            "name": "Azərsüd Süd 2.4% 1l",
+            "norm": "azərsüd süd 2.4% 1l",
+            "price": 2.19
           },
           {
             "name": "Azərsüd Süd 2.4% 1l",
@@ -401,6 +401,11 @@
             "price": 2.19
           },
           {
+            "name": "Azərsüd Süd 2.4% 1l",
+            "norm": "azərsüd süd 2.4% 1l",
+            "price": 2.19
+          },
+          {
             "name": "Atena Süd Uht 1.5% 1l",
             "norm": "atena süd uht 1.5% 1l",
             "price": 2.25
@@ -409,11 +414,6 @@
             "name": "Slavyanskoye Süd 1.5% 1l",
             "norm": "slavyanskoye süd 1.5% 1l",
             "price": 2.69
-          },
-          {
-            "name": "Azərsüd Süd 2.4% 1l",
-            "norm": "azərsüd süd 2.4% 1l",
-            "price": 2.19
           },
           {
             "name": "Slavyanskoye Süd 3.2% 1l",
@@ -526,6 +526,11 @@
             "name": "Atena Süd 1.5% 1 l",
             "norm": "atena süd 1.5% 1 l",
             "price": 2.69
+          },
+          {
+            "name": "Azərsüd Ayran Nanəli 1 L",
+            "norm": "azərsüd ayran nanəli 1 l",
+            "price": 2.03
           },
           {
             "name": "Alpro Süd Badam 1L",
