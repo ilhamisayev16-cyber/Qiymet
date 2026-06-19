@@ -1,5 +1,5 @@
 {
-  "last_updated": "19 June 2026, 10:15",
+  "last_updated": "19 June 2026, 14:46",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -131,9 +131,19 @@
             "price": 2.25
           },
           {
+            "name": "Zdorovoye Menyu Kalsium Və Vitaminlə Zəngin Yulaf Südü 1% 1 Lt",
+            "norm": "zdorovoye menyu kalsium və vitaminlə zəngin yulaf südü 1% 1 lt",
+            "price": 6.09
+          },
+          {
             "name": "Belous Süd 3.2% 1l",
             "norm": "belous süd 3.2% 1l",
             "price": 3.2
+          },
+          {
+            "name": "Kalleh Süd 3% Tetra Pak 1l",
+            "norm": "kalleh süd 3% tetra pak 1l",
+            "price": 2.25
           },
           {
             "name": "Azərsüd Ayran Nanəli 1 L",
@@ -144,16 +154,6 @@
             "name": "Slavyanskoye Süd 3.2% 1l",
             "norm": "slavyanskoye süd 3.2% 1l",
             "price": 2.89
-          },
-          {
-            "name": "Zdorovoye Menyu Kalsium Və Vitaminlə Zəngin Yulaf Südü 1% 1 Lt",
-            "norm": "zdorovoye menyu kalsium və vitaminlə zəngin yulaf südü 1% 1 lt",
-            "price": 6.09
-          },
-          {
-            "name": "Kalleh Süd 3% Tetra Pak 1l",
-            "norm": "kalleh süd 3% tetra pak 1l",
-            "price": 2.25
           },
           {
             "name": "Azərsüd Süd 3.2% 1l",
@@ -508,6 +508,11 @@
             "price": 2.49
           },
           {
+            "name": "Alpro Süd Badam 1L",
+            "norm": "alpro süd badam 1l",
+            "price": 9.99
+          },
+          {
             "name": "Pınar Süd 3.3% 1 l",
             "norm": "pınar süd 3.3% 1 l",
             "price": 4.9
@@ -516,6 +521,11 @@
             "name": "Azər Süd 1.5% 1 l",
             "norm": "azər süd 1.5% 1 l",
             "price": 2.69
+          },
+          {
+            "name": "Alpro Süd Kokos 1L",
+            "norm": "alpro süd kokos 1l",
+            "price": 9.99
           },
           {
             "name": "Atena Süd 2.4% 1 l",
@@ -531,21 +541,6 @@
             "name": "Azər Süd 0.3% 1 l",
             "norm": "azər süd 0.3% 1 l",
             "price": 2.59
-          },
-          {
-            "name": "Atena Süd 1.5% 1 l",
-            "norm": "atena süd 1.5% 1 l",
-            "price": 2.69
-          },
-          {
-            "name": "Alpro Süd Badam 1L",
-            "norm": "alpro süd badam 1l",
-            "price": 9.99
-          },
-          {
-            "name": "Alpro Süd Kokos 1L",
-            "norm": "alpro süd kokos 1l",
-            "price": 9.99
           },
           {
             "name": "Süd Y belous 2 5% T/p 1 Lt",
@@ -571,6 +566,11 @@
             "name": "Atena Süd 0.5% 1 L",
             "norm": "atena süd 0.5% 1 l",
             "price": 2.59
+          },
+          {
+            "name": "Atena Süd 1.5% 1 l",
+            "norm": "atena süd 1.5% 1 l",
+            "price": 2.69
           },
           {
             "name": "Milla Süd 2.5% 1 l",
@@ -866,14 +866,14 @@
             "price": 3.49
           },
           {
-            "name": "Azersud Süd 3.2% 1L",
-            "norm": "azersud süd 3.2% 1l",
-            "price": 2.39
-          },
-          {
             "name": "Milla UHT Süd 0.1% 1L",
             "norm": "milla uht süd 0.1% 1l",
             "price": 2.59
+          },
+          {
+            "name": "Milla UHT Süd 3.2% 1L",
+            "norm": "milla uht süd 3.2% 1l",
+            "price": 2.87
           },
           {
             "name": "Milla Şokoladlı Süd 1L",
@@ -881,14 +881,14 @@
             "price": 3.49
           },
           {
+            "name": "Azersud Süd 3.2% 1L",
+            "norm": "azersud süd 3.2% 1l",
+            "price": 2.39
+          },
+          {
             "name": "Milla UHT Süd 1.5% 1L",
             "norm": "milla uht süd 1.5% 1l",
             "price": 2.69
-          },
-          {
-            "name": "Milla UHT Süd 3.2% 1L",
-            "norm": "milla uht süd 3.2% 1l",
-            "price": 2.87
           },
           {
             "name": "Azersud Nanəli Ayran 1L",
