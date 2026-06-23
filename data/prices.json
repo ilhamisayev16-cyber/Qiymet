@@ -1,5 +1,5 @@
 {
-  "last_updated": "23 June 2026, 02:32",
+  "last_updated": "23 June 2026, 09:25",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -341,14 +341,14 @@
             "price": 4.95
           },
           {
-            "name": "Milla Şokoladlı Süd 3.3% 1l",
-            "norm": "milla şokoladlı süd 3.3% 1l",
-            "price": 3.59
-          },
-          {
             "name": "Azərsüd Kefir 1l*12",
             "norm": "azərsüd kefir 1l*12",
             "price": 2.25
+          },
+          {
+            "name": "Milla Şokoladlı Süd 3.3% 1l",
+            "norm": "milla şokoladlı süd 3.3% 1l",
+            "price": 3.59
           },
           {
             "name": "Savuşkin Süd Uht 1.5%1l",
@@ -753,14 +753,14 @@
             "price": 2.89
           },
           {
-            "name": "Milla Laktozasız Süd 1.5% 1 L",
-            "norm": "milla laktozasız süd 1.5% 1 l",
-            "price": 3.29
-          },
-          {
             "name": "Azər Süd 1.5% 1 l",
             "norm": "azər süd 1.5% 1 l",
             "price": 2.69
+          },
+          {
+            "name": "Milla Laktozasız Süd 1.5% 1 L",
+            "norm": "milla laktozasız süd 1.5% 1 l",
+            "price": 3.29
           },
           {
             "name": "Azər Süd 1.5% Laktozasız 1 l",
@@ -826,6 +826,11 @@
             "price": 2.87
           },
           {
+            "name": "Azersud Nanəli Ayran 1L",
+            "norm": "azersud nanəli ayran 1l",
+            "price": 2.13
+          },
+          {
             "name": "Milla Şokoladlı Süd 1L",
             "norm": "milla şokoladlı süd 1l",
             "price": 3.49
@@ -846,6 +851,11 @@
             "price": 2.39
           },
           {
+            "name": "Azersud Nanəli Ayran 1L",
+            "norm": "azersud nanəli ayran 1l",
+            "price": 2.13
+          },
+          {
             "name": "Milla Şokoladlı Süd 1L",
             "norm": "milla şokoladlı süd 1l",
             "price": 3.49
@@ -869,6 +879,11 @@
             "name": "Azersud Süd 3.2% 1L",
             "norm": "azersud süd 3.2% 1l",
             "price": 2.39
+          },
+          {
+            "name": "Azersud Nanəli Ayran 1L",
+            "norm": "azersud nanəli ayran 1l",
+            "price": 2.13
           }
         ]
       }
