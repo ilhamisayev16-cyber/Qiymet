@@ -1,5 +1,5 @@
 {
-  "last_updated": "23 June 2026, 14:31",
+  "last_updated": "23 June 2026, 19:51",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -578,6 +578,11 @@
             "price": 2.9
           },
           {
+            "name": "Parmalat Süd Protein 1.8% 1 L",
+            "norm": "parmalat süd protein 1.8% 1 l",
+            "price": 5.3
+          },
+          {
             "name": "Sevimli Dad Süd 1.5% 1 L",
             "norm": "sevimli dad süd 1.5% 1 l",
             "price": 2.55
@@ -586,11 +591,6 @@
             "name": "Sevimli Dad Süd 2.4% 1 L",
             "norm": "sevimli dad süd 2.4% 1 l",
             "price": 2.7
-          },
-          {
-            "name": "Parmalat Süd Protein 1.8% 1 L",
-            "norm": "parmalat süd protein 1.8% 1 l",
-            "price": 5.3
           },
           {
             "name": "Parmalat Süd Laktozasız 3.5% 1 L",
@@ -721,6 +721,26 @@
             "name": "Süd Y belous 2 5% T/p 1 Lt",
             "norm": "süd y belous 2 5% t/p 1 lt",
             "price": 2.55
+          },
+          {
+            "name": "Parmalat Süd Protein 1.8% 1 L",
+            "norm": "parmalat süd protein 1.8% 1 l",
+            "price": 5.3
+          },
+          {
+            "name": "Sevimli Dad Süd 1.5% 1 L",
+            "norm": "sevimli dad süd 1.5% 1 l",
+            "price": 2.55
+          },
+          {
+            "name": "Sevimli Dad Süd 2.4% 1 L",
+            "norm": "sevimli dad süd 2.4% 1 l",
+            "price": 2.7
+          },
+          {
+            "name": "Parmalat Süd Laktozasız 3.5% 1 L",
+            "norm": "parmalat süd laktozasız 3.5% 1 l",
+            "price": 4.99
           },
           {
             "name": "Atena Süd 0.5% 1 L",
