@@ -1,5 +1,5 @@
 {
-  "last_updated": "23 June 2026, 19:51",
+  "last_updated": "24 June 2026, 02:33",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -143,7 +143,7 @@
           {
             "name": "Azərsüd Ayran Nanəli 1 L",
             "norm": "azərsüd ayran nanəli 1 l",
-            "price": 2.75
+            "price": 2.3
           },
           {
             "name": "Slavyanskoye Süd 3.2% 1l",
@@ -408,7 +408,7 @@
           {
             "name": "Azərsüd Ayran 1l",
             "norm": "azərsüd ayran 1l",
-            "price": 2.59
+            "price": 2.3
           },
           {
             "name": "Slavyanskoye Süd 2.5% 1l",
@@ -443,7 +443,7 @@
           {
             "name": "Azərsüd Ayran Nanəli 1 L",
             "norm": "azərsüd ayran nanəli 1 l",
-            "price": 2.75
+            "price": 2.3
           }
         ],
         "Neptun": [
@@ -728,6 +728,11 @@
             "price": 5.3
           },
           {
+            "name": "Parmalat Süd Laktozasız 3.5% 1 L",
+            "norm": "parmalat süd laktozasız 3.5% 1 l",
+            "price": 4.99
+          },
+          {
             "name": "Sevimli Dad Süd 1.5% 1 L",
             "norm": "sevimli dad süd 1.5% 1 l",
             "price": 2.55
@@ -736,11 +741,6 @@
             "name": "Sevimli Dad Süd 2.4% 1 L",
             "norm": "sevimli dad süd 2.4% 1 l",
             "price": 2.7
-          },
-          {
-            "name": "Parmalat Süd Laktozasız 3.5% 1 L",
-            "norm": "parmalat süd laktozasız 3.5% 1 l",
-            "price": 4.99
           },
           {
             "name": "Atena Süd 0.5% 1 L",
