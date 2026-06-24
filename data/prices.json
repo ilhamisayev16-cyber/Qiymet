@@ -1,5 +1,5 @@
 {
-  "last_updated": "24 June 2026, 08:55",
+  "last_updated": "24 June 2026, 14:10",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -896,13 +896,13 @@
             "price": 2.59
           },
           {
-            "name": "Azersud Nanəli Ayran 1L",
-            "norm": "azersud nanəli ayran 1l",
+            "name": "Azersud Ayran 1L",
+            "norm": "azersud ayran 1l",
             "price": 2.13
           },
           {
-            "name": "Azersud Ayran 1L",
-            "norm": "azersud ayran 1l",
+            "name": "Azersud Nanəli Ayran 1L",
+            "norm": "azersud nanəli ayran 1l",
             "price": 2.13
           },
           {
