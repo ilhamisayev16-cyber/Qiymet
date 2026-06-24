@@ -1,5 +1,5 @@
 {
-  "last_updated": "24 June 2026, 14:10",
+  "last_updated": "24 June 2026, 19:27",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -86,6 +86,11 @@
             "price": 2.85
           },
           {
+            "name": "Belous Süd 3.2% 1l",
+            "norm": "belous süd 3.2% 1l",
+            "price": 3.2
+          },
+          {
             "name": "Parmalat Süd 3.5% Paket 1 L",
             "norm": "parmalat süd 3.5% paket 1 l",
             "price": 4.85
@@ -129,11 +134,6 @@
             "name": "Atena Süd Uht 1.5% 1l",
             "norm": "atena süd uht 1.5% 1l",
             "price": 2.25
-          },
-          {
-            "name": "Belous Süd 3.2% 1l",
-            "norm": "belous süd 3.2% 1l",
-            "price": 3.2
           },
           {
             "name": "Zdorovoye Menyu Kalsium Və Vitaminlə Zəngin Yulaf Südü 1% 1 Lt",
@@ -231,6 +231,11 @@
             "price": 4.09
           },
           {
+            "name": "Belous Süd 3.2% 1l",
+            "norm": "belous süd 3.2% 1l",
+            "price": 3.2
+          },
+          {
             "name": "Parmalat Süd 3.5% Paket 1 L",
             "norm": "parmalat süd 3.5% paket 1 l",
             "price": 4.85
@@ -279,11 +284,6 @@
             "name": "Atena Süd Uht 1.5% 1l",
             "norm": "atena süd uht 1.5% 1l",
             "price": 2.25
-          },
-          {
-            "name": "Belous Süd 3.2% 1l",
-            "norm": "belous süd 3.2% 1l",
-            "price": 3.2
           },
           {
             "name": "Slavyanskoye Süd 3.2% 1l",
@@ -351,14 +351,14 @@
             "price": 3.59
           },
           {
-            "name": "Belous Süd 3.2% 1l",
-            "norm": "belous süd 3.2% 1l",
-            "price": 3.2
-          },
-          {
             "name": "Parmalat Süd 1.8% Uht 1l",
             "norm": "parmalat süd 1.8% uht 1l",
             "price": 4.09
+          },
+          {
+            "name": "Belous Süd 3.2% 1l",
+            "norm": "belous süd 3.2% 1l",
+            "price": 3.2
           },
           {
             "name": "Savuşkin Süd Uht 1.5%1l",
@@ -896,13 +896,13 @@
             "price": 2.59
           },
           {
-            "name": "Azersud Ayran 1L",
-            "norm": "azersud ayran 1l",
+            "name": "Azersud Nanəli Ayran 1L",
+            "norm": "azersud nanəli ayran 1l",
             "price": 2.13
           },
           {
-            "name": "Azersud Nanəli Ayran 1L",
-            "norm": "azersud nanəli ayran 1l",
+            "name": "Azersud Ayran 1L",
+            "norm": "azersud ayran 1l",
             "price": 2.13
           },
           {
