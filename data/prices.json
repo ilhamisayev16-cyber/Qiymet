@@ -1,5 +1,5 @@
 {
-  "last_updated": "25 June 2026, 19:47",
+  "last_updated": "26 June 2026, 02:37",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -448,11 +448,6 @@
             "price": 2.69
           },
           {
-            "name": "Azər Süd 1lt Süd 2.4% Paket",
-            "norm": "azər süd 1lt süd 2.4% paket",
-            "price": 2.79
-          },
-          {
             "name": "Azər Süd 3.2% 1 l",
             "norm": "azər süd 3.2% 1 l",
             "price": 2.89
@@ -573,11 +568,6 @@
             "price": 2.55
           },
           {
-            "name": "Milla Süd 0,1% 1 l",
-            "norm": "milla süd 0.1% 1 l",
-            "price": 2.59
-          },
-          {
             "name": "Milla 1lt Süd 2% Şokoladlı Paket",
             "norm": "milla 1lt süd 2% şokoladlı paket",
             "price": 3.49
@@ -601,11 +591,6 @@
             "name": "Milla Süd 1,5% 1 l",
             "norm": "milla süd 1.5% 1 l",
             "price": 2.69
-          },
-          {
-            "name": "Azər Süd 1lt Süd 2.4% Paket",
-            "norm": "azər süd 1lt süd 2.4% paket",
-            "price": 2.79
           },
           {
             "name": "Azər Süd 3.2% 1 l",
@@ -708,11 +693,6 @@
             "price": 9.99
           },
           {
-            "name": "Milla Süd 0,1% 1 l",
-            "norm": "milla süd 0.1% 1 l",
-            "price": 2.59
-          },
-          {
             "name": "Parmalat Süd Protein 1.8% 1 L",
             "norm": "parmalat süd protein 1.8% 1 l",
             "price": 5.3
@@ -736,11 +716,6 @@
             "name": "Atena Süd 0.5% 1 L",
             "norm": "atena süd 0.5% 1 l",
             "price": 2.59
-          },
-          {
-            "name": "Azər Süd 1lt Süd 2.4% Paket",
-            "norm": "azər süd 1lt süd 2.4% paket",
-            "price": 2.79
           },
           {
             "name": "Alpro Süd Badam 1L",
@@ -820,11 +795,6 @@
           {
             "name": "Azər Süd 0.3% 1 l",
             "norm": "azər süd 0.3% 1 l",
-            "price": 2.59
-          },
-          {
-            "name": "Milla Süd 0,1% 1 l",
-            "norm": "milla süd 0.1% 1 l",
             "price": 2.59
           },
           {
