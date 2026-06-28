@@ -1,5 +1,5 @@
 {
-  "last_updated": "28 June 2026, 02:42",
+  "last_updated": "28 June 2026, 08:42",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -458,11 +458,6 @@
             "price": 3.29
           },
           {
-            "name": "Pınar 1lt Süd 2.5% Gerçek Yaşam Paket",
-            "norm": "pınar 1lt süd 2.5% gerçek yaşam paket",
-            "price": 4.7
-          },
-          {
             "name": "Azər Süd 1.5% Laktozasız 1 l",
             "norm": "azər süd 1.5% laktozasız 1 l",
             "price": 3.35
@@ -593,11 +588,6 @@
             "price": 2.89
           },
           {
-            "name": "Pınar 1lt Süd 2.5% Gerçek Yaşam Paket",
-            "norm": "pınar 1lt süd 2.5% gerçek yaşam paket",
-            "price": 4.7
-          },
-          {
             "name": "Savuskin Pr.1lt Süd 3,1% Paket",
             "norm": "savuskin pr.1lt süd 3.1% paket",
             "price": 3.1
@@ -711,11 +701,6 @@
             "name": "Alpro Süd Badam 1L",
             "norm": "alpro süd badam 1l",
             "price": 9.99
-          },
-          {
-            "name": "Pınar 1lt Süd 2.5% Gerçek Yaşam Paket",
-            "norm": "pınar 1lt süd 2.5% gerçek yaşam paket",
-            "price": 4.7
           },
           {
             "name": "Savuskin Pr.1lt Süd 3,1% Paket",
@@ -841,13 +826,13 @@
             "price": 2.59
           },
           {
-            "name": "Azersud Nanəli Ayran 1L",
-            "norm": "azersud nanəli ayran 1l",
+            "name": "Azersud Ayran 1L",
+            "norm": "azersud ayran 1l",
             "price": 2.13
           },
           {
-            "name": "Azersud Ayran 1L",
-            "norm": "azersud ayran 1l",
+            "name": "Azersud Nanəli Ayran 1L",
+            "norm": "azersud nanəli ayran 1l",
             "price": 2.13
           },
           {
