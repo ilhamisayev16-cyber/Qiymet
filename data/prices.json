@@ -1,5 +1,5 @@
 {
-  "last_updated": "29 June 2026, 02:43",
+  "last_updated": "29 June 2026, 10:26",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -144,6 +144,11 @@
             "name": "Kalleh Süd 3% Tetra Pak 1l",
             "norm": "kalleh süd 3% tetra pak 1l",
             "price": 2.85
+          },
+          {
+            "name": "Azərsüd Ayran Nanəli 1 L",
+            "norm": "azərsüd ayran nanəli 1 l",
+            "price": 2.3
           },
           {
             "name": "Slavyanskoye Süd 3.2% 1l",
@@ -434,6 +439,11 @@
             "name": "Parmalat Süd 3.5% Paket 1 L",
             "norm": "parmalat süd 3.5% paket 1 l",
             "price": 4.85
+          },
+          {
+            "name": "Azərsüd Ayran Nanəli 1 L",
+            "norm": "azərsüd ayran nanəli 1 l",
+            "price": 2.3
           }
         ],
         "Neptun": [
@@ -553,6 +563,11 @@
             "price": 2.9
           },
           {
+            "name": "Atena Light Süd 0.3% 1 L",
+            "norm": "atena light süd 0.3% 1 l",
+            "price": 2.5
+          },
+          {
             "name": "Parmalat Süd Protein 1.8% 1 L",
             "norm": "parmalat süd protein 1.8% 1 l",
             "price": 5.3
@@ -688,6 +703,11 @@
             "price": 2.55
           },
           {
+            "name": "Atena Light Süd 0.3% 1 L",
+            "norm": "atena light süd 0.3% 1 l",
+            "price": 2.5
+          },
+          {
             "name": "Atena Süd 0.5% 1 L",
             "norm": "atena süd 0.5% 1 l",
             "price": 2.59
@@ -781,6 +801,11 @@
             "name": "Atena Süd 1.5% 1 l",
             "norm": "atena süd 1.5% 1 l",
             "price": 2.69
+          },
+          {
+            "name": "Atena Light Süd 0.3% 1 L",
+            "norm": "atena light süd 0.3% 1 l",
+            "price": 2.5
           },
           {
             "name": "Parmalat Süd Laktozasız 3.5% 1 L",
