@@ -1,5 +1,5 @@
 {
-  "last_updated": "30 June 2026, 02:37",
+  "last_updated": "30 June 2026, 08:58",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -81,14 +81,14 @@
             "price": 2.85
           },
           {
-            "name": "Parmalat Süd 1.8% Uht 1l",
-            "norm": "parmalat süd 1.8% uht 1l",
-            "price": 4.09
-          },
-          {
             "name": "Belous Süd 3.2% 1l",
             "norm": "belous süd 3.2% 1l",
             "price": 3.2
+          },
+          {
+            "name": "Parmalat Süd 1.8% Uht 1l",
+            "norm": "parmalat süd 1.8% uht 1l",
+            "price": 4.09
           },
           {
             "name": "Belous Süd 2.5% 1l",
@@ -226,14 +226,14 @@
             "price": 2.15
           },
           {
-            "name": "Parmalat Süd 1.8% Uht 1l",
-            "norm": "parmalat süd 1.8% uht 1l",
-            "price": 4.09
-          },
-          {
             "name": "Belous Süd 3.2% 1l",
             "norm": "belous süd 3.2% 1l",
             "price": 3.2
+          },
+          {
+            "name": "Parmalat Süd 1.8% Uht 1l",
+            "norm": "parmalat süd 1.8% uht 1l",
+            "price": 4.09
           },
           {
             "name": "Belous Süd 2.5% 1l",
@@ -356,14 +356,14 @@
             "price": 2.85
           },
           {
-            "name": "Parmalat Süd 1.8% Uht 1l",
-            "norm": "parmalat süd 1.8% uht 1l",
-            "price": 4.09
-          },
-          {
             "name": "Belous Süd 3.2% 1l",
             "norm": "belous süd 3.2% 1l",
             "price": 3.2
+          },
+          {
+            "name": "Parmalat Süd 1.8% Uht 1l",
+            "norm": "parmalat süd 1.8% uht 1l",
+            "price": 4.09
           },
           {
             "name": "Kalleh Süd 3% Tetra Pak 1l",
