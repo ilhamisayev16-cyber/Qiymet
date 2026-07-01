@@ -1,5 +1,5 @@
 {
-  "last_updated": "01 July 2026, 09:32",
+  "last_updated": "01 July 2026, 14:13",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -550,7 +550,7 @@
           {
             "name": "Süd Y belous 2 5% T/p 1 Lt",
             "norm": "süd y belous 2 5% t/p 1 lt",
-            "price": 2.99
+            "price": 2.52
           },
           {
             "name": "Milla Süd 0,1% 1 l",
@@ -568,11 +568,6 @@
             "price": 2.9
           },
           {
-            "name": "Milla Süd 3.2% 1 l",
-            "norm": "milla süd 3.2% 1 l",
-            "price": 2.89
-          },
-          {
             "name": "Atena Light Süd 0.3% 1 L",
             "norm": "atena light süd 0.3% 1 l",
             "price": 2.5
@@ -581,6 +576,11 @@
             "name": "Parmalat Süd Protein 1.8% 1 L",
             "norm": "parmalat süd protein 1.8% 1 l",
             "price": 5.3
+          },
+          {
+            "name": "Milla Süd 3.2% 1 l",
+            "norm": "milla süd 3.2% 1 l",
+            "price": 2.89
           },
           {
             "name": "Atena Süd 0.5% 1 L",
@@ -683,6 +683,11 @@
             "price": 2.79
           },
           {
+            "name": "Milla Süd 3.2% 1 l",
+            "norm": "milla süd 3.2% 1 l",
+            "price": 2.89
+          },
+          {
             "name": "Atena Süd 1.5% 1 l",
             "norm": "atena süd 1.5% 1 l",
             "price": 2.69
@@ -725,12 +730,7 @@
           {
             "name": "Süd Y belous 2 5% T/p 1 Lt",
             "norm": "süd y belous 2 5% t/p 1 lt",
-            "price": 2.99
-          },
-          {
-            "name": "Milla Süd 3.2% 1 l",
-            "norm": "milla süd 3.2% 1 l",
-            "price": 2.89
+            "price": 2.52
           },
           {
             "name": "Atena Light Süd 0.3% 1 L",
@@ -843,11 +843,6 @@
             "price": 2.59
           },
           {
-            "name": "Milla Süd 3.2% 1 l",
-            "norm": "milla süd 3.2% 1 l",
-            "price": 2.89
-          },
-          {
             "name": "Atena Light Süd 0.3% 1 L",
             "norm": "atena light süd 0.3% 1 l",
             "price": 2.5
@@ -871,6 +866,11 @@
             "name": "Parmalat Süd Protein 1.8% 1 L",
             "norm": "parmalat süd protein 1.8% 1 l",
             "price": 5.3
+          },
+          {
+            "name": "Milla Süd 3.2% 1 l",
+            "norm": "milla süd 3.2% 1 l",
+            "price": 2.89
           }
         ],
         "Rahat": [],
