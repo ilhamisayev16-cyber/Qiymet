@@ -1,5 +1,5 @@
 {
-  "last_updated": "02 July 2026, 13:41",
+  "last_updated": "02 July 2026, 19:12",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -116,24 +116,19 @@
             "price": 3.29
           },
           {
-            "name": "Pınar Süd Yağlı 2.5% 1l",
-            "norm": "pınar süd yağlı 2.5% 1l",
-            "price": 4.85
-          },
-          {
             "name": "Slavyanskoye Süd 0.5% 1l",
             "norm": "slavyanskoye süd 0.5% 1l",
             "price": 2.59
           },
           {
-            "name": "Slavyanskoye Süd 1.5% 1l",
-            "norm": "slavyanskoye süd 1.5% 1l",
-            "price": 2.69
-          },
-          {
             "name": "Slavyanskoye Süd 2.5% 1l",
             "norm": "slavyanskoye süd 2.5% 1l",
             "price": 2.79
+          },
+          {
+            "name": "Slavyanskoye Süd 1.5% 1l",
+            "norm": "slavyanskoye süd 1.5% 1l",
+            "price": 2.69
           },
           {
             "name": "Atena Süd Uht 1.5% 1l",
@@ -261,11 +256,6 @@
             "price": 3.49
           },
           {
-            "name": "Pınar Süd Yağlı 2.5% 1l",
-            "norm": "pınar süd yağlı 2.5% 1l",
-            "price": 4.85
-          },
-          {
             "name": "Zdorovoye Menyu Kalsium Və Vitaminlə Zəngin Yulaf Südü 1% 1 Lt",
             "norm": "zdorovoye menyu kalsium və vitaminlə zəngin yulaf südü 1% 1 lt",
             "price": 6.09
@@ -374,11 +364,6 @@
             "name": "Belous Süd 2.5% 1l",
             "norm": "belous süd 2.5% 1l",
             "price": 2.19
-          },
-          {
-            "name": "Pınar Süd Yağlı 2.5% 1l",
-            "norm": "pınar süd yağlı 2.5% 1l",
-            "price": 4.85
           },
           {
             "name": "Savuşkin Süd 3 1% 1l",
