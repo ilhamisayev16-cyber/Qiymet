@@ -1,5 +1,5 @@
 {
-  "last_updated": "03 July 2026, 08:51",
+  "last_updated": "03 July 2026, 13:46",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -266,14 +266,14 @@
             "price": 2.59
           },
           {
-            "name": "Slavyanskoye Süd 2.5% 1l",
-            "norm": "slavyanskoye süd 2.5% 1l",
-            "price": 2.79
-          },
-          {
             "name": "Slavyanskoye Süd 1.5% 1l",
             "norm": "slavyanskoye süd 1.5% 1l",
             "price": 2.69
+          },
+          {
+            "name": "Slavyanskoye Süd 2.5% 1l",
+            "norm": "slavyanskoye süd 2.5% 1l",
+            "price": 2.79
           },
           {
             "name": "Atena Süd Uht 1.5% 1l",
@@ -433,6 +433,16 @@
         ],
         "Neptun": [
           {
+            "name": "Milla Süd 2.5% 1 l",
+            "norm": "milla süd 2.5% 1 l",
+            "price": 2.79
+          },
+          {
+            "name": "Milla Süd 1,5% 1 l",
+            "norm": "milla süd 1.5% 1 l",
+            "price": 2.69
+          },
+          {
             "name": "Azər Süd 3.2% 1 l",
             "norm": "azər süd 3.2% 1 l",
             "price": 2.39
@@ -583,6 +593,16 @@
             "price": 2.59
           },
           {
+            "name": "Milla Süd 2.5% 1 l",
+            "norm": "milla süd 2.5% 1 l",
+            "price": 2.79
+          },
+          {
+            "name": "Milla Süd 1,5% 1 l",
+            "norm": "milla süd 1.5% 1 l",
+            "price": 2.69
+          },
+          {
             "name": "Azər Süd 3.2% 1 l",
             "norm": "azər süd 3.2% 1 l",
             "price": 2.39
@@ -768,9 +788,19 @@
             "price": 2.89
           },
           {
+            "name": "Milla Süd 2.5% 1 l",
+            "norm": "milla süd 2.5% 1 l",
+            "price": 2.79
+          },
+          {
             "name": "Pınar Süd 3.3% 1 l",
             "norm": "pınar süd 3.3% 1 l",
             "price": 4.9
+          },
+          {
+            "name": "Milla Süd 1,5% 1 l",
+            "norm": "milla süd 1.5% 1 l",
+            "price": 2.69
           },
           {
             "name": "Azər Süd 3.2% 1 l",
@@ -871,13 +901,13 @@
             "price": 2.2
           },
           {
-            "name": "Azersud Nanəli Ayran 1L",
-            "norm": "azersud nanəli ayran 1l",
+            "name": "Azersud Ayran 1L",
+            "norm": "azersud ayran 1l",
             "price": 2.19
           },
           {
-            "name": "Azersud Ayran 1L",
-            "norm": "azersud ayran 1l",
+            "name": "Azersud Nanəli Ayran 1L",
+            "norm": "azersud nanəli ayran 1l",
             "price": 2.19
           },
           {
