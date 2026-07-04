@@ -1,5 +1,5 @@
 {
-  "last_updated": "03 July 2026, 19:05",
+  "last_updated": "04 July 2026, 02:07",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -266,14 +266,14 @@
             "price": 2.59
           },
           {
-            "name": "Slavyanskoye Süd 2.5% 1l",
-            "norm": "slavyanskoye süd 2.5% 1l",
-            "price": 2.79
-          },
-          {
             "name": "Slavyanskoye Süd 1.5% 1l",
             "norm": "slavyanskoye süd 1.5% 1l",
             "price": 2.69
+          },
+          {
+            "name": "Slavyanskoye Süd 2.5% 1l",
+            "norm": "slavyanskoye süd 2.5% 1l",
+            "price": 2.79
           },
           {
             "name": "Atena Süd Uht 1.5% 1l",
@@ -458,11 +458,6 @@
             "price": 3.29
           },
           {
-            "name": "Pınar 1lt Süd 2.5% Gerçek Yaşam Paket",
-            "norm": "pınar 1lt süd 2.5% gerçek yaşam paket",
-            "price": 4.7
-          },
-          {
             "name": "Savuskin Pr.1lt Süd 3,1% Paket",
             "norm": "savuskin pr.1lt süd 3.1% paket",
             "price": 3.1
@@ -613,11 +608,6 @@
             "price": 2.79
           },
           {
-            "name": "Pınar 1lt Süd 2.5% Gerçek Yaşam Paket",
-            "norm": "pınar 1lt süd 2.5% gerçek yaşam paket",
-            "price": 4.7
-          },
-          {
             "name": "Savuskin Pr.1lt Süd 3,1% Paket",
             "norm": "savuskin pr.1lt süd 3.1% paket",
             "price": 3.1
@@ -761,11 +751,6 @@
             "name": "Alpro Süd Kokos 1L",
             "norm": "alpro süd kokos 1l",
             "price": 9.99
-          },
-          {
-            "name": "Pınar 1lt Süd 2.5% Gerçek Yaşam Paket",
-            "norm": "pınar 1lt süd 2.5% gerçek yaşam paket",
-            "price": 4.7
           },
           {
             "name": "Savuskin Pr.1lt Süd 3,1% Paket",
