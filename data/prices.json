@@ -1,5 +1,5 @@
 {
-  "last_updated": "04 July 2026, 18:59",
+  "last_updated": "05 July 2026, 02:22",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -116,14 +116,14 @@
             "price": 2.59
           },
           {
-            "name": "Slavyanskoye Süd 2.5% 1l",
-            "norm": "slavyanskoye süd 2.5% 1l",
-            "price": 2.79
-          },
-          {
             "name": "Slavyanskoye Süd 1.5% 1l",
             "norm": "slavyanskoye süd 1.5% 1l",
             "price": 2.69
+          },
+          {
+            "name": "Slavyanskoye Süd 2.5% 1l",
+            "norm": "slavyanskoye süd 2.5% 1l",
+            "price": 2.79
           },
           {
             "name": "Atena Süd Uht 1.5% 1l",
@@ -458,14 +458,14 @@
             "price": 4.6
           },
           {
-            "name": "Süd Y belous 3 2% T/p 1 Lt",
-            "norm": "süd y belous 3 2% t/p 1 lt",
-            "price": 3.07
-          },
-          {
             "name": "Savuskin Pr.1 lt Süd 1,5% Paket",
             "norm": "savuskin pr.1 lt süd 1.5% paket",
             "price": 2.8
+          },
+          {
+            "name": "Süd Y belous 3 2% T/p 1 Lt",
+            "norm": "süd y belous 3 2% t/p 1 lt",
+            "price": 3.07
           },
           {
             "name": "Parmalat Süd Laktozasız 3.5% 1 L",
