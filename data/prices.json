@@ -1,5 +1,5 @@
 {
-  "last_updated": "10 July 2026, 09:21",
+  "last_updated": "10 July 2026, 14:04",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -271,14 +271,14 @@
             "price": 2.59
           },
           {
-            "name": "Slavyanskoye Süd 2.5% 1l",
-            "norm": "slavyanskoye süd 2.5% 1l",
-            "price": 2.79
-          },
-          {
             "name": "Slavyanskoye Süd 1.5% 1l",
             "norm": "slavyanskoye süd 1.5% 1l",
             "price": 2.69
+          },
+          {
+            "name": "Slavyanskoye Süd 2.5% 1l",
+            "norm": "slavyanskoye süd 2.5% 1l",
+            "price": 2.79
           },
           {
             "name": "Atena Süd Uht 1.5% 1l",
@@ -431,6 +431,11 @@
             "price": 7.85
           },
           {
+            "name": "Zdorovoye Menyu Kalsium Və Vitaminlə Zəngin Yulaf Südü 1% 1 Lt",
+            "norm": "zdorovoye menyu kalsium və vitaminlə zəngin yulaf südü 1% 1 lt",
+            "price": 6.39
+          },
+          {
             "name": "Parmalat Süd 3.5% Paket 1 L",
             "norm": "parmalat süd 3.5% paket 1 l",
             "price": 4.85
@@ -439,6 +444,11 @@
             "name": "Azərsüd Ayran Nanəli 1 L",
             "norm": "azərsüd ayran nanəli 1 l",
             "price": 2.75
+          },
+          {
+            "name": "Zdorovoye Menyu Soya Südü 1% 1 Lt",
+            "norm": "zdorovoye menyu soya südü 1% 1 lt",
+            "price": 6.65
           }
         ],
         "Neptun": [
