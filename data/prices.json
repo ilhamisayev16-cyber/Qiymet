@@ -1,5 +1,5 @@
 {
-  "last_updated": "09 July 2026, 19:25",
+  "last_updated": "10 July 2026, 02:08",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -528,11 +528,6 @@
             "price": 2.89
           },
           {
-            "name": "Alpro Süd Badam 1L",
-            "norm": "alpro süd badam 1l",
-            "price": 9.99
-          },
-          {
             "name": "Pınar Süd 3.3% 1 l",
             "norm": "pınar süd 3.3% 1 l",
             "price": 4.9
@@ -540,6 +535,11 @@
           {
             "name": "Alpro Süd Kokos 1L",
             "norm": "alpro süd kokos 1l",
+            "price": 9.99
+          },
+          {
+            "name": "Alpro Süd Badam 1L",
+            "norm": "alpro süd badam 1l",
             "price": 9.99
           },
           {
@@ -718,13 +718,13 @@
             "price": 2.59
           },
           {
-            "name": "Alpro Süd Badam 1L",
-            "norm": "alpro süd badam 1l",
+            "name": "Alpro Süd Kokos 1L",
+            "norm": "alpro süd kokos 1l",
             "price": 9.99
           },
           {
-            "name": "Alpro Süd Kokos 1L",
-            "norm": "alpro süd kokos 1l",
+            "name": "Alpro Süd Badam 1L",
+            "norm": "alpro süd badam 1l",
             "price": 9.99
           },
           {
@@ -763,11 +763,6 @@
             "price": 2.52
           },
           {
-            "name": "Alpro Süd Badam 1L",
-            "norm": "alpro süd badam 1l",
-            "price": 9.99
-          },
-          {
             "name": "Azər Süd 1lt Süd 2.4% Paket",
             "norm": "azər süd 1lt süd 2.4% paket",
             "price": 2.79
@@ -775,6 +770,11 @@
           {
             "name": "Alpro Süd Kokos 1L",
             "norm": "alpro süd kokos 1l",
+            "price": 9.99
+          },
+          {
+            "name": "Alpro Süd Badam 1L",
+            "norm": "alpro süd badam 1l",
             "price": 9.99
           },
           {
