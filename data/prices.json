@@ -1,5 +1,5 @@
 {
-  "last_updated": "11 July 2026, 01:54",
+  "last_updated": "11 July 2026, 07:42",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -81,14 +81,14 @@
             "price": 2.29
           },
           {
-            "name": "Savuşkin Süd Uht 1.5%1l",
-            "norm": "savuşkin süd uht 1.5%1l",
-            "price": 2.85
-          },
-          {
             "name": "Parmalat Süd 1.8% Uht 1l",
             "norm": "parmalat süd 1.8% uht 1l",
             "price": 4.09
+          },
+          {
+            "name": "Savuşkin Süd Uht 1.5%1l",
+            "norm": "savuşkin süd uht 1.5%1l",
+            "price": 2.85
           },
           {
             "name": "Milla Şokoladlı Süd 3.3% 1l",
@@ -351,14 +351,14 @@
             "price": 2.29
           },
           {
-            "name": "Savuşkin Süd Uht 1.5%1l",
-            "norm": "savuşkin süd uht 1.5%1l",
-            "price": 2.85
-          },
-          {
             "name": "Parmalat Süd 1.8% Uht 1l",
             "norm": "parmalat süd 1.8% uht 1l",
             "price": 4.09
+          },
+          {
+            "name": "Savuşkin Süd Uht 1.5%1l",
+            "norm": "savuşkin süd uht 1.5%1l",
+            "price": 2.85
           },
           {
             "name": "Kalleh Süd 3% Tetra Pak 1l",
@@ -558,14 +558,14 @@
             "price": 2.69
           },
           {
-            "name": "Atena Süd 2.4% 1 l",
-            "norm": "atena süd 2.4% 1 l",
-            "price": 2.79
-          },
-          {
             "name": "Parmalat Süd Protein 1.8% 1 L",
             "norm": "parmalat süd protein 1.8% 1 l",
             "price": 5.3
+          },
+          {
+            "name": "Atena Süd 2.4% 1 l",
+            "norm": "atena süd 2.4% 1 l",
+            "price": 2.79
           },
           {
             "name": "Azər Süd Ayran 1.4% 1 l",
@@ -848,14 +848,14 @@
             "price": 2.89
           },
           {
-            "name": "Atena Süd 2.4% 1 l",
-            "norm": "atena süd 2.4% 1 l",
-            "price": 2.79
-          },
-          {
             "name": "Parmalat Süd Protein 1.8% 1 L",
             "norm": "parmalat süd protein 1.8% 1 l",
             "price": 5.3
+          },
+          {
+            "name": "Atena Süd 2.4% 1 l",
+            "norm": "atena süd 2.4% 1 l",
+            "price": 2.79
           },
           {
             "name": "Azər Süd Ayran 1.4% 1 l",
