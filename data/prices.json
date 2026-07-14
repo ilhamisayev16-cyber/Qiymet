@@ -1,5 +1,5 @@
 {
-  "last_updated": "13 July 2026, 19:14",
+  "last_updated": "14 July 2026, 01:46",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -503,6 +503,11 @@
             "price": 4.6
           },
           {
+            "name": "Parmalat Süd 1.8%  1 L",
+            "norm": "parmalat süd 1.8% 1 l",
+            "price": 3.9
+          },
+          {
             "name": "Süd Y belous 3 2% T/p 1 Lt",
             "norm": "süd y belous 3 2% t/p 1 lt",
             "price": 3.07
@@ -526,11 +531,6 @@
             "name": "Sevimli Dad Süd 2.4% 1 L",
             "norm": "sevimli dad süd 2.4% 1 l",
             "price": 2.7
-          },
-          {
-            "name": "Parmalat Süd 1.8%  1 L",
-            "norm": "parmalat süd 1.8% 1 l",
-            "price": 3.9
           },
           {
             "name": "Azər Süd 1lt Kefir 1.5% (Plastik Qabda)",
@@ -678,6 +678,11 @@
             "price": 3.35
           },
           {
+            "name": "Parmalat Süd 1.8%  1 L",
+            "norm": "parmalat süd 1.8% 1 l",
+            "price": 3.9
+          },
+          {
             "name": "Süd Y belous 3 2% T/p 1 Lt",
             "norm": "süd y belous 3 2% t/p 1 lt",
             "price": 3.07
@@ -706,11 +711,6 @@
             "name": "Sevimli Dad Süd 2.4% 1 L",
             "norm": "sevimli dad süd 2.4% 1 l",
             "price": 2.7
-          },
-          {
-            "name": "Parmalat Süd 1.8%  1 L",
-            "norm": "parmalat süd 1.8% 1 l",
-            "price": 3.9
           },
           {
             "name": "Azər Süd 1.5% 1 l",
@@ -868,6 +868,11 @@
             "price": 2.79
           },
           {
+            "name": "Parmalat Süd 1.8%  1 L",
+            "norm": "parmalat süd 1.8% 1 l",
+            "price": 3.9
+          },
+          {
             "name": "Azər Süd 0.3% 1 l",
             "norm": "azər süd 0.3% 1 l",
             "price": 2.59
@@ -891,11 +896,6 @@
             "name": "Atena Süd 0.5% 1 L",
             "norm": "atena süd 0.5% 1 l",
             "price": 2.59
-          },
-          {
-            "name": "Parmalat Süd 1.8%  1 L",
-            "norm": "parmalat süd 1.8% 1 l",
-            "price": 3.9
           },
           {
             "name": "Atena Süd 1.5% 1 l",
