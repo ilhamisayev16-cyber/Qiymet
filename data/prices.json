@@ -1,5 +1,5 @@
 {
-  "last_updated": "15 July 2026, 01:43",
+  "last_updated": "15 July 2026, 07:53",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -931,11 +931,6 @@
         "Rahat": [],
         "OBA": [
           {
-            "name": "Milla UHT Süd 0.1% 1L",
-            "norm": "milla uht süd 0.1% 1l",
-            "price": 2.2
-          },
-          {
             "name": "Milla UHT Süd 3.2% 1L",
             "norm": "milla uht süd 3.2% 1l",
             "price": 2.89
@@ -961,11 +956,6 @@
             "price": 3.49
           },
           {
-            "name": "Milla UHT Süd 0.1% 1L",
-            "norm": "milla uht süd 0.1% 1l",
-            "price": 2.2
-          },
-          {
             "name": "Milla UHT Süd 3.2% 1L",
             "norm": "milla uht süd 3.2% 1l",
             "price": 2.89
@@ -984,11 +974,6 @@
             "name": "Milla Şokoladlı Süd 1L",
             "norm": "milla şokoladlı süd 1l",
             "price": 3.49
-          },
-          {
-            "name": "Milla UHT Süd 0.1% 1L",
-            "norm": "milla uht süd 0.1% 1l",
-            "price": 2.2
           },
           {
             "name": "Milla UHT Süd 3.2% 1L",
