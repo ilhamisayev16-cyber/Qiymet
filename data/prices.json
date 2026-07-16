@@ -1,5 +1,5 @@
 {
-  "last_updated": "16 July 2026, 13:24",
+  "last_updated": "16 July 2026, 18:58",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -533,11 +533,6 @@
             "price": 2.7
           },
           {
-            "name": "Azər Süd 1lt Kefir 1.5% (Plastik Qabda)",
-            "norm": "azər süd 1lt kefir 1.5% (plastik qabda)",
-            "price": 2.7
-          },
-          {
             "name": "Milla Süd 3.2% 1 l",
             "norm": "milla süd 3.2% 1 l",
             "price": 2.89
@@ -615,7 +610,7 @@
           {
             "name": "Azərsüd Ayran Nanəli 1 L",
             "norm": "azərsüd ayran nanəli 1 l",
-            "price": 2.59
+            "price": 2.03
           },
           {
             "name": "Süd Y belous 2 5% T/p 1 Lt",
@@ -798,11 +793,6 @@
             "price": 3.1
           },
           {
-            "name": "Azər Süd 1lt Kefir 1.5% (Plastik Qabda)",
-            "norm": "azər süd 1lt kefir 1.5% (plastik qabda)",
-            "price": 2.7
-          },
-          {
             "name": "Milla 1lt Süd 2% Şokoladlı Paket",
             "norm": "milla 1lt süd 2% şokoladlı paket",
             "price": 3.49
@@ -905,7 +895,7 @@
           {
             "name": "Azərsüd Ayran Nanəli 1 L",
             "norm": "azərsüd ayran nanəli 1 l",
-            "price": 2.59
+            "price": 2.03
           },
           {
             "name": "Atena Light Süd 0.3% 1 L",
