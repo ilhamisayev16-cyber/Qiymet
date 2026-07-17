@@ -1,5 +1,5 @@
 {
-  "last_updated": "16 July 2026, 18:58",
+  "last_updated": "17 July 2026, 01:56",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -271,14 +271,14 @@
             "price": 2.59
           },
           {
-            "name": "Slavyanskoye Süd 2.5% 1l",
-            "norm": "slavyanskoye süd 2.5% 1l",
-            "price": 2.79
-          },
-          {
             "name": "Slavyanskoye Süd 1.5% 1l",
             "norm": "slavyanskoye süd 1.5% 1l",
             "price": 2.69
+          },
+          {
+            "name": "Slavyanskoye Süd 2.5% 1l",
+            "norm": "slavyanskoye süd 2.5% 1l",
+            "price": 2.79
           },
           {
             "name": "Atena Süd Uht 1.5% 1l",
@@ -933,12 +933,12 @@
           {
             "name": "Azersud Ayran 1L",
             "norm": "azersud ayran 1l",
-            "price": 2.59
+            "price": 2.05
           },
           {
             "name": "Azersud Nanəli Ayran 1L",
             "norm": "azersud nanəli ayran 1l",
-            "price": 2.59
+            "price": 2.05
           },
           {
             "name": "Milla Şokoladlı Süd 1L",
@@ -958,7 +958,7 @@
           {
             "name": "Azersud Nanəli Ayran 1L",
             "norm": "azersud nanəli ayran 1l",
-            "price": 2.59
+            "price": 2.05
           },
           {
             "name": "Milla Şokoladlı Süd 1L",
@@ -983,12 +983,12 @@
           {
             "name": "Azersud Ayran 1L",
             "norm": "azersud ayran 1l",
-            "price": 2.59
+            "price": 2.05
           },
           {
             "name": "Azersud Nanəli Ayran 1L",
             "norm": "azersud nanəli ayran 1l",
-            "price": 2.59
+            "price": 2.05
           }
         ]
       }
