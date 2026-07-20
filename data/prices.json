@@ -1,5 +1,5 @@
 {
-  "last_updated": "20 July 2026, 08:43",
+  "last_updated": "20 July 2026, 13:51",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -508,6 +508,11 @@
             "price": 2.7
           },
           {
+            "name": "Azər Süd 1lt Kefir 1.5% (Plastik Qabda)",
+            "norm": "azər süd 1lt kefir 1.5% (plastik qabda)",
+            "price": 2.7
+          },
+          {
             "name": "Milla Süd 3.2% 1 l",
             "norm": "milla süd 3.2% 1 l",
             "price": 2.49
@@ -756,6 +761,11 @@
             "name": "Savuskin Pr.1lt Süd 3,1% Paket",
             "norm": "savuskin pr.1lt süd 3.1% paket",
             "price": 3.1
+          },
+          {
+            "name": "Azər Süd 1lt Kefir 1.5% (Plastik Qabda)",
+            "norm": "azər süd 1lt kefir 1.5% (plastik qabda)",
+            "price": 2.7
           },
           {
             "name": "Milla 1lt Süd 2% Şokoladlı Paket",
