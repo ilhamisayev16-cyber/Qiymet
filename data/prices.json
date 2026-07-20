@@ -1,5 +1,5 @@
 {
-  "last_updated": "20 July 2026, 02:12",
+  "last_updated": "20 July 2026, 08:43",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -81,11 +81,6 @@
             "price": 2.85
           },
           {
-            "name": "Parmalat Süd 1.8% Uht 1l",
-            "norm": "parmalat süd 1.8% uht 1l",
-            "price": 4.09
-          },
-          {
             "name": "Milla Şokoladlı Süd 3.3% 1l",
             "norm": "milla şokoladlı süd 3.3% 1l",
             "price": 3.49
@@ -99,6 +94,11 @@
             "name": "Parmalat Süd 3.5% Paket 1 L",
             "norm": "parmalat süd 3.5% paket 1 l",
             "price": 4.85
+          },
+          {
+            "name": "Parmalat Süd 1.8% Uht 1l",
+            "norm": "parmalat süd 1.8% uht 1l",
+            "price": 4.09
           },
           {
             "name": "Savuşkin Süd 3 1% 1l",
@@ -134,11 +134,6 @@
             "name": "Zdorovoye Menyu Kalsium Və Vitaminlə Zəngin Yulaf Südü 1% 1 Lt",
             "norm": "zdorovoye menyu kalsium və vitaminlə zəngin yulaf südü 1% 1 lt",
             "price": 6.39
-          },
-          {
-            "name": "Azərsüd Ayran Nanəli 1 L",
-            "norm": "azərsüd ayran nanəli 1 l",
-            "price": 2.75
           },
           {
             "name": "Kalleh Süd 3% Tetra Pak 1l",
@@ -221,11 +216,6 @@
             "price": 2.89
           },
           {
-            "name": "Parmalat Süd 1.8% Uht 1l",
-            "norm": "parmalat süd 1.8% uht 1l",
-            "price": 4.09
-          },
-          {
             "name": "Belous Süd 2.5% 1l",
             "norm": "belous süd 2.5% 1l",
             "price": 3.29
@@ -234,6 +224,11 @@
             "name": "Parmalat Süd 3.5% Paket 1 L",
             "norm": "parmalat süd 3.5% paket 1 l",
             "price": 4.85
+          },
+          {
+            "name": "Parmalat Süd 1.8% Uht 1l",
+            "norm": "parmalat süd 1.8% uht 1l",
+            "price": 4.09
           },
           {
             "name": "Atena Uht Süd 3.2% 1 Lt",
@@ -341,11 +336,6 @@
             "price": 2.85
           },
           {
-            "name": "Parmalat Süd 1.8% Uht 1l",
-            "norm": "parmalat süd 1.8% uht 1l",
-            "price": 4.09
-          },
-          {
             "name": "Kalleh Süd 3% Tetra Pak 1l",
             "norm": "kalleh süd 3% tetra pak 1l",
             "price": 2.25
@@ -354,6 +344,11 @@
             "name": "Belous Süd 2.5% 1l",
             "norm": "belous süd 2.5% 1l",
             "price": 3.29
+          },
+          {
+            "name": "Parmalat Süd 1.8% Uht 1l",
+            "norm": "parmalat süd 1.8% uht 1l",
+            "price": 4.09
           },
           {
             "name": "Pınar Süd Yağlı 2.5% 1l",
@@ -573,6 +568,11 @@
             "price": 2.59
           },
           {
+            "name": "Süd Y belous 2 5% T/p 1 Lt",
+            "norm": "süd y belous 2 5% t/p 1 lt",
+            "price": 2.99
+          },
+          {
             "name": "Milla 1lt Süd 2% Şokoladlı Paket",
             "norm": "milla 1lt süd 2% şokoladlı paket",
             "price": 3.49
@@ -591,11 +591,6 @@
             "name": "Atena Süd 0.5% 1 L",
             "norm": "atena süd 0.5% 1 l",
             "price": 2.59
-          },
-          {
-            "name": "Süd Y belous 2 5% T/p 1 Lt",
-            "norm": "süd y belous 2 5% t/p 1 lt",
-            "price": 2.99
           },
           {
             "name": "Milla Süd 2.5% 1 l",
@@ -733,6 +728,11 @@
             "price": 2.9
           },
           {
+            "name": "Süd Y belous 2 5% T/p 1 Lt",
+            "norm": "süd y belous 2 5% t/p 1 lt",
+            "price": 2.99
+          },
+          {
             "name": "Atena Light Süd 0.3% 1 L",
             "norm": "atena light süd 0.3% 1 l",
             "price": 2.5
@@ -741,11 +741,6 @@
             "name": "Atena Süd 0.5% 1 L",
             "norm": "atena süd 0.5% 1 l",
             "price": 2.59
-          },
-          {
-            "name": "Süd Y belous 2 5% T/p 1 Lt",
-            "norm": "süd y belous 2 5% t/p 1 lt",
-            "price": 2.99
           },
           {
             "name": "Alpro Süd Kokos 1L",
