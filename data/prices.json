@@ -1,5 +1,5 @@
 {
-  "last_updated": "20 July 2026, 19:28",
+  "last_updated": "21 July 2026, 01:54",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -356,6 +356,11 @@
             "price": 4.85
           },
           {
+            "name": "Savuşkin Süd 3 1% 1l",
+            "norm": "savuşkin süd 3 1% 1l",
+            "price": 3.29
+          },
+          {
             "name": "Slavyanskoye Süd 2.5% 1l",
             "norm": "slavyanskoye süd 2.5% 1l",
             "price": 2.79
@@ -364,11 +369,6 @@
             "name": "Azərsüd Süd 2.4% 1l",
             "norm": "azərsüd süd 2.4% 1l",
             "price": 2.85
-          },
-          {
-            "name": "Savuşkin Süd 3 1% 1l",
-            "norm": "savuşkin süd 3 1% 1l",
-            "price": 3.29
           },
           {
             "name": "Slavyanskoye Süd 0.5% 1l",
@@ -478,24 +478,19 @@
             "price": 4.6
           },
           {
-            "name": "Parmalat Süd 1.8%  1 L",
-            "norm": "parmalat süd 1.8% 1 l",
-            "price": 3.35
-          },
-          {
             "name": "Süd Y belous 3 2% T/p 1 Lt",
             "norm": "süd y belous 3 2% t/p 1 lt",
             "price": 2.65
           },
           {
+            "name": "Parmalat Süd 1.8%  1 L",
+            "norm": "parmalat süd 1.8% 1 l",
+            "price": 3.35
+          },
+          {
             "name": "Parmalat Süd Laktozasız 3.5% 1 L",
             "norm": "parmalat süd laktozasız 3.5% 1 l",
             "price": 4.99
-          },
-          {
-            "name": "Pınar 1lt Süd 1.5% Denge Laktozsuz Paket",
-            "norm": "pınar 1lt süd 1.5% denge laktozsuz paket",
-            "price": 5.1
           },
           {
             "name": "Sevimli Dad Süd 1.5% 1 L",
@@ -533,6 +528,11 @@
             "price": 5.3
           },
           {
+            "name": "Alpro Süd Badam 1L",
+            "norm": "alpro süd badam 1l",
+            "price": 9.99
+          },
+          {
             "name": "Atena Süd 2.4% 1 l",
             "norm": "atena süd 2.4% 1 l",
             "price": 2.79
@@ -550,11 +550,6 @@
           {
             "name": "Alpro Süd Kokos 1L",
             "norm": "alpro süd kokos 1l",
-            "price": 9.99
-          },
-          {
-            "name": "Alpro Süd Badam 1L",
-            "norm": "alpro süd badam 1l",
             "price": 9.99
           },
           {
@@ -633,11 +628,6 @@
             "price": 4.6
           },
           {
-            "name": "Pınar 1lt Süd 1.5% Denge Laktozsuz Paket",
-            "norm": "pınar 1lt süd 1.5% denge laktozsuz paket",
-            "price": 5.1
-          },
-          {
             "name": "Milla Laktozasız Süd 1.5% 1 L",
             "norm": "milla laktozasız süd 1.5% 1 l",
             "price": 3.29
@@ -648,14 +638,14 @@
             "price": 3.35
           },
           {
-            "name": "Parmalat Süd 1.8%  1 L",
-            "norm": "parmalat süd 1.8% 1 l",
-            "price": 3.35
-          },
-          {
             "name": "Süd Y belous 3 2% T/p 1 Lt",
             "norm": "süd y belous 3 2% t/p 1 lt",
             "price": 2.65
+          },
+          {
+            "name": "Parmalat Süd 1.8%  1 L",
+            "norm": "parmalat süd 1.8% 1 l",
+            "price": 3.35
           },
           {
             "name": "Milla Süd 3.2% 1 l",
@@ -703,13 +693,13 @@
             "price": 1.89
           },
           {
-            "name": "Alpro Süd Kokos 1L",
-            "norm": "alpro süd kokos 1l",
+            "name": "Alpro Süd Badam 1L",
+            "norm": "alpro süd badam 1l",
             "price": 9.99
           },
           {
-            "name": "Alpro Süd Badam 1L",
-            "norm": "alpro süd badam 1l",
+            "name": "Alpro Süd Kokos 1L",
+            "norm": "alpro süd kokos 1l",
             "price": 9.99
           },
           {
@@ -748,13 +738,13 @@
             "price": 2.59
           },
           {
-            "name": "Alpro Süd Kokos 1L",
-            "norm": "alpro süd kokos 1l",
+            "name": "Alpro Süd Badam 1L",
+            "norm": "alpro süd badam 1l",
             "price": 9.99
           },
           {
-            "name": "Alpro Süd Badam 1L",
-            "norm": "alpro süd badam 1l",
+            "name": "Alpro Süd Kokos 1L",
+            "norm": "alpro süd kokos 1l",
             "price": 9.99
           },
           {
@@ -771,11 +761,6 @@
             "name": "Milla 1lt Süd 2% Şokoladlı Paket",
             "norm": "milla 1lt süd 2% şokoladlı paket",
             "price": 3.49
-          },
-          {
-            "name": "Pınar 1lt Süd 1.5% Denge Laktozsuz Paket",
-            "norm": "pınar 1lt süd 1.5% denge laktozsuz paket",
-            "price": 5.1
           },
           {
             "name": "Milla Süd 3.2% 1 l",
@@ -908,7 +893,7 @@
           {
             "name": "Azersud Ayran 1L",
             "norm": "azersud ayran 1l",
-            "price": 2.05
+            "price": 1.99
           },
           {
             "name": "Milla Şokoladlı Süd 1L",
@@ -948,7 +933,7 @@
           {
             "name": "Azersud Ayran 1L",
             "norm": "azersud ayran 1l",
-            "price": 2.05
+            "price": 1.99
           }
         ]
       }
