@@ -1,5 +1,5 @@
 {
-  "last_updated": "22 July 2026, 01:53",
+  "last_updated": "22 July 2026, 08:11",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -386,14 +386,14 @@
             "price": 2.75
           },
           {
-            "name": "Azərsüd Ayran 1l",
-            "norm": "azərsüd ayran 1l",
-            "price": 2.19
-          },
-          {
             "name": "Slavyanskoye Süd 1.5% 1l",
             "norm": "slavyanskoye süd 1.5% 1l",
             "price": 2.69
+          },
+          {
+            "name": "Azərsüd Ayran 1l",
+            "norm": "azərsüd ayran 1l",
+            "price": 2.19
           },
           {
             "name": "Atena Süd Uht 1.5% 1l",
@@ -493,6 +493,11 @@
             "price": 4.99
           },
           {
+            "name": "Pınar 1lt Süd 1.5% Denge Laktozsuz Paket",
+            "norm": "pınar 1lt süd 1.5% denge laktozsuz paket",
+            "price": 5.1
+          },
+          {
             "name": "Sevimli Dad Süd 1.5% 1 L",
             "norm": "sevimli dad süd 1.5% 1 l",
             "price": 2.55
@@ -500,11 +505,6 @@
           {
             "name": "Sevimli Dad Süd 2.4% 1 L",
             "norm": "sevimli dad süd 2.4% 1 l",
-            "price": 2.7
-          },
-          {
-            "name": "Azər Süd 1lt Kefir 1.5% (Plastik Qabda)",
-            "norm": "azər süd 1lt kefir 1.5% (plastik qabda)",
             "price": 2.7
           },
           {
@@ -556,11 +556,6 @@
             "name": "Atena Süd 1.5% 1 l",
             "norm": "atena süd 1.5% 1 l",
             "price": 1.89
-          },
-          {
-            "name": "Azərsüd Ayran Nanəli 1 L",
-            "norm": "azərsüd ayran nanəli 1 l",
-            "price": 2.03
           },
           {
             "name": "Milla Süd 0,1% 1 l",
@@ -626,6 +621,11 @@
             "name": "Parmalat 1 lt Süd 3,5% Paket",
             "norm": "parmalat 1 lt süd 3.5% paket",
             "price": 4.6
+          },
+          {
+            "name": "Pınar 1lt Süd 1.5% Denge Laktozsuz Paket",
+            "norm": "pınar 1lt süd 1.5% denge laktozsuz paket",
+            "price": 5.1
           },
           {
             "name": "Milla Laktozasız Süd 1.5% 1 L",
@@ -753,14 +753,14 @@
             "price": 3.1
           },
           {
-            "name": "Azər Süd 1lt Kefir 1.5% (Plastik Qabda)",
-            "norm": "azər süd 1lt kefir 1.5% (plastik qabda)",
-            "price": 2.7
-          },
-          {
             "name": "Milla 1lt Süd 2% Şokoladlı Paket",
             "norm": "milla 1lt süd 2% şokoladlı paket",
             "price": 3.49
+          },
+          {
+            "name": "Pınar 1lt Süd 1.5% Denge Laktozsuz Paket",
+            "norm": "pınar 1lt süd 1.5% denge laktozsuz paket",
+            "price": 5.1
           },
           {
             "name": "Milla Süd 3.2% 1 l",
@@ -896,13 +896,13 @@
             "price": 2.69
           },
           {
-            "name": "Azersud Ayran 1L",
-            "norm": "azersud ayran 1l",
+            "name": "Azersud Nanəli Ayran 1L",
+            "norm": "azersud nanəli ayran 1l",
             "price": 1.99
           },
           {
-            "name": "Azersud Nanəli Ayran 1L",
-            "norm": "azersud nanəli ayran 1l",
+            "name": "Azersud Ayran 1L",
+            "norm": "azersud ayran 1l",
             "price": 1.99
           },
           {
