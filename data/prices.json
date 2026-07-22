@@ -1,5 +1,5 @@
 {
-  "last_updated": "21 July 2026, 19:06",
+  "last_updated": "22 July 2026, 01:53",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -106,14 +106,14 @@
             "price": 3.29
           },
           {
-            "name": "Pınar Süd Yağlı 2.5% 1l",
-            "norm": "pınar süd yağlı 2.5% 1l",
-            "price": 4.85
-          },
-          {
             "name": "Slavyanskoye Süd 2.5% 1l",
             "norm": "slavyanskoye süd 2.5% 1l",
             "price": 2.79
+          },
+          {
+            "name": "Pınar Süd Yağlı 2.5% 1l",
+            "norm": "pınar süd yağlı 2.5% 1l",
+            "price": 4.85
           },
           {
             "name": "Slavyanskoye Süd 0.5% 1l",
@@ -241,14 +241,14 @@
             "price": 3.49
           },
           {
-            "name": "Pınar Süd Yağlı 2.5% 1l",
-            "norm": "pınar süd yağlı 2.5% 1l",
-            "price": 4.85
-          },
-          {
             "name": "Slavyanskoye Süd 2.5% 1l",
             "norm": "slavyanskoye süd 2.5% 1l",
             "price": 2.79
+          },
+          {
+            "name": "Pınar Süd Yağlı 2.5% 1l",
+            "norm": "pınar süd yağlı 2.5% 1l",
+            "price": 4.85
           },
           {
             "name": "Zdorovoye Menyu Kalsium Və Vitaminlə Zəngin Yulaf Südü 1% 1 Lt",
@@ -351,11 +351,6 @@
             "price": 4.09
           },
           {
-            "name": "Pınar Süd Yağlı 2.5% 1l",
-            "norm": "pınar süd yağlı 2.5% 1l",
-            "price": 4.85
-          },
-          {
             "name": "Savuşkin Süd 3 1% 1l",
             "norm": "savuşkin süd 3 1% 1l",
             "price": 3.29
@@ -369,6 +364,11 @@
             "name": "Azərsüd Süd 2.4% 1l",
             "norm": "azərsüd süd 2.4% 1l",
             "price": 2.85
+          },
+          {
+            "name": "Pınar Süd Yağlı 2.5% 1l",
+            "norm": "pınar süd yağlı 2.5% 1l",
+            "price": 4.85
           },
           {
             "name": "Slavyanskoye Süd 0.5% 1l",
@@ -388,7 +388,7 @@
           {
             "name": "Azərsüd Ayran 1l",
             "norm": "azərsüd ayran 1l",
-            "price": 2.59
+            "price": 2.19
           },
           {
             "name": "Slavyanskoye Süd 1.5% 1l",
@@ -423,7 +423,7 @@
           {
             "name": "Azərsüd Ayran Nanəli 1 L",
             "norm": "azərsüd ayran nanəli 1 l",
-            "price": 2.75
+            "price": 2.19
           },
           {
             "name": "Zdorovoye Menyu Soya Südü 1% 1 Lt",
@@ -896,13 +896,13 @@
             "price": 2.69
           },
           {
-            "name": "Azersud Nanəli Ayran 1L",
-            "norm": "azersud nanəli ayran 1l",
+            "name": "Azersud Ayran 1L",
+            "norm": "azersud ayran 1l",
             "price": 1.99
           },
           {
-            "name": "Azersud Ayran 1L",
-            "norm": "azersud ayran 1l",
+            "name": "Azersud Nanəli Ayran 1L",
+            "norm": "azersud nanəli ayran 1l",
             "price": 1.99
           },
           {
