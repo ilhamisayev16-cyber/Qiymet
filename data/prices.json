@@ -1,5 +1,5 @@
 {
-  "last_updated": "22 July 2026, 08:11",
+  "last_updated": "22 July 2026, 13:24",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -448,6 +448,11 @@
             "price": 2.89
           },
           {
+            "name": "Azər Süd 1lt Süd 2.4% Paket",
+            "norm": "azər süd 1lt süd 2.4% paket",
+            "price": 2.79
+          },
+          {
             "name": "Milla Laktozasız Süd 1.5% 1 L",
             "norm": "milla laktozasız süd 1.5% 1 l",
             "price": 3.29
@@ -513,9 +518,19 @@
             "price": 2.49
           },
           {
+            "name": "Alpro Süd Badam 1L",
+            "norm": "alpro süd badam 1l",
+            "price": 9.99
+          },
+          {
             "name": "Pınar Süd 3.3% 1 l",
             "norm": "pınar süd 3.3% 1 l",
             "price": 4.9
+          },
+          {
+            "name": "Alpro Süd Kokos 1L",
+            "norm": "alpro süd kokos 1l",
+            "price": 9.99
           },
           {
             "name": "Azər Süd 1.5% 1 l",
@@ -526,11 +541,6 @@
             "name": "Parmalat Süd Protein 1.8% 1 L",
             "norm": "parmalat süd protein 1.8% 1 l",
             "price": 5.3
-          },
-          {
-            "name": "Alpro Süd Badam 1L",
-            "norm": "alpro süd badam 1l",
-            "price": 9.99
           },
           {
             "name": "Atena Süd 2.4% 1 l",
@@ -548,16 +558,6 @@
             "price": 2.59
           },
           {
-            "name": "Alpro Süd Kokos 1L",
-            "norm": "alpro süd kokos 1l",
-            "price": 9.99
-          },
-          {
-            "name": "Atena Süd 1.5% 1 l",
-            "norm": "atena süd 1.5% 1 l",
-            "price": 1.89
-          },
-          {
             "name": "Milla Süd 0,1% 1 l",
             "norm": "milla süd 0.1% 1 l",
             "price": 2.59
@@ -588,6 +588,11 @@
             "price": 2.59
           },
           {
+            "name": "Atena Süd 1.5% 1 l",
+            "norm": "atena süd 1.5% 1 l",
+            "price": 1.89
+          },
+          {
             "name": "Milla Süd 2.5% 1 l",
             "norm": "milla süd 2.5% 1 l",
             "price": 2.79
@@ -601,6 +606,11 @@
             "name": "Azər Süd 3.2% 1 l",
             "norm": "azər süd 3.2% 1 l",
             "price": 2.89
+          },
+          {
+            "name": "Azər Süd 1lt Süd 2.4% Paket",
+            "norm": "azər süd 1lt süd 2.4% paket",
+            "price": 2.79
           },
           {
             "name": "Savuskin Pr.1lt Süd 3,1% Paket",
@@ -741,6 +751,11 @@
             "name": "Alpro Süd Badam 1L",
             "norm": "alpro süd badam 1l",
             "price": 9.99
+          },
+          {
+            "name": "Azər Süd 1lt Süd 2.4% Paket",
+            "norm": "azər süd 1lt süd 2.4% paket",
+            "price": 2.79
           },
           {
             "name": "Alpro Süd Kokos 1L",
