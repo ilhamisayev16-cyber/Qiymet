@@ -1,5 +1,5 @@
 {
-  "last_updated": "24 July 2026, 19:14",
+  "last_updated": "25 July 2026, 01:56",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -483,14 +483,14 @@
             "price": 3.29
           },
           {
-            "name": "Savuskin Pr.1lt Süd 3,1% Paket",
-            "norm": "savuskin pr.1lt süd 3.1% paket",
-            "price": 3.1
-          },
-          {
             "name": "Milla Süd 3.2% 1 l",
             "norm": "milla süd 3.2% 1 l",
             "price": 2.49
+          },
+          {
+            "name": "Savuskin Pr.1lt Süd 3,1% Paket",
+            "norm": "savuskin pr.1lt süd 3.1% paket",
+            "price": 3.1
           },
           {
             "name": "Savuskin Pr.1 lt Süd 1,5% Paket",
@@ -633,14 +633,14 @@
             "price": 2.79
           },
           {
-            "name": "Savuskin Pr.1lt Süd 3,1% Paket",
-            "norm": "savuskin pr.1lt süd 3.1% paket",
-            "price": 3.1
-          },
-          {
             "name": "Milla Süd 3.2% 1 l",
             "norm": "milla süd 3.2% 1 l",
             "price": 2.49
+          },
+          {
+            "name": "Savuskin Pr.1lt Süd 3,1% Paket",
+            "norm": "savuskin pr.1lt süd 3.1% paket",
+            "price": 3.1
           },
           {
             "name": "Savuskin Pr.1 lt Süd 1,5% Paket",
