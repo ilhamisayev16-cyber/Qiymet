@@ -1,5 +1,5 @@
 {
-  "last_updated": "25 July 2026, 18:55",
+  "last_updated": "26 July 2026, 02:00",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -518,11 +518,6 @@
             "price": 2.55
           },
           {
-            "name": "Sevimli Dad Süd 2.4% 1 L",
-            "norm": "sevimli dad süd 2.4% 1 l",
-            "price": 2.7
-          },
-          {
             "name": "Milla Süd 3.2% 1 l",
             "norm": "milla süd 3.2% 1 l",
             "price": 2.49
@@ -683,11 +678,6 @@
             "price": 2.55
           },
           {
-            "name": "Sevimli Dad Süd 2.4% 1 L",
-            "norm": "sevimli dad süd 2.4% 1 l",
-            "price": 2.7
-          },
-          {
             "name": "Azər Süd 1.5% 1 l",
             "norm": "azər süd 1.5% 1 l",
             "price": 2.69
@@ -876,11 +866,6 @@
             "name": "Sevimli Dad Süd 1.5% 1 L",
             "norm": "sevimli dad süd 1.5% 1 l",
             "price": 2.55
-          },
-          {
-            "name": "Sevimli Dad Süd 2.4% 1 L",
-            "norm": "sevimli dad süd 2.4% 1 l",
-            "price": 2.7
           }
         ],
         "Rahat": [],
