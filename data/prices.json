@@ -1,5 +1,5 @@
 {
-  "last_updated": "27 July 2026, 09:35",
+  "last_updated": "27 July 2026, 14:13",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -858,6 +858,11 @@
             "price": 2.59
           },
           {
+            "name": "Azərsüd Ayran Nanəli 1 L",
+            "norm": "azərsüd ayran nanəli 1 l",
+            "price": 2.03
+          },
+          {
             "name": "Atena Light Süd 0.3% 1 L",
             "norm": "atena light süd 0.3% 1 l",
             "price": 2.5
@@ -876,6 +881,11 @@
         "Rahat": [],
         "OBA": [
           {
+            "name": "Azersud Süd 3.2% 1L",
+            "norm": "azersud süd 3.2% 1l",
+            "price": 2.39
+          },
+          {
             "name": "Milla UHT Süd 0.1% 1L",
             "norm": "milla uht süd 0.1% 1l",
             "price": 2.59
@@ -896,9 +906,19 @@
             "price": 3.49
           },
           {
+            "name": "Azersud Süd 3.2% 1L",
+            "norm": "azersud süd 3.2% 1l",
+            "price": 2.39
+          },
+          {
             "name": "Milla UHT Süd 0.1% 1L",
             "norm": "milla uht süd 0.1% 1l",
             "price": 2.59
+          },
+          {
+            "name": "Azersud Süd 3.2% 1L",
+            "norm": "azersud süd 3.2% 1l",
+            "price": 2.39
           },
           {
             "name": "Milla UHT Süd 1.5% 1L",
@@ -911,9 +931,19 @@
             "price": 3.49
           },
           {
+            "name": "Azersud Süd 3.2% 1L",
+            "norm": "azersud süd 3.2% 1l",
+            "price": 2.39
+          },
+          {
             "name": "Milla UHT Süd 0.1% 1L",
             "norm": "milla uht süd 0.1% 1l",
             "price": 2.59
+          },
+          {
+            "name": "Azersud Süd 3.2% 1L",
+            "norm": "azersud süd 3.2% 1l",
+            "price": 2.39
           },
           {
             "name": "Milla Şokoladlı Süd 1L",
@@ -929,6 +959,11 @@
             "name": "Azersud Ayran 1L",
             "norm": "azersud ayran 1l",
             "price": 1.99
+          },
+          {
+            "name": "Azersud Süd 3.2% 1L",
+            "norm": "azersud süd 3.2% 1l",
+            "price": 2.39
           }
         ]
       }
