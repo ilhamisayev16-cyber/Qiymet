@@ -1,5 +1,5 @@
 {
-  "last_updated": "31 July 2026, 02:02",
+  "last_updated": "31 July 2026, 08:37",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -196,14 +196,14 @@
             "price": 2.65
           },
           {
-            "name": "Milla Süd 2 5% 1l",
-            "norm": "milla süd 2 5% 1l",
-            "price": 2.79
-          },
-          {
             "name": "Azərsüd Süd 1.5% 1l",
             "norm": "azərsüd süd 1.5% 1l",
             "price": 2.19
+          },
+          {
+            "name": "Milla Süd 2 5% 1l",
+            "norm": "milla süd 2 5% 1l",
+            "price": 2.79
           },
           {
             "name": "Milla Süd 1.5% 1l",
@@ -321,14 +321,14 @@
             "price": 2.45
           },
           {
-            "name": "Milla Süd 2 5% 1l",
-            "norm": "milla süd 2 5% 1l",
-            "price": 2.79
-          },
-          {
             "name": "Azərsüd Süd 1.5% 1l",
             "norm": "azərsüd süd 1.5% 1l",
             "price": 2.19
+          },
+          {
+            "name": "Milla Süd 2 5% 1l",
+            "norm": "milla süd 2 5% 1l",
+            "price": 2.79
           },
           {
             "name": "Milla Süd 1.5% 1l",
