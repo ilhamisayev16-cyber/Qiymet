@@ -1,5 +1,5 @@
 {
-  "last_updated": "04 August 2026, 19:20",
+  "last_updated": "05 August 2026, 01:49",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -488,6 +488,11 @@
             "price": 2.8
           },
           {
+            "name": "Süd Y belous 3 2% T/p 1 Lt",
+            "norm": "süd y belous 3 2% t/p 1 lt",
+            "price": 2.59
+          },
+          {
             "name": "Parmalat 1 lt Süd 3,5% Paket",
             "norm": "parmalat 1 lt süd 3.5% paket",
             "price": 3.59
@@ -496,11 +501,6 @@
             "name": "Parmalat Süd 1.8%  1 L",
             "norm": "parmalat süd 1.8% 1 l",
             "price": 3.9
-          },
-          {
-            "name": "Süd Y belous 3 2% T/p 1 Lt",
-            "norm": "süd y belous 3 2% t/p 1 lt",
-            "price": 2.59
           },
           {
             "name": "Parmalat Süd Laktozasız 3.5% 1 L",
@@ -643,14 +643,14 @@
             "price": 3.35
           },
           {
-            "name": "Parmalat Süd 1.8%  1 L",
-            "norm": "parmalat süd 1.8% 1 l",
-            "price": 3.9
-          },
-          {
             "name": "Süd Y belous 3 2% T/p 1 Lt",
             "norm": "süd y belous 3 2% t/p 1 lt",
             "price": 2.59
+          },
+          {
+            "name": "Parmalat Süd 1.8%  1 L",
+            "norm": "parmalat süd 1.8% 1 l",
+            "price": 3.9
           },
           {
             "name": "Milla Süd 3.2% 1 l",
