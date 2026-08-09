@@ -1,5 +1,5 @@
 {
-  "last_updated": "08 August 2026, 18:24",
+  "last_updated": "09 August 2026, 01:04",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -543,11 +543,6 @@
             "price": 2.59
           },
           {
-            "name": "Azər Süd Ayran 1.4% 1 l",
-            "norm": "azər süd ayran 1.4% 1 l",
-            "price": 2.05
-          },
-          {
             "name": "Alpro Süd Badam 1L",
             "norm": "alpro süd badam 1l",
             "price": 9.99
@@ -811,11 +806,6 @@
             "name": "Azər Süd 0.3% 1 l",
             "norm": "azər süd 0.3% 1 l",
             "price": 2.59
-          },
-          {
-            "name": "Azər Süd Ayran 1.4% 1 l",
-            "norm": "azər süd ayran 1.4% 1 l",
-            "price": 2.05
           },
           {
             "name": "Milla Süd 0,1% 1 l",
