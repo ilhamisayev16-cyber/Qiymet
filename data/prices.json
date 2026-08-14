@@ -1,5 +1,5 @@
 {
-  "last_updated": "13 August 2026, 18:51",
+  "last_updated": "14 August 2026, 01:14",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -493,14 +493,14 @@
             "price": 2.55
           },
           {
-            "name": "Parmalat Süd Laktozasız 1.8% 1 L",
-            "norm": "parmalat süd laktozasız 1.8% 1 l",
-            "price": 4.35
-          },
-          {
             "name": "Sevimli Dad Süd 2.4% 1 L",
             "norm": "sevimli dad süd 2.4% 1 l",
             "price": 2.7
+          },
+          {
+            "name": "Parmalat Süd Laktozasız 1.8% 1 L",
+            "norm": "parmalat süd laktozasız 1.8% 1 l",
+            "price": 4.35
           },
           {
             "name": "Milla Süd 3.2% 1 l",
