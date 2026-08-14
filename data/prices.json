@@ -1,5 +1,5 @@
 {
-  "last_updated": "14 August 2026, 12:45",
+  "last_updated": "14 August 2026, 18:41",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -426,11 +426,6 @@
             "price": 3.59
           },
           {
-            "name": "Azərsüd Ayran Nanəli 1 L",
-            "norm": "azərsüd ayran nanəli 1 l",
-            "price": 2.75
-          },
-          {
             "name": "Zdorovoye Menyu Soya Südü 1% 1 Lt",
             "norm": "zdorovoye menyu soya südü 1% 1 lt",
             "price": 6.65
@@ -503,14 +498,14 @@
             "price": 3.05
           },
           {
-            "name": "Parmalat Süd Laktozasız 1.8% 1 L",
-            "norm": "parmalat süd laktozasız 1.8% 1 l",
-            "price": 4.35
-          },
-          {
             "name": "Sevimli Dad Süd 2.4% 1 L",
             "norm": "sevimli dad süd 2.4% 1 l",
             "price": 2.7
+          },
+          {
+            "name": "Parmalat Süd Laktozasız 1.8% 1 L",
+            "norm": "parmalat süd laktozasız 1.8% 1 l",
+            "price": 4.35
           },
           {
             "name": "Slavyanskoe Moloko Süd 2.5% T/P 1l",
