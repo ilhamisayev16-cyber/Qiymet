@@ -1,5 +1,5 @@
 {
-  "last_updated": "15 August 2026, 18:16",
+  "last_updated": "16 August 2026, 00:49",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -106,11 +106,6 @@
             "price": 4.09
           },
           {
-            "name": "Pınar Süd Tam Yağlı 3.3% 1l",
-            "norm": "pınar süd tam yağlı 3.3% 1l",
-            "price": 4.95
-          },
-          {
             "name": "Parmalat Süd 3.5% Paket 1 L",
             "norm": "parmalat süd 3.5% paket 1 l",
             "price": 3.59
@@ -159,11 +154,6 @@
             "name": "Savuşkin Süd Uht 1.5%1l",
             "norm": "savuşkin süd uht 1.5%1l",
             "price": 2.85
-          },
-          {
-            "name": "Pınar Süd Tam Yağlı 3.3% 1l",
-            "norm": "pınar süd tam yağlı 3.3% 1l",
-            "price": 4.95
           },
           {
             "name": "Savuşkin Süd 3 1% 1l",
@@ -356,11 +346,6 @@
             "price": 4.09
           },
           {
-            "name": "Pınar Süd Tam Yağlı 3.3% 1l",
-            "norm": "pınar süd tam yağlı 3.3% 1l",
-            "price": 4.95
-          },
-          {
             "name": "Savuşkin Süd 3 1% 1l",
             "norm": "savuşkin süd 3 1% 1l",
             "price": 3.29
@@ -376,6 +361,11 @@
             "price": 2.85
           },
           {
+            "name": "Slavyanskoye Süd 1.5% 1l",
+            "norm": "slavyanskoye süd 1.5% 1l",
+            "price": 2.69
+          },
+          {
             "name": "Azərsüd Süd 2.4% 1l",
             "norm": "azərsüd süd 2.4% 1l",
             "price": 2.85
@@ -384,11 +374,6 @@
             "name": "Azərsüd Süd 0.3% 1l",
             "norm": "azərsüd süd 0.3% 1l",
             "price": 2.75
-          },
-          {
-            "name": "Slavyanskoye Süd 1.5% 1l",
-            "norm": "slavyanskoye süd 1.5% 1l",
-            "price": 2.69
           },
           {
             "name": "Azərsüd Ayran 1l",
