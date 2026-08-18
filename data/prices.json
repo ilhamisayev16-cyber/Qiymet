@@ -1,5 +1,5 @@
 {
-  "last_updated": "18 August 2026, 06:28",
+  "last_updated": "18 August 2026, 12:28",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -411,6 +411,11 @@
             "price": 3.59
           },
           {
+            "name": "Azərsüd Ayran Nanəli 1 L",
+            "norm": "azərsüd ayran nanəli 1 l",
+            "price": 2.75
+          },
+          {
             "name": "Zdorovoye Menyu Soya Südü 1% 1 Lt",
             "norm": "zdorovoye menyu soya südü 1% 1 lt",
             "price": 6.65
@@ -493,6 +498,11 @@
             "price": 2.89
           },
           {
+            "name": "Azər Süd 1lt Kefir 1.5% (Plastik Qabda)",
+            "norm": "azər süd 1lt kefir 1.5% (plastik qabda)",
+            "price": 2.7
+          },
+          {
             "name": "Pınar Süd 3.3% 1 l",
             "norm": "pınar süd 3.3% 1 l",
             "price": 4.9
@@ -726,6 +736,11 @@
             "name": "Savuskin Pr.1lt Süd 3,1% Paket",
             "norm": "savuskin pr.1lt süd 3.1% paket",
             "price": 3.1
+          },
+          {
+            "name": "Azər Süd 1lt Kefir 1.5% (Plastik Qabda)",
+            "norm": "azər süd 1lt kefir 1.5% (plastik qabda)",
+            "price": 2.7
           },
           {
             "name": "Milla 1lt Süd 2% Şokoladlı Paket",
