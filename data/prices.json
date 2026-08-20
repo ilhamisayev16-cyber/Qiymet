@@ -1,5 +1,5 @@
 {
-  "last_updated": "20 August 2026, 06:30",
+  "last_updated": "20 August 2026, 12:30",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -533,6 +533,11 @@
             "price": 2.59
           },
           {
+            "name": "Parmalat Süd Protein + Kollagen 1.8% 1 L",
+            "norm": "parmalat süd protein + kollagen 1.8% 1 l",
+            "price": 5.5
+          },
+          {
             "name": "Alpro Süd Badam 1L",
             "norm": "alpro süd badam 1l",
             "price": 9.99
@@ -693,6 +698,11 @@
             "price": 2.59
           },
           {
+            "name": "Parmalat Süd Protein + Kollagen 1.8% 1 L",
+            "norm": "parmalat süd protein + kollagen 1.8% 1 l",
+            "price": 5.5
+          },
+          {
             "name": "Milla 1lt Süd 2% Şokoladlı Paket",
             "norm": "milla 1lt süd 2% şokoladlı paket",
             "price": 3.49
@@ -846,6 +856,11 @@
             "name": "Sevimli Dad Süd 2.4% 1 L",
             "norm": "sevimli dad süd 2.4% 1 l",
             "price": 2.7
+          },
+          {
+            "name": "Parmalat Süd Protein + Kollagen 1.8% 1 L",
+            "norm": "parmalat süd protein + kollagen 1.8% 1 l",
+            "price": 5.5
           }
         ],
         "Rahat": [],
