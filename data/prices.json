@@ -1,5 +1,5 @@
 {
-  "last_updated": "20 August 2026, 00:44",
+  "last_updated": "20 August 2026, 06:30",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -166,14 +166,14 @@
             "price": 2.95
           },
           {
-            "name": "Milla Süd 0.1% 1l",
-            "norm": "milla süd 0.1% 1l",
-            "price": 2.65
-          },
-          {
             "name": "Azərsüd Laktozasız Süd Tetrapack 1.5% 1l",
             "norm": "azərsüd laktozasız süd tetrapack 1.5% 1l",
             "price": 3.45
+          },
+          {
+            "name": "Milla Süd 0.1% 1l",
+            "norm": "milla süd 0.1% 1l",
+            "price": 2.65
           },
           {
             "name": "Azərsüd Süd 1.5% 1l",
@@ -286,14 +286,14 @@
             "price": 2.65
           },
           {
-            "name": "Azərsüd Laktozasız Süd Tetrapack 1.5% 1l",
-            "norm": "azərsüd laktozasız süd tetrapack 1.5% 1l",
-            "price": 3.45
-          },
-          {
             "name": "Milla Süd 3.2% 1l",
             "norm": "milla süd 3.2% 1l",
             "price": 2.95
+          },
+          {
+            "name": "Azərsüd Laktozasız Süd Tetrapack 1.5% 1l",
+            "norm": "azərsüd laktozasız süd tetrapack 1.5% 1l",
+            "price": 3.45
           },
           {
             "name": "Azərsüd Süd 1.5% 1l",
@@ -458,14 +458,14 @@
             "price": 3.1
           },
           {
-            "name": "Süd Y belous 3 2% T/p 1 Lt",
-            "norm": "süd y belous 3 2% t/p 1 lt",
-            "price": 3.07
-          },
-          {
             "name": "Parmalat 1 lt Süd 3,5% Paket",
             "norm": "parmalat 1 lt süd 3.5% paket",
             "price": 4.6
+          },
+          {
+            "name": "Süd Y belous 3 2% T/p 1 Lt",
+            "norm": "süd y belous 3 2% t/p 1 lt",
+            "price": 3.07
           },
           {
             "name": "Parmalat Süd 1.8%  1 L",
