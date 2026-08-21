@@ -1,5 +1,5 @@
 {
-  "last_updated": "21 August 2026, 00:50",
+  "last_updated": "21 August 2026, 06:31",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -19,11 +19,6 @@
             "name": "Azərsüd Süd 1.5% 1l",
             "norm": "azərsüd süd 1.5% 1l",
             "price": 2.19
-          },
-          {
-            "name": "Azərsüd Kefir 1l*12",
-            "norm": "azərsüd kefir 1l*12",
-            "price": 2.69
           },
           {
             "name": "Azərsüd Süd 2.4% 1l",
@@ -134,6 +129,11 @@
             "name": "Zdorovoye Menyu Kalsium Və Vitaminlə Zəngin Yulaf Südü 1% 1 Lt",
             "norm": "zdorovoye menyu kalsium və vitaminlə zəngin yulaf südü 1% 1 lt",
             "price": 6.39
+          },
+          {
+            "name": "Kalleh Süd 3% Tetra Pak 1l",
+            "norm": "kalleh süd 3% tetra pak 1l",
+            "price": 2.85
           },
           {
             "name": "Sutaş Latte Süd 2% 1l",
@@ -271,6 +271,11 @@
             "price": 6.65
           },
           {
+            "name": "Kalleh Süd 3% Tetra Pak 1l",
+            "norm": "kalleh süd 3% tetra pak 1l",
+            "price": 2.85
+          },
+          {
             "name": "Sutaş Latte Süd 2% 1l",
             "norm": "sutaş latte süd 2% 1l",
             "price": 6.29
@@ -329,6 +334,11 @@
             "name": "Savuşkin Süd Uht 1.5%1l",
             "norm": "savuşkin süd uht 1.5%1l",
             "price": 2.29
+          },
+          {
+            "name": "Kalleh Süd 3% Tetra Pak 1l",
+            "norm": "kalleh süd 3% tetra pak 1l",
+            "price": 2.85
           },
           {
             "name": "Belous Süd 2.5% 1l",
