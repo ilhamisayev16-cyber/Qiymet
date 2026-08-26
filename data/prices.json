@@ -1,5 +1,5 @@
 {
-  "last_updated": "26 August 2026, 06:33",
+  "last_updated": "26 August 2026, 12:34",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -69,6 +69,11 @@
             "name": "Slavyanskoye Süd 3.2% 1l",
             "norm": "slavyanskoye süd 3.2% 1l",
             "price": 2.89
+          },
+          {
+            "name": "Parmalat Süd Uht 0.5% 1l",
+            "norm": "parmalat süd uht 0.5% 1l",
+            "price": 3.85
           },
           {
             "name": "Milla Laktozasız Süd 1.5% 1l",
@@ -219,6 +224,11 @@
             "name": "Slavyanskoye Süd 3.2% 1l",
             "norm": "slavyanskoye süd 3.2% 1l",
             "price": 2.89
+          },
+          {
+            "name": "Parmalat Süd Uht 0.5% 1l",
+            "norm": "parmalat süd uht 0.5% 1l",
+            "price": 3.85
           },
           {
             "name": "Milla Laktozasız Süd 1.5% 1l",
@@ -414,6 +424,11 @@
             "name": "Slavyanskoye Süd 3.2% 1l",
             "norm": "slavyanskoye süd 3.2% 1l",
             "price": 2.89
+          },
+          {
+            "name": "Parmalat Süd Uht 0.5% 1l",
+            "norm": "parmalat süd uht 0.5% 1l",
+            "price": 3.85
           },
           {
             "name": "Milla Laktozasız Süd 1.5% 1l",
