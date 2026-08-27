@@ -1,5 +1,5 @@
 {
-  "last_updated": "27 August 2026, 06:21",
+  "last_updated": "27 August 2026, 21:30",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -461,11 +461,6 @@
             "price": 2.59
           },
           {
-            "name": "Azərsüd Ayran Nanəli 1 L",
-            "norm": "azərsüd ayran nanəli 1 l",
-            "price": 2.29
-          },
-          {
             "name": "Zdorovoye Menyu Soya Südü 1% 1 Lt",
             "norm": "zdorovoye menyu soya südü 1% 1 lt",
             "price": 6.65
@@ -623,11 +618,6 @@
             "price": 2.5
           },
           {
-            "name": "Atena Süd 0.5% 1 L",
-            "norm": "atena süd 0.5% 1 l",
-            "price": 2.59
-          },
-          {
             "name": "Süd Y belous 2 5% T/p 1 Lt",
             "norm": "süd y belous 2 5% t/p 1 lt",
             "price": 2.99
@@ -778,11 +768,6 @@
             "price": 2.5
           },
           {
-            "name": "Atena Süd 0.5% 1 L",
-            "norm": "atena süd 0.5% 1 l",
-            "price": 2.59
-          },
-          {
             "name": "Süd Y belous 2 5% T/p 1 Lt",
             "norm": "süd y belous 2 5% t/p 1 lt",
             "price": 2.99
@@ -901,11 +886,6 @@
             "name": "Atena Süd 3.2% 1 l",
             "norm": "atena süd 3.2% 1 l",
             "price": 2.9
-          },
-          {
-            "name": "Atena Süd 0.5% 1 L",
-            "norm": "atena süd 0.5% 1 l",
-            "price": 2.59
           },
           {
             "name": "Atena Light Süd 0.3% 1 L",
