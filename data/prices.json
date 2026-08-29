@@ -1,5 +1,5 @@
 {
-  "last_updated": "28 August 2026, 21:36",
+  "last_updated": "29 August 2026, 04:57",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -56,14 +56,14 @@
             "price": 2.79
           },
           {
-            "name": "Atena Uht Süd 3.2% 1 Lt",
-            "norm": "atena uht süd 3.2% 1 lt",
-            "price": 2.99
-          },
-          {
             "name": "Belous Süd 3.2% 1l",
             "norm": "belous süd 3.2% 1l",
             "price": 3.39
+          },
+          {
+            "name": "Atena Uht Süd 3.2% 1 Lt",
+            "norm": "atena uht süd 3.2% 1 lt",
+            "price": 2.99
           },
           {
             "name": "Parmalat Süd Uht 0.5% 1l",
@@ -134,6 +134,11 @@
             "name": "Pınar Süd Yağlı 2.5% 1l",
             "norm": "pınar süd yağlı 2.5% 1l",
             "price": 4.85
+          },
+          {
+            "name": "Atena Süd Uht 1.5% 1l",
+            "norm": "atena süd uht 1.5% 1l",
+            "price": 2.79
           },
           {
             "name": "Zdorovoye Menyu Kalsium Və Vitaminlə Zəngin Yulaf Südü 1% 1 Lt",
@@ -284,6 +289,11 @@
             "name": "Pınar Süd Yağlı 2.5% 1l",
             "norm": "pınar süd yağlı 2.5% 1l",
             "price": 4.85
+          },
+          {
+            "name": "Atena Süd Uht 1.5% 1l",
+            "norm": "atena süd uht 1.5% 1l",
+            "price": 2.79
           },
           {
             "name": "Zdorovoye Menyu Soya Südü 1% 1 Lt",
@@ -419,6 +429,11 @@
             "name": "Pınar Süd Yağlı 2.5% 1l",
             "norm": "pınar süd yağlı 2.5% 1l",
             "price": 4.85
+          },
+          {
+            "name": "Atena Süd Uht 1.5% 1l",
+            "norm": "atena süd uht 1.5% 1l",
+            "price": 2.79
           },
           {
             "name": "Alpro Şokolad Bitki Südü 1l",
@@ -668,14 +683,14 @@
             "price": 3.07
           },
           {
-            "name": "Parmalat Süd 1.8%  1 L",
-            "norm": "parmalat süd 1.8% 1 l",
-            "price": 3.9
-          },
-          {
             "name": "Milla Süd 3.2% 1 l",
             "norm": "milla süd 3.2% 1 l",
             "price": 2.89
+          },
+          {
+            "name": "Parmalat Süd 1.8%  1 L",
+            "norm": "parmalat süd 1.8% 1 l",
+            "price": 3.9
           },
           {
             "name": "Pınar Süd 3.3% 1 l",
@@ -868,6 +883,11 @@
             "price": 2.59
           },
           {
+            "name": "Parmalat Süd Protein + Kollagen 1.8% 1 L",
+            "norm": "parmalat süd protein + kollagen 1.8% 1 l",
+            "price": 5.5
+          },
+          {
             "name": "Atena Light Süd 0.3% 1 L",
             "norm": "atena light süd 0.3% 1 l",
             "price": 2.5
@@ -881,11 +901,6 @@
             "name": "Sevimli Dad Süd 2.4% 1 L",
             "norm": "sevimli dad süd 2.4% 1 l",
             "price": 2.7
-          },
-          {
-            "name": "Parmalat Süd Protein + Kollagen 1.8% 1 L",
-            "norm": "parmalat süd protein + kollagen 1.8% 1 l",
-            "price": 5.5
           },
           {
             "name": "Atena Süd 3.2% 1 l",
