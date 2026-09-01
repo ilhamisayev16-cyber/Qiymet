@@ -1,5 +1,5 @@
 {
-  "last_updated": "01 September 2026, 02:51",
+  "last_updated": "01 September 2026, 10:51",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -503,14 +503,14 @@
             "price": 2.69
           },
           {
-            "name": "Azər Süd 1.5% Laktozasız 1 l",
-            "norm": "azər süd 1.5% laktozasız 1 l",
-            "price": 3.35
-          },
-          {
             "name": "Azər Süd 1lt Süd 2.4% Paket",
             "norm": "azər süd 1lt süd 2.4% paket",
             "price": 2.79
+          },
+          {
+            "name": "Azər Süd 1.5% Laktozasız 1 l",
+            "norm": "azər süd 1.5% laktozasız 1 l",
+            "price": 3.35
           },
           {
             "name": "Savuskin Pr.1lt Süd 3,1% Paket",
@@ -578,6 +578,11 @@
             "price": 2.8
           },
           {
+            "name": "Parmalat Süd Protein + Kollagen 1.8% 1 L",
+            "norm": "parmalat süd protein + kollagen 1.8% 1 l",
+            "price": 5.5
+          },
+          {
             "name": "Atena Süd 2.4% 1 l",
             "norm": "atena süd 2.4% 1 l",
             "price": 2.79
@@ -596,11 +601,6 @@
             "name": "Azər Süd Ayran 1.4% 1 l",
             "norm": "azər süd ayran 1.4% 1 l",
             "price": 2.59
-          },
-          {
-            "name": "Parmalat Süd Protein + Kollagen 1.8% 1 L",
-            "norm": "parmalat süd protein + kollagen 1.8% 1 l",
-            "price": 5.5
           },
           {
             "name": "Alpro Süd Badam 1L",
@@ -758,14 +758,14 @@
             "price": 5.3
           },
           {
-            "name": "Milla Süd 0,1% 1 l",
-            "norm": "milla süd 0.1% 1 l",
-            "price": 2.59
-          },
-          {
             "name": "Parmalat Süd Protein + Kollagen 1.8% 1 L",
             "norm": "parmalat süd protein + kollagen 1.8% 1 l",
             "price": 5.5
+          },
+          {
+            "name": "Milla Süd 0,1% 1 l",
+            "norm": "milla süd 0.1% 1 l",
+            "price": 2.59
           },
           {
             "name": "Milla 1lt Süd 2% Şokoladlı Paket",
@@ -873,6 +873,11 @@
             "price": 3.9
           },
           {
+            "name": "Parmalat Süd Protein + Kollagen 1.8% 1 L",
+            "norm": "parmalat süd protein + kollagen 1.8% 1 l",
+            "price": 5.5
+          },
+          {
             "name": "Atena Süd 2.4% 1 l",
             "norm": "atena süd 2.4% 1 l",
             "price": 2.79
@@ -896,11 +901,6 @@
             "name": "Milla Süd 0,1% 1 l",
             "norm": "milla süd 0.1% 1 l",
             "price": 2.59
-          },
-          {
-            "name": "Parmalat Süd Protein + Kollagen 1.8% 1 L",
-            "norm": "parmalat süd protein + kollagen 1.8% 1 l",
-            "price": 5.5
           },
           {
             "name": "Azərsüd Ayran Nanəli 1 L",
