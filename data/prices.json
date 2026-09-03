@@ -1,5 +1,5 @@
 {
-  "last_updated": "03 September 2026, 15:32",
+  "last_updated": "03 September 2026, 20:20",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -124,11 +124,6 @@
             "name": "Slavyanskoye Süd 1.5% 1l",
             "norm": "slavyanskoye süd 1.5% 1l",
             "price": 2.69
-          },
-          {
-            "name": "Pınar Süd Yağlı 2.5% 1l",
-            "norm": "pınar süd yağlı 2.5% 1l",
-            "price": 4.85
           },
           {
             "name": "Atena Süd Uht 1.5% 1l",
@@ -274,11 +269,6 @@
             "name": "Slavyanskoye Süd 1.5% 1l",
             "norm": "slavyanskoye süd 1.5% 1l",
             "price": 2.69
-          },
-          {
-            "name": "Pınar Süd Yağlı 2.5% 1l",
-            "norm": "pınar süd yağlı 2.5% 1l",
-            "price": 4.85
           },
           {
             "name": "Atena Süd Uht 1.5% 1l",
@@ -409,11 +399,6 @@
             "name": "Azərsüd Süd 2.4% 1l",
             "norm": "azərsüd süd 2.4% 1l",
             "price": 2.35
-          },
-          {
-            "name": "Pınar Süd Yağlı 2.5% 1l",
-            "norm": "pınar süd yağlı 2.5% 1l",
-            "price": 4.85
           },
           {
             "name": "Atena Süd Uht 1.5% 1l",
