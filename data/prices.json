@@ -1,5 +1,5 @@
 {
-  "last_updated": "03 September 2026, 10:27",
+  "last_updated": "03 September 2026, 15:32",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -485,7 +485,7 @@
           {
             "name": "Milla Süd 1,5% 1 l",
             "norm": "milla süd 1.5% 1 l",
-            "price": 2.69
+            "price": 2.29
           },
           {
             "name": "Azər Süd 1lt Süd 2.4% Paket",
@@ -510,7 +510,7 @@
           {
             "name": "Parmalat 1 lt Süd 3,5% Paket",
             "norm": "parmalat 1 lt süd 3.5% paket",
-            "price": 4.6
+            "price": 2.59
           },
           {
             "name": "Pınar 1lt Süd 1.5% Denge Laktozsuz Paket",
@@ -635,7 +635,7 @@
           {
             "name": "Milla Süd 1,5% 1 l",
             "norm": "milla süd 1.5% 1 l",
-            "price": 2.69
+            "price": 2.29
           },
           {
             "name": "Azər Süd 1lt Süd 2.4% Paket",
@@ -650,7 +650,7 @@
           {
             "name": "Parmalat 1 lt Süd 3,5% Paket",
             "norm": "parmalat 1 lt süd 3.5% paket",
-            "price": 4.6
+            "price": 2.59
           },
           {
             "name": "Pınar 1lt Süd 1.5% Denge Laktozsuz Paket",
@@ -835,7 +835,7 @@
           {
             "name": "Milla Süd 1,5% 1 l",
             "norm": "milla süd 1.5% 1 l",
-            "price": 2.69
+            "price": 2.29
           },
           {
             "name": "Azər Süd 1.5% Laktozasız 1 l",
