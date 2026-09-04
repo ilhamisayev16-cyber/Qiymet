@@ -1,5 +1,5 @@
 {
-  "last_updated": "04 September 2026, 10:15",
+  "last_updated": "04 September 2026, 15:30",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -439,11 +439,6 @@
             "name": "Parmalat Süd 3.5% Paket 1 L",
             "norm": "parmalat süd 3.5% paket 1 l",
             "price": 4.85
-          },
-          {
-            "name": "Azərsüd Ayran Nanəli 1 L",
-            "norm": "azərsüd ayran nanəli 1 l",
-            "price": 1.99
           },
           {
             "name": "Zdorovoye Menyu Soya Südü 1% 1 Lt",
@@ -901,11 +896,6 @@
             "price": 2.59
           },
           {
-            "name": "Milla UHT Süd 3.2% 1L",
-            "norm": "milla uht süd 3.2% 1l",
-            "price": 2.55
-          },
-          {
             "name": "Azersud Ayran 1L",
             "norm": "azersud ayran 1l",
             "price": 1.99
@@ -916,11 +906,6 @@
             "price": 2.59
           },
           {
-            "name": "Milla UHT Süd 3.2% 1L",
-            "norm": "milla uht süd 3.2% 1l",
-            "price": 2.55
-          },
-          {
             "name": "Azersud Süd 3.2% 1L",
             "norm": "azersud süd 3.2% 1l",
             "price": 2.9
@@ -929,11 +914,6 @@
             "name": "Milla UHT Süd 0.1% 1L",
             "norm": "milla uht süd 0.1% 1l",
             "price": 2.59
-          },
-          {
-            "name": "Milla UHT Süd 3.2% 1L",
-            "norm": "milla uht süd 3.2% 1l",
-            "price": 2.55
           },
           {
             "name": "Azersud Süd 3.2% 1L",
