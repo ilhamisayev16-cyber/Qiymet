@@ -1,5 +1,5 @@
 {
-  "last_updated": "05 September 2026, 19:45",
+  "last_updated": "06 September 2026, 02:10",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -61,11 +61,6 @@
             "price": 2.29
           },
           {
-            "name": "Milla Süd 1.5% 1l",
-            "norm": "milla süd 1.5% 1l",
-            "price": 2.75
-          },
-          {
             "name": "Milla Şokoladlı Süd 3.3% 1l",
             "norm": "milla şokoladlı süd 3.3% 1l",
             "price": 3.49
@@ -89,6 +84,11 @@
             "name": "Savuşkin Süd Uht 1.5%1l",
             "norm": "savuşkin süd uht 1.5%1l",
             "price": 2.85
+          },
+          {
+            "name": "Milla Süd 1.5% 1l",
+            "norm": "milla süd 1.5% 1l",
+            "price": 2.75
           },
           {
             "name": "Slavyanskoye Süd 0.5% 1l",
@@ -326,11 +326,6 @@
             "price": 2.79
           },
           {
-            "name": "Milla Süd 1.5% 1l",
-            "norm": "milla süd 1.5% 1l",
-            "price": 2.75
-          },
-          {
             "name": "Milla Şokoladlı Süd 3.3% 1l",
             "norm": "milla şokoladlı süd 3.3% 1l",
             "price": 3.49
@@ -339,6 +334,11 @@
             "name": "Belous Süd 3.2% 1l",
             "norm": "belous süd 3.2% 1l",
             "price": 2.29
+          },
+          {
+            "name": "Milla Süd 1.5% 1l",
+            "norm": "milla süd 1.5% 1l",
+            "price": 2.75
           },
           {
             "name": "Belous Süd 2.5% 1l",
@@ -386,14 +386,14 @@
             "price": 2.39
           },
           {
-            "name": "Azərsüd Süd 0.3% 1l",
-            "norm": "azərsüd süd 0.3% 1l",
-            "price": 2.75
-          },
-          {
             "name": "Slavyanskoye Süd 1.5% 1l",
             "norm": "slavyanskoye süd 1.5% 1l",
             "price": 2.69
+          },
+          {
+            "name": "Azərsüd Süd 0.3% 1l",
+            "norm": "azərsüd süd 0.3% 1l",
+            "price": 2.75
           },
           {
             "name": "Azərsüd Süd 2.4% 1l",
