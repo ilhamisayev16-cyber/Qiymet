@@ -1,5 +1,5 @@
 {
-  "last_updated": "09 September 2026, 10:29",
+  "last_updated": "09 September 2026, 15:39",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -891,11 +891,6 @@
         "Rahat": [],
         "OBA": [
           {
-            "name": "Azersud Süd 3.2% 1L",
-            "norm": "azersud süd 3.2% 1l",
-            "price": 2.55
-          },
-          {
             "name": "Milla UHT Süd 0.1% 1L",
             "norm": "milla uht süd 0.1% 1l",
             "price": 2.59
@@ -931,11 +926,6 @@
             "price": 2.55
           },
           {
-            "name": "Azersud Süd 3.2% 1L",
-            "norm": "azersud süd 3.2% 1l",
-            "price": 2.55
-          },
-          {
             "name": "Milla UHT Süd 1.5% 1L",
             "norm": "milla uht süd 1.5% 1l",
             "price": 2.25
@@ -953,11 +943,6 @@
           {
             "name": "Milla UHT Süd 3.2% 1L",
             "norm": "milla uht süd 3.2% 1l",
-            "price": 2.55
-          },
-          {
-            "name": "Azersud Süd 3.2% 1L",
-            "norm": "azersud süd 3.2% 1l",
             "price": 2.55
           },
           {
