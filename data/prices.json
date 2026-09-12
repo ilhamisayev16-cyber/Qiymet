@@ -1,5 +1,5 @@
 {
-  "last_updated": "11 September 2026, 20:15",
+  "last_updated": "12 September 2026, 02:23",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -38,7 +38,7 @@
           {
             "name": "Milla Süd 3.2% 1l",
             "norm": "milla süd 3.2% 1l",
-            "price": 2.45
+            "price": 1.99
           },
           {
             "name": "Milla Süd 0.1% 1l",
@@ -158,12 +158,17 @@
           {
             "name": "Milla Süd 3.2% 1l",
             "norm": "milla süd 3.2% 1l",
-            "price": 2.45
+            "price": 1.99
           },
           {
             "name": "Savuşkin Süd Uht 1.5%1l",
             "norm": "savuşkin süd uht 1.5%1l",
             "price": 2.85
+          },
+          {
+            "name": "Savuşkin Süd 3 1% 1l",
+            "norm": "savuşkin süd 3 1% 1l",
+            "price": 2.39
           },
           {
             "name": "Azərsüd Laktozasız Süd Tetrapack 1.5% 1l",
@@ -174,11 +179,6 @@
             "name": "Milla Süd 0.1% 1l",
             "norm": "milla süd 0.1% 1l",
             "price": 2.65
-          },
-          {
-            "name": "Savuşkin Süd 3 1% 1l",
-            "norm": "savuşkin süd 3 1% 1l",
-            "price": 2.39
           },
           {
             "name": "Milla Süd 2 5% 1l",
@@ -303,7 +303,7 @@
           {
             "name": "Milla Süd 3.2% 1l",
             "norm": "milla süd 3.2% 1l",
-            "price": 2.45
+            "price": 1.99
           },
           {
             "name": "Milla Süd 0.1% 1l",
@@ -381,6 +381,11 @@
             "price": 2.79
           },
           {
+            "name": "Savuşkin Süd 3 1% 1l",
+            "norm": "savuşkin süd 3 1% 1l",
+            "price": 2.39
+          },
+          {
             "name": "Azərsüd Süd 2.4% 1l",
             "norm": "azərsüd süd 2.4% 1l",
             "price": 2.35
@@ -389,11 +394,6 @@
             "name": "Slavyanskoye Süd 2.5% 1l",
             "norm": "slavyanskoye süd 2.5% 1l",
             "price": 2.79
-          },
-          {
-            "name": "Savuşkin Süd 3 1% 1l",
-            "norm": "savuşkin süd 3 1% 1l",
-            "price": 2.39
           },
           {
             "name": "Slavyanskoye Süd 1.5% 1l",
@@ -483,11 +483,6 @@
             "price": 2.79
           },
           {
-            "name": "Savuskin Pr.1lt Süd 3,1% Paket",
-            "norm": "savuskin pr.1lt süd 3.1% paket",
-            "price": 3.1
-          },
-          {
             "name": "Süd Y belous 3 2% T/p 1 Lt",
             "norm": "süd y belous 3 2% t/p 1 lt",
             "price": 3.07
@@ -618,11 +613,6 @@
             "price": 2.79
           },
           {
-            "name": "Savuskin Pr.1lt Süd 3,1% Paket",
-            "norm": "savuskin pr.1lt süd 3.1% paket",
-            "price": 3.1
-          },
-          {
             "name": "Parmalat 1 lt Süd 3,5% Paket",
             "norm": "parmalat 1 lt süd 3.5% paket",
             "price": 2.59
@@ -748,11 +738,6 @@
             "price": 2.79
           },
           {
-            "name": "Savuskin Pr.1lt Süd 3,1% Paket",
-            "norm": "savuskin pr.1lt süd 3.1% paket",
-            "price": 3.1
-          },
-          {
             "name": "Pınar 1lt Süd 1.5% Denge Laktozsuz Paket",
             "norm": "pınar 1lt süd 1.5% denge laktozsuz paket",
             "price": 5.1
@@ -835,11 +820,6 @@
           {
             "name": "Milla Süd 0,1% 1 l",
             "norm": "milla süd 0.1% 1 l",
-            "price": 2.59
-          },
-          {
-            "name": "Azərsüd Ayran Nanəli 1 L",
-            "norm": "azərsüd ayran nanəli 1 l",
             "price": 2.59
           },
           {
