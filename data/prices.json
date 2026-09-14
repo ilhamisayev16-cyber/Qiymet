@@ -1,5 +1,5 @@
 {
-  "last_updated": "13 September 2026, 20:03",
+  "last_updated": "14 September 2026, 02:39",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -86,14 +86,14 @@
             "price": 3.29
           },
           {
-            "name": "Savuşkin Süd Uht 1.5%1l",
-            "norm": "savuşkin süd uht 1.5%1l",
-            "price": 2.85
-          },
-          {
             "name": "Slavyanskoye Süd 0.5% 1l",
             "norm": "slavyanskoye süd 0.5% 1l",
             "price": 2.59
+          },
+          {
+            "name": "Savuşkin Süd Uht 1.5%1l",
+            "norm": "savuşkin süd uht 1.5%1l",
+            "price": 2.85
           },
           {
             "name": "Parmalat Süd 1.8% Uht 1l",
@@ -346,11 +346,6 @@
             "price": 3.29
           },
           {
-            "name": "Savuşkin Süd Uht 1.5%1l",
-            "norm": "savuşkin süd uht 1.5%1l",
-            "price": 2.85
-          },
-          {
             "name": "Azərsüd Süd 2.4% 1l",
             "norm": "azərsüd süd 2.4% 1l",
             "price": 2.35
@@ -363,6 +358,11 @@
           {
             "name": "Kalleh Süd 3% Tetra Pak 1l",
             "norm": "kalleh süd 3% tetra pak 1l",
+            "price": 2.85
+          },
+          {
+            "name": "Savuşkin Süd Uht 1.5%1l",
+            "norm": "savuşkin süd uht 1.5%1l",
             "price": 2.85
           },
           {
