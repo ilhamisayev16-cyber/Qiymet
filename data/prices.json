@@ -1,5 +1,5 @@
 {
-  "last_updated": "14 September 2026, 02:39",
+  "last_updated": "14 September 2026, 11:21",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -66,14 +66,14 @@
             "price": 2.29
           },
           {
-            "name": "Milla Şokoladlı Süd 3.3% 1l",
-            "norm": "milla şokoladlı süd 3.3% 1l",
-            "price": 3.49
-          },
-          {
             "name": "Milla Süd 1.5% 1l",
             "norm": "milla süd 1.5% 1l",
             "price": 2.75
+          },
+          {
+            "name": "Milla Şokoladlı Süd 3.3% 1l",
+            "norm": "milla şokoladlı süd 3.3% 1l",
+            "price": 3.49
           },
           {
             "name": "Atena Uht Süd 3.2% 1 Lt",
@@ -326,14 +326,14 @@
             "price": 2.75
           },
           {
-            "name": "Milla Şokoladlı Süd 3.3% 1l",
-            "norm": "milla şokoladlı süd 3.3% 1l",
-            "price": 3.49
-          },
-          {
             "name": "Milla Süd 1.5% 1l",
             "norm": "milla süd 1.5% 1l",
             "price": 2.75
+          },
+          {
+            "name": "Milla Şokoladlı Süd 3.3% 1l",
+            "norm": "milla şokoladlı süd 3.3% 1l",
+            "price": 3.49
           },
           {
             "name": "Belous Süd 3.2% 1l",
@@ -396,14 +396,14 @@
             "price": 2.79
           },
           {
-            "name": "Slavyanskoye Süd 1.5% 1l",
-            "norm": "slavyanskoye süd 1.5% 1l",
-            "price": 2.69
-          },
-          {
             "name": "Azərsüd Süd 0.3% 1l",
             "norm": "azərsüd süd 0.3% 1l",
             "price": 2.75
+          },
+          {
+            "name": "Slavyanskoye Süd 1.5% 1l",
+            "norm": "slavyanskoye süd 1.5% 1l",
+            "price": 2.69
           },
           {
             "name": "Azərsüd Ayran 1l",
@@ -486,11 +486,6 @@
             "name": "Süd Y belous 3 2% T/p 1 Lt",
             "norm": "süd y belous 3 2% t/p 1 lt",
             "price": 3.07
-          },
-          {
-            "name": "Parmalat 1 lt Süd 3,5% Paket",
-            "norm": "parmalat 1 lt süd 3.5% paket",
-            "price": 2.59
           },
           {
             "name": "Pınar 1lt Süd 1.5% Denge Laktozsuz Paket",
@@ -611,11 +606,6 @@
             "name": "Azər Süd 1lt Süd 2.4% Paket",
             "norm": "azər süd 1lt süd 2.4% paket",
             "price": 2.79
-          },
-          {
-            "name": "Parmalat 1 lt Süd 3,5% Paket",
-            "norm": "parmalat 1 lt süd 3.5% paket",
-            "price": 2.59
           },
           {
             "name": "Pınar 1lt Süd 1.5% Denge Laktozsuz Paket",
