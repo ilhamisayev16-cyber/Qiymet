@@ -1,5 +1,5 @@
 {
-  "last_updated": "18 September 2026, 20:12",
+  "last_updated": "19 September 2026, 02:28",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -251,6 +251,11 @@
             "price": 2.59
           },
           {
+            "name": "Zdorovoye Menyu Kalsium Və Vitaminlə Zəngin Yulaf Südü 1% 1 Lt",
+            "norm": "zdorovoye menyu kalsium və vitaminlə zəngin yulaf südü 1% 1 lt",
+            "price": 6.39
+          },
+          {
             "name": "Slavyanskoye Süd 2.5% 1l",
             "norm": "slavyanskoye süd 2.5% 1l",
             "price": 2.79
@@ -264,11 +269,6 @@
             "name": "Atena Süd Uht 1.5% 1l",
             "norm": "atena süd uht 1.5% 1l",
             "price": 2.79
-          },
-          {
-            "name": "Zdorovoye Menyu Kalsium Və Vitaminlə Zəngin Yulaf Südü 1% 1 Lt",
-            "norm": "zdorovoye menyu kalsium və vitaminlə zəngin yulaf südü 1% 1 lt",
-            "price": 6.39
           },
           {
             "name": "Zdorovoye Menyu Soya Südü 1% 1 Lt",
@@ -426,14 +426,14 @@
             "price": 6.29
           },
           {
-            "name": "Green Milk Kokos Südü 1 L",
-            "norm": "green milk kokos südü 1 l",
-            "price": 7.85
-          },
-          {
             "name": "Zdorovoye Menyu Kalsium Və Vitaminlə Zəngin Yulaf Südü 1% 1 Lt",
             "norm": "zdorovoye menyu kalsium və vitaminlə zəngin yulaf südü 1% 1 lt",
             "price": 6.39
+          },
+          {
+            "name": "Green Milk Kokos Südü 1 L",
+            "norm": "green milk kokos südü 1 l",
+            "price": 7.85
           },
           {
             "name": "Parmalat Süd 3.5% Paket 1 L",
