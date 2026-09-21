@@ -1,5 +1,5 @@
 {
-  "last_updated": "21 September 2026, 02:36",
+  "last_updated": "21 September 2026, 11:34",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -134,6 +134,11 @@
             "name": "Atena Süd Uht 1.5% 1l",
             "norm": "atena süd uht 1.5% 1l",
             "price": 2.79
+          },
+          {
+            "name": "Azərsüd Ayran Nanəli 1 L",
+            "norm": "azərsüd ayran nanəli 1 l",
+            "price": 2.15
           },
           {
             "name": "Zdorovoye Menyu Kalsium Və Vitaminlə Zəngin Yulaf Südü 1% 1 Lt",
@@ -451,6 +456,11 @@
             "price": 2.59
           },
           {
+            "name": "Azərsüd Ayran Nanəli 1 L",
+            "norm": "azərsüd ayran nanəli 1 l",
+            "price": 2.15
+          },
+          {
             "name": "Zdorovoye Menyu Soya Südü 1% 1 Lt",
             "norm": "zdorovoye menyu soya südü 1% 1 lt",
             "price": 6.65
@@ -478,6 +488,11 @@
             "price": 2.79
           },
           {
+            "name": "Azər Süd 1.5% Laktozasız 1 l",
+            "norm": "azər süd 1.5% laktozasız 1 l",
+            "price": 3.35
+          },
+          {
             "name": "Süd Y belous 3 2% T/p 1 Lt",
             "norm": "süd y belous 3 2% t/p 1 lt",
             "price": 3.07
@@ -501,6 +516,11 @@
             "name": "Slavyanskoe Moloko 1lt Süd 3.2% Paket",
             "norm": "slavyanskoe moloko 1lt süd 3.2% paket",
             "price": 3.39
+          },
+          {
+            "name": "Azər Süd 1lt Kefir 1.5% (Plastik Qabda)",
+            "norm": "azər süd 1lt kefir 1.5% (plastik qabda)",
+            "price": 2.7
           },
           {
             "name": "Milla Süd 3.2% 1 l",
@@ -613,6 +633,11 @@
             "price": 3.39
           },
           {
+            "name": "Azər Süd 1.5% Laktozasız 1 l",
+            "norm": "azər süd 1.5% laktozasız 1 l",
+            "price": 3.35
+          },
+          {
             "name": "Süd Y belous 3 2% T/p 1 Lt",
             "norm": "süd y belous 3 2% t/p 1 lt",
             "price": 3.07
@@ -728,6 +753,11 @@
             "price": 3.49
           },
           {
+            "name": "Azər Süd 1lt Kefir 1.5% (Plastik Qabda)",
+            "norm": "azər süd 1lt kefir 1.5% (plastik qabda)",
+            "price": 2.7
+          },
+          {
             "name": "Slavyanskoe Moloko 1lt Süd 3.2% Paket",
             "norm": "slavyanskoe moloko 1lt süd 3.2% paket",
             "price": 3.39
@@ -763,6 +793,11 @@
             "price": 2.39
           },
           {
+            "name": "Azər Süd 1.5% Laktozasız 1 l",
+            "norm": "azər süd 1.5% laktozasız 1 l",
+            "price": 3.35
+          },
+          {
             "name": "Azər Süd 1.5% 1 l",
             "norm": "azər süd 1.5% 1 l",
             "price": 2.69
@@ -796,6 +831,11 @@
             "name": "Milla Süd 0,1% 1 l",
             "norm": "milla süd 0.1% 1 l",
             "price": 2.59
+          },
+          {
+            "name": "Azərsüd Ayran Nanəli 1 L",
+            "norm": "azərsüd ayran nanəli 1 l",
+            "price": 2.03
           },
           {
             "name": "Atena Light Süd 0.3% 1 L",
@@ -826,6 +866,11 @@
             "price": 2.59
           },
           {
+            "name": "Milla UHT Süd 3.2% 1L",
+            "norm": "milla uht süd 3.2% 1l",
+            "price": 2.45
+          },
+          {
             "name": "Milla UHT Süd 1.5% 1L",
             "norm": "milla uht süd 1.5% 1l",
             "price": 2.69
@@ -851,6 +896,11 @@
             "price": 2.45
           },
           {
+            "name": "Milla UHT Süd 3.2% 1L",
+            "norm": "milla uht süd 3.2% 1l",
+            "price": 2.45
+          },
+          {
             "name": "Milla UHT Süd 1.5% 1L",
             "norm": "milla uht süd 1.5% 1l",
             "price": 2.69
@@ -874,6 +924,11 @@
             "name": "Milla Şokoladlı Süd 1L",
             "norm": "milla şokoladlı süd 1l",
             "price": 3.09
+          },
+          {
+            "name": "Milla UHT Süd 3.2% 1L",
+            "norm": "milla uht süd 3.2% 1l",
+            "price": 2.45
           },
           {
             "name": "Milla UHT Süd 1.5% 1L",
