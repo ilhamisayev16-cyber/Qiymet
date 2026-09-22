@@ -1,5 +1,5 @@
 {
-  "last_updated": "22 September 2026, 02:38",
+  "last_updated": "22 September 2026, 10:40",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -24,11 +24,6 @@
             "name": "Azərsüd Süd 2.4% 1l",
             "norm": "azərsüd süd 2.4% 1l",
             "price": 2.85
-          },
-          {
-            "name": "Azərsüd Kefir 1l*12",
-            "norm": "azərsüd kefir 1l*12",
-            "price": 2.7
           },
           {
             "name": "Azərsüd Süd 2.4% 1l",
@@ -458,6 +453,11 @@
             "price": 2.39
           },
           {
+            "name": "Milla Süd 2.5% 1 l",
+            "norm": "milla süd 2.5% 1 l",
+            "price": 2.79
+          },
+          {
             "name": "Azər Süd 1lt Süd 2.4% Paket",
             "norm": "azər süd 1lt süd 2.4% paket",
             "price": 2.79
@@ -490,7 +490,7 @@
           {
             "name": "Slavyanskoe Moloko 1lt Süd 3.2% Paket",
             "norm": "slavyanskoe moloko 1lt süd 3.2% paket",
-            "price": 3.39
+            "price": 3.6
           },
           {
             "name": "Azər Süd 1lt Kefir 1.5% (Plastik Qabda)",
@@ -588,6 +588,11 @@
             "price": 2.39
           },
           {
+            "name": "Milla Süd 2.5% 1 l",
+            "norm": "milla süd 2.5% 1 l",
+            "price": 2.79
+          },
+          {
             "name": "Azər Süd 1lt Süd 2.4% Paket",
             "norm": "azər süd 1lt süd 2.4% paket",
             "price": 2.79
@@ -605,7 +610,7 @@
           {
             "name": "Slavyanskoe Moloko 1lt Süd 3.2% Paket",
             "norm": "slavyanskoe moloko 1lt süd 3.2% paket",
-            "price": 3.39
+            "price": 3.6
           },
           {
             "name": "Azər Süd 1.5% Laktozasız 1 l",
@@ -735,7 +740,7 @@
           {
             "name": "Slavyanskoe Moloko 1lt Süd 3.2% Paket",
             "norm": "slavyanskoe moloko 1lt süd 3.2% paket",
-            "price": 3.39
+            "price": 3.6
           },
           {
             "name": "Milla Laktozasız Süd 1.5% 1 L",
@@ -766,6 +771,11 @@
             "name": "Azər Süd 3.2% 1 l",
             "norm": "azər süd 3.2% 1 l",
             "price": 2.39
+          },
+          {
+            "name": "Milla Süd 2.5% 1 l",
+            "norm": "milla süd 2.5% 1 l",
+            "price": 2.79
           },
           {
             "name": "Azər Süd 1.5% Laktozasız 1 l",
