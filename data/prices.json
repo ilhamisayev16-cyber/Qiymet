@@ -1,5 +1,5 @@
 {
-  "last_updated": "28 September 2026, 02:49",
+  "last_updated": "28 September 2026, 12:29",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -458,6 +458,11 @@
             "price": 2.69
           },
           {
+            "name": "Azər Süd 3.2% 1 l",
+            "norm": "azər süd 3.2% 1 l",
+            "price": 2.39
+          },
+          {
             "name": "Azər Süd 1lt Süd 2.4% Paket",
             "norm": "azər süd 1lt süd 2.4% paket",
             "price": 2.79
@@ -511,6 +516,11 @@
             "name": "Milla Süd 3.2% 1 l",
             "norm": "milla süd 3.2% 1 l",
             "price": 2.49
+          },
+          {
+            "name": "Azər Süd 1lt Kefir 1.5% (Plastik Qabda)",
+            "norm": "azər süd 1lt kefir 1.5% (plastik qabda)",
+            "price": 2.7
           },
           {
             "name": "Parmalat Süd Protein 1.8% 1 L",
@@ -586,6 +596,11 @@
             "name": "Milla Süd 1,5% 1 l",
             "norm": "milla süd 1.5% 1 l",
             "price": 2.69
+          },
+          {
+            "name": "Azər Süd 3.2% 1 l",
+            "norm": "azər süd 3.2% 1 l",
+            "price": 2.39
           },
           {
             "name": "Azər Süd 1lt Süd 2.4% Paket",
@@ -738,6 +753,11 @@
             "price": 3.49
           },
           {
+            "name": "Azər Süd 1lt Kefir 1.5% (Plastik Qabda)",
+            "norm": "azər süd 1lt kefir 1.5% (plastik qabda)",
+            "price": 2.7
+          },
+          {
             "name": "Slavyanskoe Moloko 1lt Süd 3.2% Paket",
             "norm": "slavyanskoe moloko 1lt süd 3.2% paket",
             "price": 3.6
@@ -766,6 +786,11 @@
             "name": "Milla Süd 1,5% 1 l",
             "norm": "milla süd 1.5% 1 l",
             "price": 2.69
+          },
+          {
+            "name": "Azər Süd 3.2% 1 l",
+            "norm": "azər süd 3.2% 1 l",
+            "price": 2.39
           },
           {
             "name": "Milla Süd 2.5% 1 l",
