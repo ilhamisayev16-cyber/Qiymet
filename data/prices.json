@@ -1,5 +1,5 @@
 {
-  "last_updated": "29 September 2026, 03:30",
+  "last_updated": "29 September 2026, 11:52",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -141,9 +141,9 @@
             "price": 2.85
           },
           {
-            "name": "Sutaş Latte Süd 2% 1l",
-            "norm": "sutaş latte süd 2% 1l",
-            "price": 6.35
+            "name": "Alpro Şokolad Bitki Südü 1l",
+            "norm": "alpro şokolad bitki südü 1l",
+            "price": 10.49
           },
           {
             "name": "Azərsüd Süd 3.2% 1l",
@@ -211,14 +211,14 @@
             "price": 3.39
           },
           {
-            "name": "Azərsüd Süd 0.3% 1l",
-            "norm": "azərsüd süd 0.3% 1l",
-            "price": 2.75
-          },
-          {
             "name": "Belous Süd 2.5% 1l",
             "norm": "belous süd 2.5% 1l",
             "price": 3.29
+          },
+          {
+            "name": "Azərsüd Süd 0.3% 1l",
+            "norm": "azərsüd süd 0.3% 1l",
+            "price": 2.75
           },
           {
             "name": "Parmalat Süd 1.8% Uht 1l",
@@ -286,9 +286,9 @@
             "price": 2.85
           },
           {
-            "name": "Sutaş Latte Süd 2% 1l",
-            "norm": "sutaş latte süd 2% 1l",
-            "price": 6.35
+            "name": "Alpro Şokolad Bitki Südü 1l",
+            "norm": "alpro şokolad bitki südü 1l",
+            "price": 10.49
           },
           {
             "name": "Azərsüd Süd 3.2% 1l",
@@ -411,14 +411,14 @@
             "price": 2.79
           },
           {
+            "name": "Alpro Şokolad Bitki Südü 1l",
+            "norm": "alpro şokolad bitki südü 1l",
+            "price": 10.49
+          },
+          {
             "name": "Slavyanskoye Süd 0.5% 1l",
             "norm": "slavyanskoye süd 0.5% 1l",
             "price": 2.59
-          },
-          {
-            "name": "Sutaş Latte Süd 2% 1l",
-            "norm": "sutaş latte süd 2% 1l",
-            "price": 6.35
           },
           {
             "name": "Zdorovoye Menyu Kalsium Və Vitaminlə Zəngin Yulaf Südü 1% 1 Lt",
