@@ -1,5 +1,5 @@
 {
-  "last_updated": "28 September 2026, 22:48",
+  "last_updated": "29 September 2026, 03:30",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -301,14 +301,14 @@
             "price": 2.95
           },
           {
-            "name": "Milla Süd 0.1% 1l",
-            "norm": "milla süd 0.1% 1l",
-            "price": 2.65
-          },
-          {
             "name": "Azərsüd Laktozasız Süd Tetrapack 1.5% 1l",
             "norm": "azərsüd laktozasız süd tetrapack 1.5% 1l",
             "price": 3.45
+          },
+          {
+            "name": "Milla Süd 0.1% 1l",
+            "norm": "milla süd 0.1% 1l",
+            "price": 2.65
           },
           {
             "name": "Azərsüd Süd 1.5% 1l",
