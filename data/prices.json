@@ -1,5 +1,5 @@
 {
-  "last_updated": "01 October 2026, 12:08",
+  "last_updated": "01 October 2026, 22:10",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -139,11 +139,6 @@
             "name": "Kalleh Süd 3% Tetra Pak 1l",
             "norm": "kalleh süd 3% tetra pak 1l",
             "price": 2.19
-          },
-          {
-            "name": "Alpro Şokolad Bitki Südü 1l",
-            "norm": "alpro şokolad bitki südü 1l",
-            "price": 10.49
           },
           {
             "name": "Azərsüd Süd 3.2% 1l",
@@ -286,11 +281,6 @@
             "price": 2.19
           },
           {
-            "name": "Alpro Şokolad Bitki Südü 1l",
-            "norm": "alpro şokolad bitki südü 1l",
-            "price": 10.49
-          },
-          {
             "name": "Azərsüd Süd 3.2% 1l",
             "norm": "azərsüd süd 3.2% 1l",
             "price": 2.89
@@ -409,11 +399,6 @@
             "name": "Atena Süd Uht 1.5% 1l",
             "norm": "atena süd uht 1.5% 1l",
             "price": 2.79
-          },
-          {
-            "name": "Alpro Şokolad Bitki Südü 1l",
-            "norm": "alpro şokolad bitki südü 1l",
-            "price": 10.49
           },
           {
             "name": "Slavyanskoye Süd 0.5% 1l",
@@ -568,6 +553,11 @@
             "price": 2.69
           },
           {
+            "name": "Azər Süd Ayran 1.4% 1 l",
+            "norm": "azər süd ayran 1.4% 1 l",
+            "price": 2.59
+          },
+          {
             "name": "Alpro Süd Badam 1L",
             "norm": "alpro süd badam 1l",
             "price": 9.99
@@ -863,8 +853,18 @@
             "price": 2.69
           },
           {
+            "name": "Azər Süd Ayran 1.4% 1 l",
+            "norm": "azər süd ayran 1.4% 1 l",
+            "price": 2.59
+          },
+          {
             "name": "Milla Süd 0,1% 1 l",
             "norm": "milla süd 0.1% 1 l",
+            "price": 2.59
+          },
+          {
+            "name": "Azərsüd Ayran Nanəli 1 L",
+            "norm": "azərsüd ayran nanəli 1 l",
             "price": 2.59
           },
           {
