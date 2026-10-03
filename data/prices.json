@@ -1,5 +1,5 @@
 {
-  "last_updated": "03 October 2026, 15:29",
+  "last_updated": "03 October 2026, 20:24",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -808,14 +808,14 @@
             "price": 2.89
           },
           {
-            "name": "Azər Süd 1.5% Laktozasız 1 l",
-            "norm": "azər süd 1.5% laktozasız 1 l",
-            "price": 3.35
-          },
-          {
             "name": "Milla Süd 2.5% 1 l",
             "norm": "milla süd 2.5% 1 l",
             "price": 2.39
+          },
+          {
+            "name": "Azər Süd 1.5% Laktozasız 1 l",
+            "norm": "azər süd 1.5% laktozasız 1 l",
+            "price": 3.35
           },
           {
             "name": "Parmalat Süd Protein + Kollagen 1.8% 1 L",
