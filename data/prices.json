@@ -1,5 +1,5 @@
 {
-  "last_updated": "05 October 2026, 03:18",
+  "last_updated": "05 October 2026, 13:09",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -94,11 +94,6 @@
             "name": "Savuşkin Süd 3 1% 1l",
             "norm": "savuşkin süd 3 1% 1l",
             "price": 2.59
-          },
-          {
-            "name": "Milla Laktozasız Süd 1.5% 1l",
-            "norm": "milla laktozasız süd 1.5% 1l",
-            "price": 3.49
           },
           {
             "name": "Slavyanskoye Süd 3.2% 1l",
@@ -219,11 +214,6 @@
             "name": "Parmalat Süd 1.8% Uht 1l",
             "norm": "parmalat süd 1.8% uht 1l",
             "price": 4.09
-          },
-          {
-            "name": "Milla Laktozasız Süd 1.5% 1l",
-            "norm": "milla laktozasız süd 1.5% 1l",
-            "price": 3.49
           },
           {
             "name": "Slavyanskoye Süd 3.2% 1l",
@@ -349,11 +339,6 @@
             "name": "Savuşkin Süd 3 1% 1l",
             "norm": "savuşkin süd 3 1% 1l",
             "price": 2.59
-          },
-          {
-            "name": "Milla Laktozasız Süd 1.5% 1l",
-            "norm": "milla laktozasız süd 1.5% 1l",
-            "price": 3.49
           },
           {
             "name": "Azərsüd Süd 2.4% 1l",
