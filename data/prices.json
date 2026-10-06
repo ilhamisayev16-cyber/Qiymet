@@ -1,5 +1,5 @@
 {
-  "last_updated": "06 October 2026, 12:30",
+  "last_updated": "06 October 2026, 22:04",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -26,6 +26,11 @@
             "price": 2.29
           },
           {
+            "name": "Azərsüd Kefir 1l*12",
+            "norm": "azərsüd kefir 1l*12",
+            "price": 2.7
+          },
+          {
             "name": "Azərsüd Süd 2.4% 1l",
             "norm": "azərsüd süd 2.4% 1l",
             "price": 2.29
@@ -34,11 +39,6 @@
             "name": "Azərsüd Süd 0.3% 1l",
             "norm": "azərsüd süd 0.3% 1l",
             "price": 2.75
-          },
-          {
-            "name": "Azərsüd Ayran 1l",
-            "norm": "azərsüd ayran 1l",
-            "price": 1.99
           },
           {
             "name": "Milla Süd 3.2% 1l",
@@ -86,14 +86,14 @@
             "price": 3.29
           },
           {
-            "name": "Parmalat Süd 3.5% Paket 1 L",
-            "norm": "parmalat süd 3.5% paket 1 l",
-            "price": 2.59
-          },
-          {
             "name": "Savuşkin Süd Uht 1.5%1l",
             "norm": "savuşkin süd uht 1.5%1l",
             "price": 2.95
+          },
+          {
+            "name": "Parmalat Süd 3.5% Paket 1 L",
+            "norm": "parmalat süd 3.5% paket 1 l",
+            "price": 2.59
           },
           {
             "name": "Parmalat Süd 1.8% Uht 1l",
@@ -139,11 +139,6 @@
             "name": "Azərsüd Ayran Nanəli 1 L",
             "norm": "azərsüd ayran nanəli 1 l",
             "price": 1.99
-          },
-          {
-            "name": "Zdorovoye Menyu Kalsium Və Vitaminlə Zəngin Yulaf Südü 1% 1 Lt",
-            "norm": "zdorovoye menyu kalsium və vitaminlə zəngin yulaf südü 1% 1 lt",
-            "price": 4.89
           },
           {
             "name": "Kalleh Süd 3% Tetra Pak 1l",
@@ -903,7 +898,7 @@
           {
             "name": "Milla UHT Süd 3.2% 1L",
             "norm": "milla uht süd 3.2% 1l",
-            "price": 2.89
+            "price": 2.55
           },
           {
             "name": "Milla UHT Süd 1.5% 1L",
@@ -933,7 +928,7 @@
           {
             "name": "Milla UHT Süd 3.2% 1L",
             "norm": "milla uht süd 3.2% 1l",
-            "price": 2.89
+            "price": 2.55
           },
           {
             "name": "Milla UHT Süd 1.5% 1L",
@@ -958,7 +953,7 @@
           {
             "name": "Milla UHT Süd 3.2% 1L",
             "norm": "milla uht süd 3.2% 1l",
-            "price": 2.89
+            "price": 2.55
           },
           {
             "name": "Milla Şokoladlı Süd 1L",
