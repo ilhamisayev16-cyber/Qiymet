@@ -1,5 +1,5 @@
 {
-  "last_updated": "08 October 2026, 12:32",
+  "last_updated": "08 October 2026, 22:41",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -538,11 +538,6 @@
             "price": 4.9
           },
           {
-            "name": "Parmalat Süd Protein 1.8% 1 L",
-            "norm": "parmalat süd protein 1.8% 1 l",
-            "price": 5.3
-          },
-          {
             "name": "Parmalat Süd Protein + Kollagen 1.8% 1 L",
             "norm": "parmalat süd protein + kollagen 1.8% 1 l",
             "price": 5.5
@@ -728,11 +723,6 @@
             "price": 9.99
           },
           {
-            "name": "Parmalat Süd Protein 1.8% 1 L",
-            "norm": "parmalat süd protein 1.8% 1 l",
-            "price": 5.3
-          },
-          {
             "name": "Parmalat Süd Protein + Kollagen 1.8% 1 L",
             "norm": "parmalat süd protein + kollagen 1.8% 1 l",
             "price": 5.5
@@ -801,11 +791,6 @@
             "name": "Pınar Süd 3.3% 1 l",
             "norm": "pınar süd 3.3% 1 l",
             "price": 4.9
-          },
-          {
-            "name": "Parmalat Süd Protein 1.8% 1 L",
-            "norm": "parmalat süd protein 1.8% 1 l",
-            "price": 5.3
           },
           {
             "name": "Milla Süd 1,5% 1 l",
