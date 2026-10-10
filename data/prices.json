@@ -1,5 +1,5 @@
 {
-  "last_updated": "10 October 2026, 03:36",
+  "last_updated": "10 October 2026, 11:39",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -191,14 +191,14 @@
             "price": 2.19
           },
           {
-            "name": "Milla Süd 2 5% 1l",
-            "norm": "milla süd 2 5% 1l",
-            "price": 2.35
-          },
-          {
             "name": "Azərsüd Süd 1.5% 1l",
             "norm": "azərsüd süd 1.5% 1l",
             "price": 2.69
+          },
+          {
+            "name": "Milla Süd 2 5% 1l",
+            "norm": "milla süd 2 5% 1l",
+            "price": 2.35
           },
           {
             "name": "Milla Süd 1.5% 1l",
