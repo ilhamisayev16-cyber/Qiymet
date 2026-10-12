@@ -1,5 +1,5 @@
 {
-  "last_updated": "12 October 2026, 14:01",
+  "last_updated": "12 October 2026, 23:59",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -503,11 +503,6 @@
             "price": 3.9
           },
           {
-            "name": "Parmalat 1 lt Süd 3,5% Paket",
-            "norm": "parmalat 1 lt süd 3.5% paket",
-            "price": 2.59
-          },
-          {
             "name": "Parmalat Süd Laktozasız 3.5% 1 L",
             "norm": "parmalat süd laktozasız 3.5% 1 l",
             "price": 4.99
@@ -636,11 +631,6 @@
             "name": "Savuskin Pr.1lt Süd 3,1% Paket",
             "norm": "savuskin pr.1lt süd 3.1% paket",
             "price": 2.65
-          },
-          {
-            "name": "Parmalat 1 lt Süd 3,5% Paket",
-            "norm": "parmalat 1 lt süd 3.5% paket",
-            "price": 2.59
           },
           {
             "name": "Milla Laktozasız Süd 1.5% 1 L",
@@ -913,7 +903,7 @@
           {
             "name": "Milla UHT Süd 3.2% 1L",
             "norm": "milla uht süd 3.2% 1l",
-            "price": 2.55
+            "price": 2.49
           },
           {
             "name": "Milla UHT Süd 1.5% 1L",
@@ -933,7 +923,7 @@
           {
             "name": "Milla UHT Süd 3.2% 1L",
             "norm": "milla uht süd 3.2% 1l",
-            "price": 2.55
+            "price": 2.49
           },
           {
             "name": "Milla UHT Süd 1.5% 1L",
@@ -948,7 +938,7 @@
           {
             "name": "Milla UHT Süd 3.2% 1L",
             "norm": "milla uht süd 3.2% 1l",
-            "price": 2.55
+            "price": 2.49
           },
           {
             "name": "Milla UHT Süd 1.5% 1L",
