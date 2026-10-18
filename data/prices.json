@@ -1,5 +1,5 @@
 {
-  "last_updated": "18 October 2026, 02:21",
+  "last_updated": "18 October 2026, 10:09",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -453,19 +453,24 @@
             "price": 2.79
           },
           {
-            "name": "Milla Süd 2.5% 1 l",
-            "norm": "milla süd 2.5% 1 l",
-            "price": 2.79
-          },
-          {
             "name": "Azər Süd 1.5% Laktozasız 1 l",
             "norm": "azər süd 1.5% laktozasız 1 l",
             "price": 3.35
           },
           {
+            "name": "Milla Süd 2.5% 1 l",
+            "norm": "milla süd 2.5% 1 l",
+            "price": 2.79
+          },
+          {
             "name": "Savuskin Pr.1lt Süd 3,1% Paket",
             "norm": "savuskin pr.1lt süd 3.1% paket",
             "price": 3.1
+          },
+          {
+            "name": "Parmalat Süd Laktozasız 3.5% 1 L",
+            "norm": "parmalat süd laktozasız 3.5% 1 l",
+            "price": 4.99
           },
           {
             "name": "Süd Y belous 3 2% T/p 1 Lt",
@@ -476,11 +481,6 @@
             "name": "Parmalat Süd 1.8%  1 L",
             "norm": "parmalat süd 1.8% 1 l",
             "price": 3.9
-          },
-          {
-            "name": "Parmalat Süd Laktozasız 3.5% 1 L",
-            "norm": "parmalat süd laktozasız 3.5% 1 l",
-            "price": 4.99
           },
           {
             "name": "Parmalat Süd Laktozasız 1.8% 1 L",
@@ -603,6 +603,11 @@
             "price": 3.35
           },
           {
+            "name": "Parmalat Süd Laktozasız 3.5% 1 L",
+            "norm": "parmalat süd laktozasız 3.5% 1 l",
+            "price": 4.99
+          },
+          {
             "name": "Süd Y belous 3 2% T/p 1 Lt",
             "norm": "süd y belous 3 2% t/p 1 lt",
             "price": 2.55
@@ -613,9 +618,9 @@
             "price": 3.9
           },
           {
-            "name": "Parmalat Süd Laktozasız 3.5% 1 L",
-            "norm": "parmalat süd laktozasız 3.5% 1 l",
-            "price": 4.99
+            "name": "Parmalat Süd Laktozasız 1.8% 1 L",
+            "norm": "parmalat süd laktozasız 1.8% 1 l",
+            "price": 4.35
           },
           {
             "name": "Milla Süd 3.2% 1 l",
@@ -626,11 +631,6 @@
             "name": "Pınar Süd 3.3% 1 l",
             "norm": "pınar süd 3.3% 1 l",
             "price": 4.9
-          },
-          {
-            "name": "Parmalat Süd Laktozasız 1.8% 1 L",
-            "norm": "parmalat süd laktozasız 1.8% 1 l",
-            "price": 4.35
           },
           {
             "name": "Sevimli Dad Süd 2.4% 1 L",
@@ -743,14 +743,14 @@
             "price": 5.3
           },
           {
-            "name": "Pınar Süd 3.3% 1 l",
-            "norm": "pınar süd 3.3% 1 l",
-            "price": 4.9
-          },
-          {
             "name": "Milla Süd 1,5% 1 l",
             "norm": "milla süd 1.5% 1 l",
             "price": 2.69
+          },
+          {
+            "name": "Pınar Süd 3.3% 1 l",
+            "norm": "pınar süd 3.3% 1 l",
+            "price": 4.9
           },
           {
             "name": "Azər Süd 3.2% 1 l",
@@ -758,14 +758,14 @@
             "price": 2.89
           },
           {
-            "name": "Milla Süd 2.5% 1 l",
-            "norm": "milla süd 2.5% 1 l",
-            "price": 2.79
-          },
-          {
             "name": "Azər Süd 1.5% Laktozasız 1 l",
             "norm": "azər süd 1.5% laktozasız 1 l",
             "price": 3.35
+          },
+          {
+            "name": "Milla Süd 2.5% 1 l",
+            "norm": "milla süd 2.5% 1 l",
+            "price": 2.79
           },
           {
             "name": "Parmalat Süd Protein + Kollagen 1.8% 1 L",
@@ -778,14 +778,19 @@
             "price": 2.19
           },
           {
+            "name": "Parmalat Süd Laktozasız 3.5% 1 L",
+            "norm": "parmalat süd laktozasız 3.5% 1 l",
+            "price": 4.99
+          },
+          {
             "name": "Parmalat Süd 1.8%  1 L",
             "norm": "parmalat süd 1.8% 1 l",
             "price": 3.9
           },
           {
-            "name": "Parmalat Süd Laktozasız 3.5% 1 L",
-            "norm": "parmalat süd laktozasız 3.5% 1 l",
-            "price": 4.99
+            "name": "Parmalat Süd Laktozasız 1.8% 1 L",
+            "norm": "parmalat süd laktozasız 1.8% 1 l",
+            "price": 4.35
           },
           {
             "name": "Atena Süd 2.4% 1 l",
@@ -811,11 +816,6 @@
             "name": "Azərsüd Ayran Nanəli 1 L",
             "norm": "azərsüd ayran nanəli 1 l",
             "price": 2.03
-          },
-          {
-            "name": "Parmalat Süd Laktozasız 1.8% 1 L",
-            "norm": "parmalat süd laktozasız 1.8% 1 l",
-            "price": 4.35
           },
           {
             "name": "Sevimli Dad Süd 2.4% 1 L",
