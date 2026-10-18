@@ -1,5 +1,5 @@
 {
-  "last_updated": "17 October 2026, 19:54",
+  "last_updated": "18 October 2026, 02:21",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -24,6 +24,11 @@
             "name": "Azərsüd Süd 2.4% 1l",
             "norm": "azərsüd süd 2.4% 1l",
             "price": 2.85
+          },
+          {
+            "name": "Azərsüd Kefir 1l*12",
+            "norm": "azərsüd kefir 1l*12",
+            "price": 2.7
           },
           {
             "name": "Azərsüd Süd 2.4% 1l",
@@ -336,14 +341,14 @@
             "price": 2.29
           },
           {
-            "name": "Azərsüd Süd 2.4% 1l",
-            "norm": "azərsüd süd 2.4% 1l",
-            "price": 2.85
-          },
-          {
             "name": "Azərsüd Kefir 1l*12",
             "norm": "azərsüd kefir 1l*12",
             "price": 2.7
+          },
+          {
+            "name": "Azərsüd Süd 2.4% 1l",
+            "norm": "azərsüd süd 2.4% 1l",
+            "price": 2.85
           },
           {
             "name": "Belous Süd 2.5% 1l",
