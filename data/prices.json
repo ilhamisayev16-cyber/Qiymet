@@ -1,5 +1,5 @@
 {
-  "last_updated": "21 October 2026, 02:42",
+  "last_updated": "21 October 2026, 10:54",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -713,13 +713,13 @@
             "price": 2.99
           },
           {
-            "name": "Alpro Süd Kokos 1L",
-            "norm": "alpro süd kokos 1l",
+            "name": "Alpro Süd Badam 1L",
+            "norm": "alpro süd badam 1l",
             "price": 9.99
           },
           {
-            "name": "Alpro Süd Badam 1L",
-            "norm": "alpro süd badam 1l",
+            "name": "Alpro Süd Kokos 1L",
+            "norm": "alpro süd kokos 1l",
             "price": 9.99
           },
           {
@@ -856,11 +856,6 @@
             "price": 2.59
           },
           {
-            "name": "Milla UHT Süd 1.5% 1L",
-            "norm": "milla uht süd 1.5% 1l",
-            "price": 2.35
-          },
-          {
             "name": "Azersud Ayran 1L",
             "norm": "azersud ayran 1l",
             "price": 1.99
@@ -876,11 +871,6 @@
             "price": 2.59
           },
           {
-            "name": "Milla UHT Süd 1.5% 1L",
-            "norm": "milla uht süd 1.5% 1l",
-            "price": 2.35
-          },
-          {
             "name": "Azersud Süd 3.2% 1L",
             "norm": "azersud süd 3.2% 1l",
             "price": 2.9
@@ -889,11 +879,6 @@
             "name": "Milla UHT Süd 0.1% 1L",
             "norm": "milla uht süd 0.1% 1l",
             "price": 2.59
-          },
-          {
-            "name": "Milla UHT Süd 1.5% 1L",
-            "norm": "milla uht süd 1.5% 1l",
-            "price": 2.35
           },
           {
             "name": "Azersud Ayran 1L",
