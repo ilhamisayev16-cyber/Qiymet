@@ -1,5 +1,5 @@
 {
-  "last_updated": "24 October 2026, 02:42",
+  "last_updated": "24 October 2026, 10:02",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -116,6 +116,11 @@
             "price": 3.29
           },
           {
+            "name": "Milla Laktozasız Süd 1.5% 1l",
+            "norm": "milla laktozasız süd 1.5% 1l",
+            "price": 3.49
+          },
+          {
             "name": "Slavyanskoye Süd 2.5% 1l",
             "norm": "slavyanskoye süd 2.5% 1l",
             "price": 2.79
@@ -144,11 +149,6 @@
             "name": "Kalleh Süd 3% Tetra Pak 1l",
             "norm": "kalleh süd 3% tetra pak 1l",
             "price": 2.85
-          },
-          {
-            "name": "Alpro Şokolad Bitki Südü 1l",
-            "norm": "alpro şokolad bitki südü 1l",
-            "price": 10.49
           },
           {
             "name": "Azərsüd Süd 3.2% 1l",
@@ -241,6 +241,11 @@
             "price": 2.89
           },
           {
+            "name": "Milla Laktozasız Süd 1.5% 1l",
+            "norm": "milla laktozasız süd 1.5% 1l",
+            "price": 3.49
+          },
+          {
             "name": "Milla Şokoladlı Süd 3.3% 1l",
             "norm": "milla şokoladlı süd 3.3% 1l",
             "price": 3.49
@@ -284,11 +289,6 @@
             "name": "Kalleh Süd 3% Tetra Pak 1l",
             "norm": "kalleh süd 3% tetra pak 1l",
             "price": 2.85
-          },
-          {
-            "name": "Alpro Şokolad Bitki Südü 1l",
-            "norm": "alpro şokolad bitki südü 1l",
-            "price": 10.49
           },
           {
             "name": "Azərsüd Süd 3.2% 1l",
@@ -376,6 +376,11 @@
             "price": 3.29
           },
           {
+            "name": "Milla Laktozasız Süd 1.5% 1l",
+            "norm": "milla laktozasız süd 1.5% 1l",
+            "price": 3.49
+          },
+          {
             "name": "Slavyanskoye Süd 2.5% 1l",
             "norm": "slavyanskoye süd 2.5% 1l",
             "price": 2.79
@@ -404,11 +409,6 @@
             "name": "Atena Süd Uht 1.5% 1l",
             "norm": "atena süd uht 1.5% 1l",
             "price": 2.79
-          },
-          {
-            "name": "Alpro Şokolad Bitki Südü 1l",
-            "norm": "alpro şokolad bitki südü 1l",
-            "price": 10.49
           },
           {
             "name": "Slavyanskoye Süd 0.5% 1l",
