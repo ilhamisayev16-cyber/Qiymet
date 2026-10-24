@@ -1,5 +1,5 @@
 {
-  "last_updated": "23 October 2026, 20:50",
+  "last_updated": "24 October 2026, 02:42",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -473,14 +473,14 @@
             "price": 2.79
           },
           {
-            "name": "Parmalat Süd Laktozasız 3.5% 1 L",
-            "norm": "parmalat süd laktozasız 3.5% 1 l",
-            "price": 4.99
-          },
-          {
             "name": "Savuskin Pr.1lt Süd 3,1% Paket",
             "norm": "savuskin pr.1lt süd 3.1% paket",
             "price": 3.1
+          },
+          {
+            "name": "Parmalat Süd Laktozasız 3.5% 1 L",
+            "norm": "parmalat süd laktozasız 3.5% 1 l",
+            "price": 4.99
           },
           {
             "name": "Süd Y belous 3 2% T/p 1 Lt",
