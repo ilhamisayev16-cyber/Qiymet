@@ -1,5 +1,5 @@
 {
-  "last_updated": "30 October 2026, 17:31",
+  "last_updated": "30 October 2026, 21:50",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -8,7 +8,7 @@
           {
             "name": "Azərsüd Süd 3.2% 1l",
             "norm": "azərsüd süd 3.2% 1l",
-            "price": 2.29
+            "price": 1.99
           },
           {
             "name": "Azərsüd Laktozasız Süd Tetrapack 1.5% 1l",
@@ -151,9 +151,14 @@
             "price": 2.25
           },
           {
+            "name": "Zdorovoye Menyu Soya Südü 1% 1 Lt",
+            "norm": "zdorovoye menyu soya südü 1% 1 lt",
+            "price": 6.65
+          },
+          {
             "name": "Azərsüd Süd 3.2% 1l",
             "norm": "azərsüd süd 3.2% 1l",
-            "price": 2.29
+            "price": 1.99
           },
           {
             "name": "Green Milk Kokos Südü 1 L",
@@ -293,7 +298,7 @@
           {
             "name": "Azərsüd Süd 3.2% 1l",
             "norm": "azərsüd süd 3.2% 1l",
-            "price": 2.29
+            "price": 1.99
           },
           {
             "name": "Milla Süd 3.2% 1l",
@@ -876,6 +881,11 @@
             "price": 2.9
           },
           {
+            "name": "Milla UHT Süd 3.2% 1L",
+            "norm": "milla uht süd 3.2% 1l",
+            "price": 2.89
+          },
+          {
             "name": "Azersud Ayran 1L",
             "norm": "azersud ayran 1l",
             "price": 2.59
@@ -886,9 +896,19 @@
             "price": 2.9
           },
           {
+            "name": "Milla UHT Süd 3.2% 1L",
+            "norm": "milla uht süd 3.2% 1l",
+            "price": 2.89
+          },
+          {
             "name": "Azersud Süd 3.2% 1L",
             "norm": "azersud süd 3.2% 1l",
             "price": 2.9
+          },
+          {
+            "name": "Milla UHT Süd 3.2% 1L",
+            "norm": "milla uht süd 3.2% 1l",
+            "price": 2.89
           },
           {
             "name": "Azersud Ayran 1L",
