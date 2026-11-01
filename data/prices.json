@@ -1,5 +1,5 @@
 {
-  "last_updated": "01 November 2026, 12:24",
+  "last_updated": "01 November 2026, 21:31",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -144,6 +144,11 @@
             "name": "Kalleh Süd 3% Tetra Pak 1l",
             "norm": "kalleh süd 3% tetra pak 1l",
             "price": 2.25
+          },
+          {
+            "name": "Zdorovoye Menyu Soya Südü 1% 1 Lt",
+            "norm": "zdorovoye menyu soya südü 1% 1 lt",
+            "price": 6.65
           },
           {
             "name": "Azərsüd Süd 3.2% 1l",
