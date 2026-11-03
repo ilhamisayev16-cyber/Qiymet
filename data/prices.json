@@ -1,5 +1,5 @@
 {
-  "last_updated": "02 November 2026, 14:20",
+  "last_updated": "03 November 2026, 00:14",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -144,6 +144,11 @@
             "name": "Kalleh Süd 3% Tetra Pak 1l",
             "norm": "kalleh süd 3% tetra pak 1l",
             "price": 2.25
+          },
+          {
+            "name": "Zdorovoye Menyu Soya Südü 1% 1 Lt",
+            "norm": "zdorovoye menyu soya südü 1% 1 lt",
+            "price": 6.65
           },
           {
             "name": "Azərsüd Süd 3.2% 1l",
@@ -543,11 +548,6 @@
             "price": 2.8
           },
           {
-            "name": "Azər Süd 0.3% 1 l",
-            "norm": "azər süd 0.3% 1 l",
-            "price": 2.59
-          },
-          {
             "name": "Atena Süd 2.4% 1 l",
             "norm": "atena süd 2.4% 1 l",
             "price": 2.79
@@ -556,6 +556,11 @@
             "name": "Atena Süd 1.5% 1 l",
             "norm": "atena süd 1.5% 1 l",
             "price": 2.69
+          },
+          {
+            "name": "Azərsüd Ayran Nanəli 1 L",
+            "norm": "azərsüd ayran nanəli 1 l",
+            "price": 2.59
           },
           {
             "name": "Alpro Süd Badam 1L",
@@ -676,11 +681,6 @@
             "name": "Savuskin Pr.1 lt Süd 1,5% Paket",
             "norm": "savuskin pr.1 lt süd 1.5% paket",
             "price": 2.8
-          },
-          {
-            "name": "Azər Süd 0.3% 1 l",
-            "norm": "azər süd 0.3% 1 l",
-            "price": 2.59
           },
           {
             "name": "Atena Süd 2.4% 1 l",
@@ -826,11 +826,6 @@
             "name": "Parmalat Süd 1.8% 1 L",
             "norm": "parmalat süd 1.8% 1 l",
             "price": 3.9
-          },
-          {
-            "name": "Azər Süd 0.3% 1 l",
-            "norm": "azər süd 0.3% 1 l",
-            "price": 2.59
           },
           {
             "name": "Atena Süd 2.4% 1 l",
