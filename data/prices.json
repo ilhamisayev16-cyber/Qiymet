@@ -1,5 +1,5 @@
 {
-  "last_updated": "04 November 2026, 04:09",
+  "last_updated": "04 November 2026, 13:32",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -146,6 +146,11 @@
             "price": 10.49
           },
           {
+            "name": "Zdorovoye Menyu Soya Südü 1% 1 Lt",
+            "norm": "zdorovoye menyu soya südü 1% 1 lt",
+            "price": 6.65
+          },
+          {
             "name": "Azərsüd Süd 3.2% 1l",
             "norm": "azərsüd süd 3.2% 1l",
             "price": 2.29
@@ -181,14 +186,14 @@
             "price": 2.69
           },
           {
-            "name": "Milla Süd 0.1% 1l",
-            "norm": "milla süd 0.1% 1l",
-            "price": 2.59
-          },
-          {
             "name": "Milla Süd 2 5% 1l",
             "norm": "milla süd 2 5% 1l",
             "price": 2.79
+          },
+          {
+            "name": "Milla Süd 0.1% 1l",
+            "norm": "milla süd 0.1% 1l",
+            "price": 2.59
           },
           {
             "name": "Milla Süd 1.5% 1l",
@@ -306,14 +311,14 @@
             "price": 2.69
           },
           {
-            "name": "Milla Süd 0.1% 1l",
-            "norm": "milla süd 0.1% 1l",
-            "price": 2.59
-          },
-          {
             "name": "Milla Süd 2 5% 1l",
             "norm": "milla süd 2 5% 1l",
             "price": 2.79
+          },
+          {
+            "name": "Milla Süd 0.1% 1l",
+            "norm": "milla süd 0.1% 1l",
+            "price": 2.59
           },
           {
             "name": "Belous Süd 3.2% 1l",
