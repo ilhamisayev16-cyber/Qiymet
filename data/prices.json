@@ -1,5 +1,5 @@
 {
-  "last_updated": "05 November 2026, 13:46",
+  "last_updated": "05 November 2026, 23:04",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -139,6 +139,11 @@
             "name": "Alpro Şokolad Bitki Südü 1l",
             "norm": "alpro şokolad bitki südü 1l",
             "price": 10.49
+          },
+          {
+            "name": "Zdorovoye Menyu Soya Südü 1% 1 Lt",
+            "norm": "zdorovoye menyu soya südü 1% 1 lt",
+            "price": 6.65
           },
           {
             "name": "Green Milk Kokos Südü 1 L",
@@ -493,11 +498,6 @@
             "price": 2.89
           },
           {
-            "name": "Azər Süd 1lt Kefir 1.5% (Plastik Qabda)",
-            "norm": "azər süd 1lt kefir 1.5% (plastik qabda)",
-            "price": 2.7
-          },
-          {
             "name": "Parmalat Süd Protein 1.8% 1 L",
             "norm": "parmalat süd protein 1.8% 1 l",
             "price": 5.3
@@ -723,11 +723,6 @@
             "price": 3.49
           },
           {
-            "name": "Azər Süd 1lt Kefir 1.5% (Plastik Qabda)",
-            "norm": "azər süd 1lt kefir 1.5% (plastik qabda)",
-            "price": 2.7
-          },
-          {
             "name": "Milla Süd 3.2% 1 l",
             "norm": "milla süd 3.2% 1 l",
             "price": 2.89
@@ -833,7 +828,7 @@
           {
             "name": "Azersud Ayran 1L",
             "norm": "azersud ayran 1l",
-            "price": 2.59
+            "price": 2.15
           },
           {
             "name": "Azersud Süd 3.2% 1L",
@@ -858,7 +853,7 @@
           {
             "name": "Azersud Ayran 1L",
             "norm": "azersud ayran 1l",
-            "price": 2.59
+            "price": 2.15
           }
         ]
       }
