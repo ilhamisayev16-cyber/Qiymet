@@ -1,5 +1,5 @@
 {
-  "last_updated": "05 November 2026, 23:04",
+  "last_updated": "06 November 2026, 04:28",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -763,14 +763,14 @@
             "price": 5.5
           },
           {
-            "name": "Azər Süd 1.5% 1 l",
-            "norm": "azər süd 1.5% 1 l",
-            "price": 2.19
-          },
-          {
             "name": "Parmalat Süd Laktozasız 3.5% 1 L",
             "norm": "parmalat süd laktozasız 3.5% 1 l",
             "price": 4.99
+          },
+          {
+            "name": "Azər Süd 1.5% 1 l",
+            "norm": "azər süd 1.5% 1 l",
+            "price": 2.19
           },
           {
             "name": "Parmalat Süd Laktozasız 1.8% 1 L",
