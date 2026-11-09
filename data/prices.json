@@ -1,5 +1,5 @@
 {
-  "last_updated": "08 November 2026, 21:30",
+  "last_updated": "09 November 2026, 03:52",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -518,14 +518,14 @@
             "price": 4.9
           },
           {
-            "name": "Azər Süd 1.5% 1 l",
-            "norm": "azər süd 1.5% 1 l",
-            "price": 2.19
-          },
-          {
             "name": "Parmalat Süd Protein + Kollagen 1.8% 1 L",
             "norm": "parmalat süd protein + kollagen 1.8% 1 l",
             "price": 5.5
+          },
+          {
+            "name": "Azər Süd 1.5% 1 l",
+            "norm": "azər süd 1.5% 1 l",
+            "price": 2.19
           },
           {
             "name": "Savuskin Pr.1 lt Süd 1,5% Paket",
@@ -768,11 +768,6 @@
             "price": 2.39
           },
           {
-            "name": "Azər Süd 1.5% 1 l",
-            "norm": "azər süd 1.5% 1 l",
-            "price": 2.19
-          },
-          {
             "name": "Parmalat Süd Protein + Kollagen 1.8% 1 L",
             "norm": "parmalat süd protein + kollagen 1.8% 1 l",
             "price": 5.5
@@ -781,6 +776,11 @@
             "name": "Parmalat Süd Laktozasız 3.5% 1 L",
             "norm": "parmalat süd laktozasız 3.5% 1 l",
             "price": 4.99
+          },
+          {
+            "name": "Azər Süd 1.5% 1 l",
+            "norm": "azər süd 1.5% 1 l",
+            "price": 2.19
           },
           {
             "name": "Parmalat Süd Laktozasız 1.8% 1 L",
