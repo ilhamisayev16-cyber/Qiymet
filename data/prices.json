@@ -1,5 +1,5 @@
 {
-  "last_updated": "10 November 2026, 01:00",
+  "last_updated": "10 November 2026, 14:01",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -458,11 +458,6 @@
             "price": 2.79
           },
           {
-            "name": "Milla Süd 2.5% 1 l",
-            "norm": "milla süd 2.5% 1 l",
-            "price": 2.39
-          },
-          {
             "name": "Savuskin Pr.1lt Süd 3,1% Paket",
             "norm": "savuskin pr.1lt süd 3.1% paket",
             "price": 2.65
@@ -471,6 +466,11 @@
             "name": "Parmalat Süd Laktozasız 3.5% 1 L",
             "norm": "parmalat süd laktozasız 3.5% 1 l",
             "price": 4.99
+          },
+          {
+            "name": "Milla Süd 2.5% 1 l",
+            "norm": "milla süd 2.5% 1 l",
+            "price": 2.39
           },
           {
             "name": "Süd Y belous 3 2% T/p 1 Lt",
@@ -583,14 +583,14 @@
             "price": 2.79
           },
           {
-            "name": "Milla Süd 2.5% 1 l",
-            "norm": "milla süd 2.5% 1 l",
-            "price": 2.39
-          },
-          {
             "name": "Savuskin Pr.1lt Süd 3,1% Paket",
             "norm": "savuskin pr.1lt süd 3.1% paket",
             "price": 2.65
+          },
+          {
+            "name": "Milla Süd 2.5% 1 l",
+            "norm": "milla süd 2.5% 1 l",
+            "price": 2.39
           },
           {
             "name": "Parmalat 1 lt Süd 3,5% Paket",
@@ -763,11 +763,6 @@
             "price": 3.35
           },
           {
-            "name": "Milla Süd 2.5% 1 l",
-            "norm": "milla süd 2.5% 1 l",
-            "price": 2.39
-          },
-          {
             "name": "Parmalat Süd Protein + Kollagen 1.8% 1 L",
             "norm": "parmalat süd protein + kollagen 1.8% 1 l",
             "price": 5.5
@@ -776,6 +771,11 @@
             "name": "Parmalat Süd Laktozasız 3.5% 1 L",
             "norm": "parmalat süd laktozasız 3.5% 1 l",
             "price": 4.99
+          },
+          {
+            "name": "Milla Süd 2.5% 1 l",
+            "norm": "milla süd 2.5% 1 l",
+            "price": 2.39
           },
           {
             "name": "Azər Süd 1.5% 1 l",
