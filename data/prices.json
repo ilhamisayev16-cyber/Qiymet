@@ -1,5 +1,5 @@
 {
-  "last_updated": "11 November 2026, 23:53",
+  "last_updated": "12 November 2026, 05:06",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -86,6 +86,11 @@
             "price": 2.59
           },
           {
+            "name": "Atena Süd Uht 1.5% 1l",
+            "norm": "atena süd uht 1.5% 1l",
+            "price": 2.79
+          },
+          {
             "name": "Belous Süd 2.5% 1l",
             "norm": "belous süd 2.5% 1l",
             "price": 3.29
@@ -118,11 +123,6 @@
           {
             "name": "Slavyanskoye Süd 2.5% 1l",
             "norm": "slavyanskoye süd 2.5% 1l",
-            "price": 2.79
-          },
-          {
-            "name": "Atena Süd Uht 1.5% 1l",
-            "norm": "atena süd uht 1.5% 1l",
             "price": 2.79
           },
           {
@@ -241,6 +241,11 @@
             "price": 2.59
           },
           {
+            "name": "Atena Süd Uht 1.5% 1l",
+            "norm": "atena süd uht 1.5% 1l",
+            "price": 2.79
+          },
+          {
             "name": "Atena Uht Süd 3.2% 1 Lt",
             "norm": "atena uht süd 3.2% 1 lt",
             "price": 2.99
@@ -248,11 +253,6 @@
           {
             "name": "Slavyanskoye Süd 2.5% 1l",
             "norm": "slavyanskoye süd 2.5% 1l",
-            "price": 2.79
-          },
-          {
-            "name": "Atena Süd Uht 1.5% 1l",
-            "norm": "atena süd uht 1.5% 1l",
             "price": 2.79
           },
           {
@@ -381,11 +381,6 @@
             "price": 2.65
           },
           {
-            "name": "Atena Süd Uht 1.5% 1l",
-            "norm": "atena süd uht 1.5% 1l",
-            "price": 2.79
-          },
-          {
             "name": "Alpro Şokolad Bitki Südü 1l",
             "norm": "alpro şokolad bitki südü 1l",
             "price": 10.49
@@ -394,6 +389,11 @@
             "name": "Slavyanskoye Süd 0.5% 1l",
             "norm": "slavyanskoye süd 0.5% 1l",
             "price": 2.59
+          },
+          {
+            "name": "Atena Süd Uht 1.5% 1l",
+            "norm": "atena süd uht 1.5% 1l",
+            "price": 2.79
           },
           {
             "name": "Green Milk Kokos Südü 1 L",
@@ -538,6 +538,11 @@
             "price": 2.59
           },
           {
+            "name": "Atena Süd 0.5% 1 L",
+            "norm": "atena süd 0.5% 1 l",
+            "price": 2.59
+          },
+          {
             "name": "Milla 1lt Süd 2% Şokoladlı Paket",
             "norm": "milla 1lt süd 2% şokoladlı paket",
             "price": 3.49
@@ -546,11 +551,6 @@
             "name": "Atena Light Süd 0.3% 1 L",
             "norm": "atena light süd 0.3% 1 l",
             "price": 2.5
-          },
-          {
-            "name": "Atena Süd 0.5% 1 L",
-            "norm": "atena süd 0.5% 1 l",
-            "price": 2.59
           },
           {
             "name": "Süd Y belous 2 5% T/p 1 Lt",
@@ -688,14 +688,14 @@
             "price": 2.9
           },
           {
-            "name": "Atena Light Süd 0.3% 1 L",
-            "norm": "atena light süd 0.3% 1 l",
-            "price": 2.5
-          },
-          {
             "name": "Atena Süd 0.5% 1 L",
             "norm": "atena süd 0.5% 1 l",
             "price": 2.59
+          },
+          {
+            "name": "Atena Light Süd 0.3% 1 L",
+            "norm": "atena light süd 0.3% 1 l",
+            "price": 2.5
           },
           {
             "name": "Süd Y belous 2 5% T/p 1 Lt",
