@@ -1,5 +1,5 @@
 {
-  "last_updated": "16 November 2026, 14:23",
+  "last_updated": "17 November 2026, 01:21",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -468,14 +468,14 @@
             "price": 2.65
           },
           {
-            "name": "Parmalat Süd Laktozasız 3.5% 1 L",
-            "norm": "parmalat süd laktozasız 3.5% 1 l",
-            "price": 4.99
-          },
-          {
             "name": "Milla Süd 2.5% 1 l",
             "norm": "milla süd 2.5% 1 l",
             "price": 2.39
+          },
+          {
+            "name": "Parmalat Süd Laktozasız 3.5% 1 L",
+            "norm": "parmalat süd laktozasız 3.5% 1 l",
+            "price": 4.99
           },
           {
             "name": "Süd Y belous 3 2% T/p 1 Lt",
@@ -513,11 +513,6 @@
             "price": 2.89
           },
           {
-            "name": "Azər Süd 1lt Kefir 1.5% (Plastik Qabda)",
-            "norm": "azər süd 1lt kefir 1.5% (plastik qabda)",
-            "price": 2.7
-          },
-          {
             "name": "Parmalat Süd Protein 1.8% 1 L",
             "norm": "parmalat süd protein 1.8% 1 l",
             "price": 5.3
@@ -533,11 +528,6 @@
             "price": 2.19
           },
           {
-            "name": "Parmalat Süd Protein + Kollagen 1.8% 1 L",
-            "norm": "parmalat süd protein + kollagen 1.8% 1 l",
-            "price": 5.5
-          },
-          {
             "name": "Atena Süd 2.4% 1 l",
             "norm": "atena süd 2.4% 1 l",
             "price": 2.79
@@ -551,11 +541,6 @@
             "name": "Azər Süd Ayran 1.4% 1 l",
             "norm": "azər süd ayran 1.4% 1 l",
             "price": 2.59
-          },
-          {
-            "name": "Atena Süd 1.5% 1 l",
-            "norm": "atena süd 1.5% 1 l",
-            "price": 2.69
           },
           {
             "name": "Alpro Süd Badam 1L",
@@ -693,11 +678,6 @@
             "price": 2.8
           },
           {
-            "name": "Atena Süd 1.5% 1 l",
-            "norm": "atena süd 1.5% 1 l",
-            "price": 2.69
-          },
-          {
             "name": "Alpro Süd Badam 1L",
             "norm": "alpro süd badam 1l",
             "price": 9.99
@@ -711,11 +691,6 @@
             "name": "Alpro Süd Kokos 1L",
             "norm": "alpro süd kokos 1l",
             "price": 9.99
-          },
-          {
-            "name": "Parmalat Süd Protein + Kollagen 1.8% 1 L",
-            "norm": "parmalat süd protein + kollagen 1.8% 1 l",
-            "price": 5.5
           },
           {
             "name": "Milla Süd 0,1% 1 l",
@@ -773,11 +748,6 @@
             "price": 3.49
           },
           {
-            "name": "Azər Süd 1lt Kefir 1.5% (Plastik Qabda)",
-            "norm": "azər süd 1lt kefir 1.5% (plastik qabda)",
-            "price": 2.7
-          },
-          {
             "name": "Milla Süd 3.2% 1 l",
             "norm": "milla süd 3.2% 1 l",
             "price": 2.89
@@ -818,19 +788,14 @@
             "price": 2.19
           },
           {
-            "name": "Parmalat Süd Protein + Kollagen 1.8% 1 L",
-            "norm": "parmalat süd protein + kollagen 1.8% 1 l",
-            "price": 5.5
+            "name": "Milla Süd 2.5% 1 l",
+            "norm": "milla süd 2.5% 1 l",
+            "price": 2.39
           },
           {
             "name": "Parmalat Süd Laktozasız 3.5% 1 L",
             "norm": "parmalat süd laktozasız 3.5% 1 l",
             "price": 4.99
-          },
-          {
-            "name": "Milla Süd 2.5% 1 l",
-            "norm": "milla süd 2.5% 1 l",
-            "price": 2.39
           },
           {
             "name": "Parmalat Süd Laktozasız 1.8% 1 L",
@@ -861,11 +826,6 @@
             "name": "Azər Süd Ayran 1.4% 1 l",
             "norm": "azər süd ayran 1.4% 1 l",
             "price": 2.59
-          },
-          {
-            "name": "Atena Süd 1.5% 1 l",
-            "norm": "atena süd 1.5% 1 l",
-            "price": 2.69
           },
           {
             "name": "Atena Light Süd 0.3% 1 L",
