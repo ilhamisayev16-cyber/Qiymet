@@ -1,5 +1,5 @@
 {
-  "last_updated": "21 November 2026, 22:38",
+  "last_updated": "22 November 2026, 04:20",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -181,14 +181,14 @@
             "price": 2.69
           },
           {
-            "name": "Azərsüd Süd 1.5% 1l",
-            "norm": "azərsüd süd 1.5% 1l",
-            "price": 2.69
-          },
-          {
             "name": "Milla Süd 2 5% 1l",
             "norm": "milla süd 2 5% 1l",
             "price": 2.35
+          },
+          {
+            "name": "Azərsüd Süd 1.5% 1l",
+            "norm": "azərsüd süd 1.5% 1l",
+            "price": 2.69
           },
           {
             "name": "Milla Süd 0.1% 1l",
@@ -306,14 +306,14 @@
             "price": 2.69
           },
           {
-            "name": "Azərsüd Süd 1.5% 1l",
-            "norm": "azərsüd süd 1.5% 1l",
-            "price": 2.69
-          },
-          {
             "name": "Milla Süd 2 5% 1l",
             "norm": "milla süd 2 5% 1l",
             "price": 2.35
+          },
+          {
+            "name": "Azərsüd Süd 1.5% 1l",
+            "norm": "azərsüd süd 1.5% 1l",
+            "price": 2.69
           },
           {
             "name": "Belous Süd 3.2% 1l",
@@ -738,11 +738,6 @@
             "price": 3.35
           },
           {
-            "name": "Azər Süd 1.5% 1 l",
-            "norm": "azər süd 1.5% 1 l",
-            "price": 2.69
-          },
-          {
             "name": "Milla Süd 2.5% 1 l",
             "norm": "milla süd 2.5% 1 l",
             "price": 2.79
@@ -751,6 +746,11 @@
             "name": "Parmalat Süd Laktozasız 3.5% 1 L",
             "norm": "parmalat süd laktozasız 3.5% 1 l",
             "price": 4.99
+          },
+          {
+            "name": "Azər Süd 1.5% 1 l",
+            "norm": "azər süd 1.5% 1 l",
+            "price": 2.69
           },
           {
             "name": "Parmalat Süd Laktozasız 1.8% 1 L",
