@@ -1,5 +1,5 @@
 {
-  "last_updated": "25 November 2026, 01:46",
+  "last_updated": "25 November 2026, 16:33",
   "categories": {
     "sud": {
       "name": "Süd 1L",
@@ -56,6 +56,16 @@
             "price": 3.6
           },
           {
+            "name": "Parmalat Süd 1.8% Uht 1l",
+            "norm": "parmalat süd 1.8% uht 1l",
+            "price": 4.09
+          },
+          {
+            "name": "Parmalat Süd 3.5% Paket 1 L",
+            "norm": "parmalat süd 3.5% paket 1 l",
+            "price": 3.9
+          },
+          {
             "name": "Milla Süd 1.5% 1l",
             "norm": "milla süd 1.5% 1l",
             "price": 2.69
@@ -94,16 +104,6 @@
             "name": "Belous Süd 2.5% 1l",
             "norm": "belous süd 2.5% 1l",
             "price": 3.29
-          },
-          {
-            "name": "Parmalat Süd 3.5% Paket 1 L",
-            "norm": "parmalat süd 3.5% paket 1 l",
-            "price": 3.9
-          },
-          {
-            "name": "Parmalat Süd 1.8% Uht 1l",
-            "norm": "parmalat süd 1.8% uht 1l",
-            "price": 4.09
           },
           {
             "name": "Savuşkin Süd 3 1% 1l",
@@ -206,6 +206,16 @@
             "price": 3.6
           },
           {
+            "name": "Parmalat Süd 1.8% Uht 1l",
+            "norm": "parmalat süd 1.8% uht 1l",
+            "price": 4.09
+          },
+          {
+            "name": "Parmalat Süd 3.5% Paket 1 L",
+            "norm": "parmalat süd 3.5% paket 1 l",
+            "price": 3.9
+          },
+          {
             "name": "Azərsüd Süd 2.4% 1l",
             "norm": "azərsüd süd 2.4% 1l",
             "price": 2.29
@@ -214,16 +224,6 @@
             "name": "Belous Süd 2.5% 1l",
             "norm": "belous süd 2.5% 1l",
             "price": 3.29
-          },
-          {
-            "name": "Parmalat Süd 3.5% Paket 1 L",
-            "norm": "parmalat süd 3.5% paket 1 l",
-            "price": 3.9
-          },
-          {
-            "name": "Parmalat Süd 1.8% Uht 1l",
-            "norm": "parmalat süd 1.8% uht 1l",
-            "price": 4.09
           },
           {
             "name": "Azərsüd Süd 0.3% 1l",
@@ -321,6 +321,11 @@
             "price": 3.6
           },
           {
+            "name": "Parmalat Süd 1.8% Uht 1l",
+            "norm": "parmalat süd 1.8% uht 1l",
+            "price": 4.09
+          },
+          {
             "name": "Milla Süd 0.1% 1l",
             "norm": "milla süd 0.1% 1l",
             "price": 2.19
@@ -349,11 +354,6 @@
             "name": "Belous Süd 2.5% 1l",
             "norm": "belous süd 2.5% 1l",
             "price": 3.29
-          },
-          {
-            "name": "Parmalat Süd 1.8% Uht 1l",
-            "norm": "parmalat süd 1.8% uht 1l",
-            "price": 4.09
           },
           {
             "name": "Azərsüd Kefir 1l*12",
@@ -416,14 +416,14 @@
             "price": 7.85
           },
           {
-            "name": "Zdorovoye Menyu Kalsium Və Vitaminlə Zəngin Yulaf Südü 1% 1 Lt",
-            "norm": "zdorovoye menyu kalsium və vitaminlə zəngin yulaf südü 1% 1 lt",
-            "price": 6.39
-          },
-          {
             "name": "Parmalat Süd 3.5% Paket 1 L",
             "norm": "parmalat süd 3.5% paket 1 l",
             "price": 3.9
+          },
+          {
+            "name": "Zdorovoye Menyu Kalsium Və Vitaminlə Zəngin Yulaf Südü 1% 1 Lt",
+            "norm": "zdorovoye menyu kalsium və vitaminlə zəngin yulaf südü 1% 1 lt",
+            "price": 6.39
           },
           {
             "name": "Azərsüd Ayran Nanəli 1 L",
@@ -508,14 +508,14 @@
             "price": 2.69
           },
           {
-            "name": "Atena Süd 2.4% 1 l",
-            "norm": "atena süd 2.4% 1 l",
-            "price": 2.79
-          },
-          {
             "name": "Savuskin Pr.1 lt Süd 1,5% Paket",
             "norm": "savuskin pr.1 lt süd 1.5% paket",
             "price": 2.8
+          },
+          {
+            "name": "Atena Süd 2.4% 1 l",
+            "norm": "atena süd 2.4% 1 l",
+            "price": 2.79
           },
           {
             "name": "Alpro Süd Badam 1L",
@@ -628,14 +628,14 @@
             "price": 2.69
           },
           {
-            "name": "Atena Süd 2.4% 1 l",
-            "norm": "atena süd 2.4% 1 l",
-            "price": 2.79
-          },
-          {
             "name": "Savuskin Pr.1 lt Süd 1,5% Paket",
             "norm": "savuskin pr.1 lt süd 1.5% paket",
             "price": 2.8
+          },
+          {
+            "name": "Atena Süd 2.4% 1 l",
+            "norm": "atena süd 2.4% 1 l",
+            "price": 2.79
           },
           {
             "name": "Alpro Süd Badam 1L",
